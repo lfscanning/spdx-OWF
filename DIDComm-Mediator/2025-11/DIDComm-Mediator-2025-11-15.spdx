@@ -1,0 +1,2458 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_DIDComm-Mediator-2025-11-15.zip_1763280468.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-11-16T08:07:48Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: DIDComm-Mediator-2025-11-15.zip
+PackageFileName: DIDComm-Mediator-2025-11-15.zip
+SPDXID: SPDXRef-upload2045
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 86607b14652d958e8dc05c41aa41ed7117fd5cf1
+PackageChecksum: SHA1: 76a5ca1bc98088bcdebcfbc7d567b0a29589c119
+PackageChecksum: SHA256: ffd6f9684f94c53c6cafecacd2d1fe7a237781b18d1495ab2dfe5e88a9791a8c
+PackageChecksum: MD5: 1550a3f226656a8f11618203a0323742
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2045
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/LICENSE
+SPDXID: SPDXRef-item11733377
+FileChecksum: SHA1: 7b7ef1d566b865712bd39c479025d7d863053e25
+FileChecksum: SHA256: e324502e30a9eb43af98526799b7683762645b3319175911eb2f6886f4a4dae9
+FileChecksum: MD5: 4ba8a7ab3fee44ffee0d4ce5394ea17c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright 2020-present Hyperledger Contributors.
+Copyright 2021 Queen’s Printer for Ontario. Mostafa Youssef (https://github.com/MosCD3), Amit Padmani (https://github.com/nbAmit), Prasad Katkar (https://github.com/NB-PrasadKatkar), Mike Richardson (https://github.com/NB-MikeRichardson) </text>
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-socketdock/LICENSE
+SPDXID: SPDXRef-item11733629
+FileChecksum: SHA1: ca67420a170da59abb98a646870245b8cee48d25
+FileChecksum: SHA256: 177aa43a6265af865e486da750a283146dca95b762e9a52e0a68604b3ee8b7bf
+FileChecksum: MD5: 26bc8257c8639945666c5b10281a5d70
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright 2019 Province of British Columbia
+Copyright 2017-2019 Government of Canada </text>
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/README.md
+SPDXID: SPDXRef-item11733397
+FileChecksum: SHA1: 7af2ce6644b34a02a2c527786cebaf05aa87a076
+FileChecksum: SHA256: c021a22741a935937f5929ac17e6df404cab5356c4611cbb720e362d20c9e26d
+FileChecksum: MD5: dc711bfa0fbaf57f15e04c58057084dd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/afj/package.json
+SPDXID: SPDXRef-item11733619
+FileChecksum: SHA1: 20b9da522655732a6d96e958099cdc4d0e219e99
+FileChecksum: SHA256: b92f3de5f0ad7aa9c4b0c3ebed2aa52d8fe50ffbab487e3a5cfe16097eb6b000
+FileChecksum: MD5: 1579136ef8765fc2eed6c647752de68e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/package.json
+SPDXID: SPDXRef-item11733433
+FileChecksum: SHA1: 4f07145379f60c122d18c1d360f3b1781c5c0649
+FileChecksum: SHA256: eb30619aee5fd3745efcf1cb9bf5f980ca311d9a7bc25916f91a7f2ed3b85c09
+FileChecksum: MD5: 89ef5775d8266bff20ab66ec309ca7b0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/packages/message-pickup-repository-pg/package.json
+SPDXID: SPDXRef-item11733418
+FileChecksum: SHA1: 6d36508b80842d45c92af49f654e89f1fb4ab5cc
+FileChecksum: SHA256: 4ed4415c7a07ab347d1062d361df9e2255af297e3c556eb1aad5aa05bb17d2e9
+FileChecksum: MD5: 7fd697f6d65cacd86581bf47f0bb203f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/packages/message-pickup-repository-dynamodb/package.json
+SPDXID: SPDXRef-item11733431
+FileChecksum: SHA1: bf1e659743db72ba9289bd2194c4804961c8d764
+FileChecksum: SHA256: c0e6c838cef10cd90d12380af3302725c7e771013a428805dc8669da4d54cc50
+FileChecksum: MD5: 2b82b7190257d86de131c519a387cded
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/load-testing/results/locustMediatorMsg/20230321/report_1678754324.974773.html
+SPDXID: SPDXRef-item11733604
+FileChecksum: SHA1: fb7b55e180838016dcf3e9b2469ecb3b57a12e7e
+FileChecksum: SHA256: 821b236664eee4c551fa29485d0d23258a006085f40ac22376d0e51ed7bf306e
+FileChecksum: MD5: c9ed77e260067f6ead88d3c6db7a787f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> (c) 2005, 2015 jQuery Foundation, Inc. | jquery.org/license */
+copyright ownership. The ASF licenses this file to you under the Apache License, Version 2.0 (the License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at </text>
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/load-testing/results/locustMediatorMsg/20230327/report_1679960266.253084.html
+SPDXID: SPDXRef-item11733606
+FileChecksum: SHA1: 19fd9414f6112f1819a31dc18a16fff142ce08fb
+FileChecksum: SHA256: edcd9640fc5d45f413f87275ecefb0bfd7e214de9d8e8a4e05ef184308bdea83
+FileChecksum: MD5: 89409f6d5b67ffd29875144a49b799e8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> (c) 2005, 2015 jQuery Foundation, Inc. | jquery.org/license */
+copyright ownership. The ASF licenses this file to you under the Apache License, Version 2.0 (the License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at </text>
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/vite.config.js
+SPDXID: SPDXRef-item11733378
+FileChecksum: SHA1: 81ffc3df1f78a5492d9c84e412f15374ba26716d
+FileChecksum: SHA256: 36dd5fd94e2d8409e3780eab5f7cf8e660c0259e7693e8b7c26eb313b43667d7
+FileChecksum: MD5: 7d3ed8b1b46391af217bbaf6370e493d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/tsconfig.json
+SPDXID: SPDXRef-item11733379
+FileChecksum: SHA1: 2b37a78f2735899179e1335ecb8338f77fe6fb19
+FileChecksum: SHA256: 996c8c633f8559a3c4d225c13137f8e6b4be758a90530d15f9f77b6fee9add9a
+FileChecksum: MD5: fc2c63b4422a30f63bcb3c1504daee65
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/.vscode/settings.json
+SPDXID: SPDXRef-item11733381
+FileChecksum: SHA1: 281287223f0363d94c806ea789b11d744cdfb84a
+FileChecksum: SHA256: 28ce07d6391a01b1a54ee291ebf277a8db88066d74b7133f835bc7e670471d64
+FileChecksum: MD5: 504358bcd0d87fb438de0e0aae1a2402
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/.env.example
+SPDXID: SPDXRef-item11733382
+FileChecksum: SHA1: a7af6e73a71af687cd955964479fd8a298a62026
+FileChecksum: SHA256: 0102a42ea21204ce9593cfb0fe195821efa649043d1fb66daa85eaea9cef09d0
+FileChecksum: MD5: f3320fbf4d3874ed803fce43a5ba5c7c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/.github/actions/docker-build/action.yaml
+SPDXID: SPDXRef-item11733386
+FileChecksum: SHA1: c7fb3d99453f01707ce7fa3e3851fedcb74bf6d0
+FileChecksum: SHA256: 31f14cdd05e328c764e4eddca71f0be3daf72e66609f548666e2b3bc6159db97
+FileChecksum: MD5: b7f727a35a5626fa94b4b6121ca3463e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/.github/workflows/release.yml
+SPDXID: SPDXRef-item11733388
+FileChecksum: SHA1: 6f4aa5561f67931e96f10eef2aa958473f4df967
+FileChecksum: SHA256: 4b3f9c916b19c42f74d08e8f4701fa90d5a97960e112b0b97fcd2b56a73c617c
+FileChecksum: MD5: 2021eb15d74f00723070231e87642adc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/.github/workflows/quality.yml
+SPDXID: SPDXRef-item11733389
+FileChecksum: SHA1: 818f82413ff21495b9f747429763a8c9f78b911f
+FileChecksum: SHA256: e45be61a1352783c58a6b938bece638fab3d1696846d65218645cfad2f1d5cff
+FileChecksum: MD5: 8c035c0319bf0b55ff86abf5d035a28a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/.env.development
+SPDXID: SPDXRef-item11733390
+FileChecksum: SHA1: 1195e66ebc3a89a912e8c338d1e82485a4964fd2
+FileChecksum: SHA256: 23713287ac95c672f0c4cd6f89fb101d9097eda86666fd4b178f5114ab2b557b
+FileChecksum: MD5: 64e367226e1608e74e30309627a4502b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/.devcontainer/devcontainer.json
+SPDXID: SPDXRef-item11733392
+FileChecksum: SHA1: 7403caf1e8ffbfd28abdca14809c16b205cb638f
+FileChecksum: SHA256: 671082809dee1ae1263647c0d998b674c271b15e62ec9a1598d6b5618a871d48
+FileChecksum: MD5: 8893458a8730e7944bc6b331d6dfda5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/.devcontainer/docker-compose.yml
+SPDXID: SPDXRef-item11733393
+FileChecksum: SHA1: 38cf82d47422ddbe14c42207cef873e501578594
+FileChecksum: SHA256: c099a578ef7466a79b8ee3c211d00b1c3bb2b05eeda26002d1847119aaeda302
+FileChecksum: MD5: 2865bdc50e65a297f25fa4a6ce9067ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/.gitignore
+SPDXID: SPDXRef-item11733394
+FileChecksum: SHA1: cfca51982d58ad3fb9777b500b83e064da6d86d1
+FileChecksum: SHA256: c02084a806a31562f63474dffd794763dd0964afbcfd6e43e6069caeeaeb96bc
+FileChecksum: MD5: 6efb9c94e60afeffeefee1e867f9dfe2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/pnpm-lock.yaml
+SPDXID: SPDXRef-item11733395
+FileChecksum: SHA1: 18e49b80ac4a506cac47f798bcaf30e0f22c5a77
+FileChecksum: SHA256: 9dd9ec9fe8564468174c7d7fb605c4a144beccf10aa92effc6ac17f2c6c497ec
+FileChecksum: MD5: d0cc038e185b7983b9cc2c62b07bce95
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/pnpm-workspace.yaml
+SPDXID: SPDXRef-item11733396
+FileChecksum: SHA1: 4eb15d9c47911805ca9f87190db74b51e71bc95d
+FileChecksum: SHA256: 2a8054205efbfaf2d9b8b6516a165ce54cb44770c2fc3b1fff2c2497207d6b37
+FileChecksum: MD5: f0515769c4c4a70eab0961c39846bbef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/packages/message-pickup-repository-pg/docs/diagrams/minimalist-multi-instance-architecture.png
+SPDXID: SPDXRef-item11733402
+FileChecksum: SHA1: a05d565b39acc813cd6e99dacbff2c2d503f348c
+FileChecksum: SHA256: 291f4d0800834403595a52725def600827d63582f5664a9957700e78a93669c5
+FileChecksum: MD5: f732a7030877d7a8101141839ed6e27a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/packages/message-pickup-repository-pg/docs/diagrams/message-arrived-offline-client.png
+SPDXID: SPDXRef-item11733403
+FileChecksum: SHA1: 4cffc03625ec4988d90fc0af6a81675596c75d57
+FileChecksum: SHA256: 17262fdb1fd9c1ab38879f1e1f07498c8017b3620b9b8bdba029202a79ebfd9e
+FileChecksum: MD5: 1cba7c72c9f6efba543b0f0c4b9e634a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/packages/message-pickup-repository-pg/docs/diagrams/minimalist-multi-instance-architecture.puml
+SPDXID: SPDXRef-item11733404
+FileChecksum: SHA1: 5cbf5ee5db678f14008b4a11bd4d043df6c2a0cb
+FileChecksum: SHA256: 53e1d07a9fb27b9f3b26414442b8cfd77ec74a1d4cd5f89544890ccc27daf3e4
+FileChecksum: MD5: 1e07e0e0f426a750a0071dd8bcf8f330
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/packages/message-pickup-repository-pg/docs/diagrams/message-arrived-online-client.png
+SPDXID: SPDXRef-item11733405
+FileChecksum: SHA1: 4ea56340fa9df1388099e8f9fb60d782468add3d
+FileChecksum: SHA256: d5e1596bc01b368d2b0fca49c3bdcb56644bfdecff7cfda35f79facd8137aced
+FileChecksum: MD5: b3d3e305d10b5c9a48fdc745c1db545a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/packages/message-pickup-repository-pg/docs/diagrams/message-arrived-offline-client.puml
+SPDXID: SPDXRef-item11733406
+FileChecksum: SHA1: b54cf2bed92505d03c83fff6a76efb00586a8c9a
+FileChecksum: SHA256: e7e045cc93c52f0a2b9b3b74a11c402d0c5a9e623e06d6e5a6f7ed854277c47c
+FileChecksum: MD5: 2e669e6e70d8d030ef49b405782fc39b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/packages/message-pickup-repository-pg/docs/diagrams/message-arrived-online-client.puml
+SPDXID: SPDXRef-item11733407
+FileChecksum: SHA1: f37d52564946c24193c115459667a5e0861df918
+FileChecksum: SHA256: 59717a886db35fed3ce2bd286841445689ea5fb427d099a1b13627d0767d79da
+FileChecksum: MD5: e247f222c65942e552817fb8f38d7f6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/packages/message-pickup-repository-pg/tsconfig.json
+SPDXID: SPDXRef-item11733408
+FileChecksum: SHA1: 8433ef5d3799b37ec43870b137f99a8e6780bf88
+FileChecksum: SHA256: ca2c45476832fbd44d86bbf82fb955af9a544a3f5945688a61de8508fe162ac0
+FileChecksum: MD5: 8ee9b0a9021565b11409c04237493678
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/packages/message-pickup-repository-pg/src/interfaces.ts
+SPDXID: SPDXRef-item11733410
+FileChecksum: SHA1: 0502d73a97995e3e355c8123485299ea4636973e
+FileChecksum: SHA256: c8134018ba31e78392ba3030b19d3ab6ade9ce6407b12c6f6b20454baea4736a
+FileChecksum: MD5: 107e0944ed442a79c75c896fae25e985
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/packages/message-pickup-repository-pg/src/utils/buildPgDatabaseWithMigrations.ts
+SPDXID: SPDXRef-item11733412
+FileChecksum: SHA1: 89b951c90571794f20b540c6882c73626f012843
+FileChecksum: SHA256: 8cfcee69a4bf3f13e8086809a6028935917b1e3e6fe32d3f75221ed182989169
+FileChecksum: MD5: 10239ee22906edeada3e1402cd443efb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/packages/message-pickup-repository-pg/src/migrations/001-initial-schema.sql
+SPDXID: SPDXRef-item11733414
+FileChecksum: SHA1: 3f35baee18498c05fa59ce2c48bd9ff83f9e1d9a
+FileChecksum: SHA256: 697a5ba54c05d97e09970ca62c8b8e31ba691157c747b2e513df5319cc330f65
+FileChecksum: MD5: ef8ca2b387b03c666d9895bcb1a0d173
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/packages/message-pickup-repository-pg/src/index.ts
+SPDXID: SPDXRef-item11733415
+FileChecksum: SHA1: 21b0fa36551f7755ad09fb765c6385076de1c5a9
+FileChecksum: SHA256: 3ba46c4216b8bab50bb297ccad8f6c370330bde6a009512cd0d042b4fe7c954e
+FileChecksum: MD5: 599bec55dfd53f5c9b447f05b001fda5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/packages/message-pickup-repository-pg/src/PostgresMessagePickupRepository.ts
+SPDXID: SPDXRef-item11733416
+FileChecksum: SHA1: 156897aad9649f0f2566226a673a63bdcf30f05e
+FileChecksum: SHA256: 664fcca9e1ea540e83dba210aef9dda26f4f95b5c114fd03dfe5b4bc0a6487e1
+FileChecksum: MD5: ce812b7fc343420aaa46639075d35e9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/packages/message-pickup-repository-pg/README.md
+SPDXID: SPDXRef-item11733417
+FileChecksum: SHA1: 34f162ea85f34fc18d7e4eec638c636222545f49
+FileChecksum: SHA256: 12a6eaeef9ac1571023327dd9046369e1e360db2b908bafaaf5d52f2dcecd580
+FileChecksum: MD5: 7aeef61b8fd3bcfcfaac792afb820c5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/packages/message-pickup-repository-pg/tsconfig.build.json
+SPDXID: SPDXRef-item11733419
+FileChecksum: SHA1: d095aed9e33b873711f2c8199911cc1aae1e5755
+FileChecksum: SHA256: 2723d11887c5e4a6c15902a6b2ad5448b5e33432d1a8c2f923f9c950e6bc9a5c
+FileChecksum: MD5: ad902f3219730269f6bfaabcc9523f5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/packages/message-pickup-repository-dynamodb/tests/dynamoDbMessagePickupRepository.test.ts
+SPDXID: SPDXRef-item11733422
+FileChecksum: SHA1: aca5f6fbd0528dc7fb9978aa092ed264eb378281
+FileChecksum: SHA256: 59a086f064851c6001b1f96225dbaf61cccaf655821e1dcf2a95433055facbdf
+FileChecksum: MD5: 334905627658a854303ea22396cf0081
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/packages/message-pickup-repository-dynamodb/tests/client.test.ts
+SPDXID: SPDXRef-item11733423
+FileChecksum: SHA1: 7fbf0c49cd3e207fd85c56104b9ce7cfa11c935b
+FileChecksum: SHA256: 0007ceb1f34e5f1e1ebb0b2acdeb4e5de42c5527471fac08c579069aae7820fe
+FileChecksum: MD5: 5fd8fdd2bddf74d196958ad2e38bbbd0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/packages/message-pickup-repository-dynamodb/tsconfig.json
+SPDXID: SPDXRef-item11733424
+FileChecksum: SHA1: 2c0b0dda622604c8e2bdf65fb20f4a0b208b3cc2
+FileChecksum: SHA256: d4a7c5f6285fbb558c047982561df60f07292bc6d1a16dcdd73c932ca0932e4f
+FileChecksum: MD5: be9114f9ef4925165076054db63c52f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/packages/message-pickup-repository-dynamodb/src/DynamoDbMessagePickupRepository.ts
+SPDXID: SPDXRef-item11733426
+FileChecksum: SHA1: f4f35da587818e669ecd000b00f32c38af2b3271
+FileChecksum: SHA256: f343a63f1e2160e997903e9c9f68742da2cf033cca7f269e89c114656c36f873
+FileChecksum: MD5: 59c8da2419b8a6cb9ef39c8d7351d6bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/packages/message-pickup-repository-dynamodb/src/structure.ts
+SPDXID: SPDXRef-item11733427
+FileChecksum: SHA1: 4494d856f429bbe58ceedad8806a57efda4dbd9b
+FileChecksum: SHA256: 23292c679e741ba983e8ff7904db1b33e2b332b838877deefedf2749408c8d15
+FileChecksum: MD5: 421ec359a6a066d4973123edb0ef7cfb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/packages/message-pickup-repository-dynamodb/src/index.ts
+SPDXID: SPDXRef-item11733428
+FileChecksum: SHA1: b0709982c4c2282eb7f04da3c69751be6565a923
+FileChecksum: SHA256: 6284659b58c1581640144f81aa389ad83365f42e3da66063ec47670201102851
+FileChecksum: MD5: 9177ba7436a8c0c11d0f9e27cd97147f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/packages/message-pickup-repository-dynamodb/src/client.ts
+SPDXID: SPDXRef-item11733429
+FileChecksum: SHA1: 47c6ab526c6908976029b79e425109017d74f2b4
+FileChecksum: SHA256: 01ee13cb86e346c30880527d6fb56662f83fe6b180d948e331111f7b2ec98937
+FileChecksum: MD5: 958f3f25cc84c3ef9b65bdbc6dfb8487
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/packages/message-pickup-repository-dynamodb/README.md
+SPDXID: SPDXRef-item11733430
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/packages/message-pickup-repository-dynamodb/tsconfig.build.json
+SPDXID: SPDXRef-item11733432
+FileChecksum: SHA1: d095aed9e33b873711f2c8199911cc1aae1e5755
+FileChecksum: SHA256: 2723d11887c5e4a6c15902a6b2ad5448b5e33432d1a8c2f923f9c950e6bc9a5c
+FileChecksum: MD5: ad902f3219730269f6bfaabcc9523f5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/charts/didcomm-mediator-credo/README.md
+SPDXID: SPDXRef-item11733436
+FileChecksum: SHA1: e6523905987beb08daf85635de9eaa4e9c30f734
+FileChecksum: SHA256: 20c6dbf463cbcd7f9ce2f39192dc0c4636c50c995ce43c9bd99a2bdae06452b7
+FileChecksum: MD5: a4bb2be3973a26acc03aee8eeda7511b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/dev.ts
+SPDXID: SPDXRef-item11733439
+FileChecksum: SHA1: 811ca45bc5bef5579c6edf65e58b6e3c46298cf6
+FileChecksum: SHA256: c1778534ad5e00850620f2c09105b42c038470092276127777c3072672906b62
+FileChecksum: MD5: 0d82bee7d8eb386820533f8d90cc1bf8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/tsconfig.json
+SPDXID: SPDXRef-item11733440
+FileChecksum: SHA1: 0896e5bf0b983d9017d2550ec4cc75955a9ebe22
+FileChecksum: SHA256: d68ad7cff053e81141458596781690fdaafe9c335732bf0d4ca642d1bae89ac9
+FileChecksum: MD5: c34cd5011eac490a489a4405a8b5fa4c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/src/agent.ts
+SPDXID: SPDXRef-item11733442
+FileChecksum: SHA1: bc9288d89d40540d87c8b3e721fefd22b365ecc7
+FileChecksum: SHA256: 2a9e4888824026289b7febe475ac49b3d9f52f7fdae495207437c7eb1b1edef6
+FileChecksum: MD5: 9cc5664ddc824c638bebcc163df7c5de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/src/push-notifications/fcm/repository/PushNotificationsFcmRepository.ts
+SPDXID: SPDXRef-item11733446
+FileChecksum: SHA1: bfd6c691e7015fbf0eb46e279809ff123edc6bca
+FileChecksum: SHA256: 980b8704f7fac37fd395d429276eceab686ab2c28679ced2173291c5b424f735
+FileChecksum: MD5: c5f4b07274ff1efa73517356a2e0f823
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/src/push-notifications/fcm/repository/PushNotificationsFcmRecord.ts
+SPDXID: SPDXRef-item11733447
+FileChecksum: SHA1: 4c93910ebf9c7c57f1bb66364614ada5758abc3e
+FileChecksum: SHA256: 0f12ae72b9daf6d42f226894b1aa969a9bce5d130b75891ece94eed1bbb0c8e9
+FileChecksum: MD5: 50c5c87e63babc071660436042504659
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/src/push-notifications/fcm/repository/index.ts
+SPDXID: SPDXRef-item11733448
+FileChecksum: SHA1: 268fd85e9dfef275b4e10b64a9441ee07ae9c78e
+FileChecksum: SHA256: fc78981f06ddc7837b03498e01c1911095309e89000d42e17b5f0bcc13566aa9
+FileChecksum: MD5: 0dca7619d701df48f63b83989de9bf78
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/src/push-notifications/fcm/errors/PushNotificationsFcmProblemReportReason.ts
+SPDXID: SPDXRef-item11733450
+FileChecksum: SHA1: 87a539cca029aef665458a57a524595fc466f814
+FileChecksum: SHA256: 378509a3fb78fa7dffbcf8f003ec0f1a10b52381955dbd7eaa9203219d2fbaac
+FileChecksum: MD5: ad03b85f85120940402c2c8ff3aa1cb7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/src/push-notifications/fcm/errors/index.ts
+SPDXID: SPDXRef-item11733451
+FileChecksum: SHA1: b35a0dc4ba6d75b815823cec085a2f2fb533b60e
+FileChecksum: SHA256: 628db3f45d055e06a90448cb48a76daa7597f460ef639d1988e57089703c8273
+FileChecksum: MD5: ea94744666300e975ff816d45ffc7ade
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/src/push-notifications/fcm/errors/PushNotificationsFcmProblemReportError.ts
+SPDXID: SPDXRef-item11733452
+FileChecksum: SHA1: 8cad1c3ebbc75312770bdbc915e1b54b837f89a4
+FileChecksum: SHA256: d2598849746263d6748dd6026829f15a2c9aa8ed0e1856f5bbdd6c639e8717eb
+FileChecksum: MD5: 5710fa180c7dde2eae081ffccf63c2fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/src/push-notifications/fcm/firebase.ts
+SPDXID: SPDXRef-item11733453
+FileChecksum: SHA1: 4e92fd978aa28ed16edc01e848db10acb5143f95
+FileChecksum: SHA256: 8c219fb8cd2d586001c7ed3ff4be1aa9e2bc74adf87223d760c05567f3d02384
+FileChecksum: MD5: e59df11d0cca81c40257bdd4ae7c293c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/src/push-notifications/fcm/PushNotificationsFcmModule.ts
+SPDXID: SPDXRef-item11733454
+FileChecksum: SHA1: 4b422ad6dc17f83e30c0f0e4f8e0ecb2e4bbc175
+FileChecksum: SHA256: 167c70119af08c677368640a083817a1756f4454173ca95685f0aeefb720b110
+FileChecksum: MD5: 9facb5983238091bdae6014bf7a3b333
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/src/push-notifications/fcm/events/PushNotificationEvent.ts
+SPDXID: SPDXRef-item11733456
+FileChecksum: SHA1: f7cc9aa9bc22d101e3ed5f566f6442503da30a05
+FileChecksum: SHA256: df59439a77c07d55ab5d9b1dc701dba5144b83dfc5cbc38613ffdd8684541f06
+FileChecksum: MD5: 5222c9a038731d0aa18f2273847b61d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/src/push-notifications/fcm/handlers/PushNotificationsFcmSetDeviceInfoHandler.ts
+SPDXID: SPDXRef-item11733458
+FileChecksum: SHA1: b83816e478b12e6b7c961a0250cf4b4c5e09f581
+FileChecksum: SHA256: 919ca3c6783e086c4342ba23d32d439219d9925b4eab22eab2a88776d1fb9a6a
+FileChecksum: MD5: 5d3bd35b3ec08ff46d0f6836d75b7fa5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/src/push-notifications/fcm/handlers/PushNotificationsFcmDeviceInfoHandler.ts
+SPDXID: SPDXRef-item11733459
+FileChecksum: SHA1: 2d678074741b2c335a16453d76c285b4d648bf90
+FileChecksum: SHA256: 6b22b8adcc2bc00629be2a96be3e71d7823f97603d2678b948d196ac6dcb7730
+FileChecksum: MD5: 16ff63725905a9f2244e41b7baebbb16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/src/push-notifications/fcm/handlers/index.ts
+SPDXID: SPDXRef-item11733460
+FileChecksum: SHA1: ace420f2306dfc2af1cb94c8a01dd313cb28dd2e
+FileChecksum: SHA256: 63d06534f59ef638f060921c8c0d16705557decf472570ec43eeb60ad5da63f1
+FileChecksum: MD5: c4a0f4a93203f928274d32bdcf0e569f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/src/push-notifications/fcm/handlers/PushNotificationsFcmProblemReportHandler.ts
+SPDXID: SPDXRef-item11733461
+FileChecksum: SHA1: 4493cfe89012c6b08cf4026128b690a674905fbe
+FileChecksum: SHA256: 1ea1f921c23b6197dde6f4bb9b2adbf52df74ae8c47cfb9b249acf1a6b9e9a6a
+FileChecksum: MD5: 92bbdebc01a315a85b17277cd44743fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/src/push-notifications/fcm/models/FcmDeviceInfo.ts
+SPDXID: SPDXRef-item11733463
+FileChecksum: SHA1: 595d0f88c946e8694bf96b41cc271fb58502f10e
+FileChecksum: SHA256: 396ef03fe12da1eccb69921ad69c5e2dc03a5add3d4178865238d55f36265a42
+FileChecksum: MD5: ffb339e6f7375e877e55fefad2f812d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/src/push-notifications/fcm/models/index.ts
+SPDXID: SPDXRef-item11733464
+FileChecksum: SHA1: 3a55abfe3379f1ec402392cee0e302b0294b898c
+FileChecksum: SHA256: 1c62e0d96d965fe7cf174c686da64f74953369d07f8ac9f104d8077393642783
+FileChecksum: MD5: 7938dad4401c943eca03a6293a8355ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/src/push-notifications/fcm/models/PushNotificationsFcmRole.ts
+SPDXID: SPDXRef-item11733465
+FileChecksum: SHA1: 3a47a56da73c8ce1bf3bcaba596887776cfeab36
+FileChecksum: SHA256: 8faf92940f76e88d379375b32f116c5db04765e3b0f20b26905bf1aa869aed29
+FileChecksum: MD5: 18fcb3c6bce72b449e46f053243127bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/src/push-notifications/fcm/services/PushNotificationsFcmService.ts
+SPDXID: SPDXRef-item11733467
+FileChecksum: SHA1: 5d258e5121adaf383300040a2483dfc5c4075b45
+FileChecksum: SHA256: 6075064f86ac9735ebb6eec291bfb36ccfb0100366eb569183304e5086de7b07
+FileChecksum: MD5: 32f554892f90047cf1ce11ecb5092c7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/src/push-notifications/fcm/services/index.ts
+SPDXID: SPDXRef-item11733468
+FileChecksum: SHA1: 88365af66a3a17bff07fecc2212e745d8371850d
+FileChecksum: SHA256: 8a52571e9e0f2dbd4e3b192f5c39c2a5a39695fcf631c2ed28669aacea334e8a
+FileChecksum: MD5: 28d4c98d581eb2c63f4b8e3f65b84e6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/src/push-notifications/fcm/PushNotificationsFcmApi.ts
+SPDXID: SPDXRef-item11733469
+FileChecksum: SHA1: e0ef2250e6afcd2ebc1e9a15c6a0aa9e2107153f
+FileChecksum: SHA256: 1a69466e806bd19a9403c0a6e7b2e28bade1be3ab56604c2aab2f67e30ab9ef7
+FileChecksum: MD5: 5bd886c753023faf745b09c1d4187ebd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/src/push-notifications/fcm/messages/PushNotificationsFcmSetDeviceInfoMessage.ts
+SPDXID: SPDXRef-item11733471
+FileChecksum: SHA1: f418813edeabb7f67fc90dd4c377f62021a6df57
+FileChecksum: SHA256: edd32868ddb718bb983466c452e560c374d59a14bd1a9380e4430cf9b5f89c4e
+FileChecksum: MD5: fede7bad0a8db0140d1232274b1a0a6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/src/push-notifications/fcm/messages/PushNotificationsFcmDeviceInfoMessage.ts
+SPDXID: SPDXRef-item11733472
+FileChecksum: SHA1: 0030446464f16d0d17e2ac190787dd4cdbcada2c
+FileChecksum: SHA256: 983006b2d6c0dad67b56f69ccc7531403caf90e2e7a24f204876956a8370add5
+FileChecksum: MD5: 87a164e22bd891bdf014c7d778bd265a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/src/push-notifications/fcm/messages/index.ts
+SPDXID: SPDXRef-item11733473
+FileChecksum: SHA1: cd595ef5314f14fc258b3dbfd79674f345403013
+FileChecksum: SHA256: 727e554fb1b7ada2aa6b22567b62a47ff8519ea5641d28120abbd82ed8c17bea
+FileChecksum: MD5: c3653bf31202a8481554b4c3c1ce6c1d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/src/push-notifications/fcm/messages/PushNotificationsFcmProblemReportMessage.ts
+SPDXID: SPDXRef-item11733474
+FileChecksum: SHA1: 5b6f2abc227cf2714e0b8f386d2e865275b0bc65
+FileChecksum: SHA256: d25187c49eb2f4e78e1e74830cb18e0492d252fbe615c9615867a2be35bcd8e4
+FileChecksum: MD5: ee24578da59159a2f05cd4fc7ca11578
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/src/push-notifications/fcm/index.ts
+SPDXID: SPDXRef-item11733475
+FileChecksum: SHA1: 398eb97c02069230bfcadb8dd3b630dba29ea34c
+FileChecksum: SHA256: f5e447570eaf1a2e08bcc7a504ee7b6e3bf006f7ccaf2b87c6394a15e4182492
+FileChecksum: MD5: fdd6b61c5cd2767902a010f61e93dd6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/src/database.ts
+SPDXID: SPDXRef-item11733476
+FileChecksum: SHA1: d7cc379665696ceb6410815670da83f536cc699a
+FileChecksum: SHA256: 7e3e2632ce98f0e3766a7ebfa4acce3965dc49c8036c7257b7e25f85adaa99b3
+FileChecksum: MD5: 8bde1f58a79bd68b25a359dccaed7520
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/src/config.ts
+SPDXID: SPDXRef-item11733477
+FileChecksum: SHA1: b828a5e6f0ea3903b788d05b58df7bb3990b3d6b
+FileChecksum: SHA256: 62b34ef14f5fef9afdc3cef3f6bcc52eb4994445b5d5faeaf796cb22bea5ba0c
+FileChecksum: MD5: 0f1eaacca0c9da6f40f2ce60ce977973
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/src/storage/MessageRepository.ts
+SPDXID: SPDXRef-item11733479
+FileChecksum: SHA1: 8132ee93acaa60e5d67bf40c905841d32d7447cd
+FileChecksum: SHA256: 08b74054b397be5f9c35245f3efd5ac69da1de05f0c87f564b5fa23501688d02
+FileChecksum: MD5: d61deb87c9d9300d9bb1ad8da1d9d8af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/src/storage/StorageMessageQueue.ts
+SPDXID: SPDXRef-item11733480
+FileChecksum: SHA1: 858b213b72c40fce5c31075f3c28b72f8df00051
+FileChecksum: SHA256: f059b428ffd2ad0161a5bc3db7c9f102bf452496f7fd1ef4b6427f081431815d
+FileChecksum: MD5: 7d7fe935fde980af185f60f523b9715a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/src/storage/StorageMessageQueueModule.ts
+SPDXID: SPDXRef-item11733481
+FileChecksum: SHA1: 53556ccbee549c00305214e108a6717bc7617178
+FileChecksum: SHA256: d270f7f5b4ed1a1efe5c3c45b071ce49cf6b387b58c52e75938cb4f5c6a2eebe
+FileChecksum: MD5: ba06f8b6bde2eeadc4cb2914d21b470d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/src/storage/MessageRecord.ts
+SPDXID: SPDXRef-item11733482
+FileChecksum: SHA1: d3b030fac0fd56a8fe06a5e513afe29609d12ae8
+FileChecksum: SHA256: 693da532afb9638184770639bc08fd8a903b1e7cb917e6b2e3899908e9c38143
+FileChecksum: MD5: c8342d59bf0f0452467ba6c27843a988
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/src/logger/replaceError.ts
+SPDXID: SPDXRef-item11733484
+FileChecksum: SHA1: 7c58b8124e9c93720a18ee567a04a4e6668b618d
+FileChecksum: SHA256: a93d0a82b9653b00798d2be64b552657fa90fbf691d96bfdd91eba8fade0c74a
+FileChecksum: MD5: 9e5c9f50a14fba880688212687b644b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/src/logger/Logger.ts
+SPDXID: SPDXRef-item11733485
+FileChecksum: SHA1: 0f4a1abb85841723ef6addf3f2f75dd5612acecd
+FileChecksum: SHA256: 08a608366a4ff008504e8218049ebb0e2f70e3aa8b9710808f323d4292cc975b
+FileChecksum: MD5: ffa8cef6f92d2246e037f1f20e462037
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/src/logger/index.ts
+SPDXID: SPDXRef-item11733486
+FileChecksum: SHA1: 0de50006eb1cbd5bcbdf44313390790db73e4ac0
+FileChecksum: SHA256: cba280556cde0def9a3646bd6b2ceb7d87cd13946fc461c45674fd40cf920b63
+FileChecksum: MD5: 4b783721d9e8c9f9ebb651b9bc484ebe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/src/index.ts
+SPDXID: SPDXRef-item11733487
+FileChecksum: SHA1: 671a2e6f43a0a21c69d9f983f0f167a827e00da5
+FileChecksum: SHA256: 3eaee9d7781d9ef660a4d8789fc5a6a067ab17d708a4598039506fa659374af4
+FileChecksum: MD5: 5409c604bf6675b04d5dc5f9c0f99472
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/src/pickup/tests/loader.test.ts
+SPDXID: SPDXRef-item11733490
+FileChecksum: SHA1: 73b8918c86f58a0ad1cb355c71c915b696c45035
+FileChecksum: SHA256: ff08e99d5aaecc6fd6860e84e56b6a14d466ddac99a964c3dff21b1ad2f1c695
+FileChecksum: MD5: 9ea72412304729fd73e9714e7c59edd1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/src/pickup/tests/postgresLoader.test.ts
+SPDXID: SPDXRef-item11733491
+FileChecksum: SHA1: 409973d2417ce6b1b18d0b80e28445a90c7f855b
+FileChecksum: SHA256: 1eb44dd9115d5cf3ab3372ebf405752b27de6b1fa46210aff7aa899b957bf97d
+FileChecksum: MD5: 3f6bc79b15e3f19e57137ee07fa6a02a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/src/pickup/postgresLoader.ts
+SPDXID: SPDXRef-item11733492
+FileChecksum: SHA1: e1d59bf452b8bad6ba3c1b8ea368b0fc007bd073
+FileChecksum: SHA256: 7d1e61ccfb3c06e0ff6c412f6c87240be25140b4cb00d1398285970cdfcfbe6c
+FileChecksum: MD5: f5470eb8bd9fc15bb04c68a290980356
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/src/pickup/loader.ts
+SPDXID: SPDXRef-item11733493
+FileChecksum: SHA1: 55afe68e17bf0f423fe1d714fe1c86a8c5bbe2f4
+FileChecksum: SHA256: 35e82ff98c2fd546dd5b4cad00f97d1440311c538f1fb399daefd5eefb1f2b39
+FileChecksum: MD5: e1d5e6003962b02ddad2150410d03983
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/src/pickup/type.ts
+SPDXID: SPDXRef-item11733494
+FileChecksum: SHA1: 21bce7316d6b1fee22704181700be4f673f283f3
+FileChecksum: SHA256: 1572c871b3e61552c332a280d7da94a0f3f6f16543fbb0f781d231610f7d5fc0
+FileChecksum: MD5: b484d8d2f546867ba9049cd05b49973f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/Dockerfile
+SPDXID: SPDXRef-item11733495
+FileChecksum: SHA1: 4d93471d05aa730aaca1400be33ac325ecb6f819
+FileChecksum: SHA256: e6df3193f6c0d2c20e03095c5fbbad6dda0956db86534375cfc3f7f311e466d4
+FileChecksum: MD5: d6f2b72a5b7571ff7d3385b5f40126fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/package.json
+SPDXID: SPDXRef-item11733496
+FileChecksum: SHA1: 22febf31bc565c17d62e4c4d01a5ba2401feeb73
+FileChecksum: SHA256: 955fe2a4be739fc6028464324e1c9fba4fb9854685446894f255b2ad546875ac
+FileChecksum: MD5: 5025057914912ad169ab9a7b0f72708b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/docker-compose.yml
+SPDXID: SPDXRef-item11733497
+FileChecksum: SHA1: 199f0580ee13d2b9d4596b1e244fdd5e061d4154
+FileChecksum: SHA256: 8163a1f71fd49ebd01a45922a80aee3c5dc1cd505543be5ec387419cb496706a
+FileChecksum: MD5: e9e19d7f4549f21b208c6dcd5f6dc8da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/apps/mediator/tsconfig.build.json
+SPDXID: SPDXRef-item11733498
+FileChecksum: SHA1: baddbbaaa967d0afc910f93fa6aa91e3c5ed3357
+FileChecksum: SHA256: aa7f846dd845d9d34c907b4e15a3f077f49d055cc98b2603dfe589f796ec103e
+FileChecksum: MD5: 48a57f6226206cc35ae0a5661643f83b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/.dockerignore
+SPDXID: SPDXRef-item11733499
+FileChecksum: SHA1: a1e780478348ede6b764cb1fffe3b9c9ca4bf505
+FileChecksum: SHA256: 4285dd0dcb41186ad939634e22e541bbfae413cdb04ca6a4204b34d4e559a133
+FileChecksum: MD5: b7ccb13815608001cd60d1e98b34519e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/tsconfig.build.json
+SPDXID: SPDXRef-item11733500
+FileChecksum: SHA1: 45286850093d17663919c6aa98d75934b6b9c877
+FileChecksum: SHA256: 7666fb3ee2e4a2bea9edc97261e2e44ce6473cc56922ef1bf7a82c1074790c7e
+FileChecksum: MD5: e246c04030faa7f9bb041d4a44979902
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-credo/biome.json
+SPDXID: SPDXRef-item11733501
+FileChecksum: SHA1: da081eaf3b622ba9309388ebb30cf2d698acea1a
+FileChecksum: SHA256: 11b06db4b958da7c04b213183abc4daf37d5ac79669a804b5c20fc539b3612c3
+FileChecksum: MD5: 56222a7a03d84145bf919ed56a384fe4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/caddy/Caddyfile
+SPDXID: SPDXRef-item11733504
+FileChecksum: SHA1: 7ba55d47cd6f93e577d695e156013f798b630ac2
+FileChecksum: SHA256: 5664d55e7c246de0176e714e16dcefc5a5849019730196bba82ceb76ebd64677
+FileChecksum: MD5: ba89ca49179c2b77f145fa2dbf0d6da4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/docker-compose.multi-agent.yml
+SPDXID: SPDXRef-item11733505
+FileChecksum: SHA1: eea6d9dd89f06fc54ad7fe18cfe57d376fd23b76
+FileChecksum: SHA256: 51f0d2d16d34c11f3a45f155c1797552ec42769ce401cff9f215f5fa1246c8dc
+FileChecksum: MD5: dff5a644f915caf491cd2bda59d6687d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/.github/dependabot.yml
+SPDXID: SPDXRef-item11733507
+FileChecksum: SHA1: 977ad12d9a7a7807e9b6b0a11a0177499738e383
+FileChecksum: SHA256: 15d47329f447359b6ab1dbceadf31be334b1c9a75d4a41228c36df0263aa00a3
+FileChecksum: MD5: 9491b59b7cc04bf17fb527720c75874f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/start.sh
+SPDXID: SPDXRef-item11733509
+FileChecksum: SHA1: 5ddd75fd899c76426371b44225972e615317a007
+FileChecksum: SHA256: 52bfafa55db4e025b025e6b82cb58100398454380976af546ea3267bb9f764df
+FileChecksum: MD5: 9b8613932cb1f12d148077dd666f286c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/controller/package-lock.json
+SPDXID: SPDXRef-item11733511
+FileChecksum: SHA1: 1ca44c0d902fecf6191682933a1f6379712c89c5
+FileChecksum: SHA256: 8289255ce158a4b5f560d8b48233080f362fbec0c9df97554c1cf8eb54fbe460
+FileChecksum: MD5: acb46722ebe3a959ff7f4fd406aee407
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/controller/tsconfig.json
+SPDXID: SPDXRef-item11733512
+FileChecksum: SHA1: 25e9351c6e0ce02f4aa1928aa5dfa89a62b6b2dc
+FileChecksum: SHA256: 6a7a0271ced6d4a3a4c686425aad27742026409294abbbde193cbedfa9eba94a
+FileChecksum: MD5: 55824f1dc437d9dd0f21caf9231ac393
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/controller/src/app.ts
+SPDXID: SPDXRef-item11733514
+FileChecksum: SHA1: e723cee6797783f1226bb5b42fbd108a2d61f76c
+FileChecksum: SHA256: 6b6f016c9a727b243d7ad065de643e527bf7fef9f3dfa51b8f174153156c4e7c
+FileChecksum: MD5: 7ca00e3be1c0c2feebb1b303e218f098
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/controller/src/channels.ts
+SPDXID: SPDXRef-item11733515
+FileChecksum: SHA1: 9790fe61f845cf4690afc5bef0caf1d6e32bd57d
+FileChecksum: SHA256: b6c341613d1e206cc9db768badc7dac7ac3e118b71b4ecbf153e6fa99dedc398
+FileChecksum: MD5: d31631e4ad68efec71f2547e0b5f120c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/controller/src/middleware/index.ts
+SPDXID: SPDXRef-item11733517
+FileChecksum: SHA1: 517bab5f7fc83e15a7fa21546721a1669ef3886e
+FileChecksum: SHA256: 3aced9af5144b65a5ae981daf6677e54f0d05afa114a6969daff4d144c084a1e
+FileChecksum: MD5: 2f4897a1993a7887b76adadebf0884ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/controller/src/utils/aca-py.ts
+SPDXID: SPDXRef-item11733519
+FileChecksum: SHA1: c9ca9a3f86763c170178f0efdaf2dc9e35ebb105
+FileChecksum: SHA256: 1e89a17ce42017dcd059263624954ddb5487d8abc1044c908223472a508b6fb3
+FileChecksum: MD5: 72a332dbf81c9211b8398da5e9e91a5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/controller/src/utils/sleep.ts
+SPDXID: SPDXRef-item11733520
+FileChecksum: SHA1: 7a9697a2363d31d1d3a6347fcde2f8b0c7fa661b
+FileChecksum: SHA256: 8181e14a898acc6c5bf78989ba3adde0ee3adf0b0d04c09ba04a461d4e1134c3
+FileChecksum: MD5: 2e8a4ebabbc599b1a47d59feace13753
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/controller/src/models/errors.ts
+SPDXID: SPDXRef-item11733522
+FileChecksum: SHA1: fa39f07695d6a5dd96a145423d7894bba372daf4
+FileChecksum: SHA256: 28df4315f7c525daa801109eed6be2108f49042734a635e0771048e889f13d45
+FileChecksum: MD5: 142b82e1d56499624fe01a7616a24780
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/controller/src/models/endorser.ts
+SPDXID: SPDXRef-item11733523
+FileChecksum: SHA1: 74bad251ab48179389eab4c8c1f0f0c750bdb06c
+FileChecksum: SHA256: b8bffe9aba487adafc84f503255d88348f7175423abe519f21735e0648cd7a6e
+FileChecksum: MD5: da1a73bf3ca559df989b0def3c610a74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/controller/src/models/enums.ts
+SPDXID: SPDXRef-item11733524
+FileChecksum: SHA1: bf46c2964ff058f1c6db8d1f9790f8e2c9c9e11c
+FileChecksum: SHA256: 0b1f5dfae2f5e7c20dc5e4c473310ef56fed31e24dd95c161987c031c4b01350
+FileChecksum: MD5: 16bfa7c05febf5c28af239b17c541e8d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/controller/src/services/webhooks/webhooks.hooks.ts
+SPDXID: SPDXRef-item11733527
+FileChecksum: SHA1: 3d208c018e48bd62753c780355853bc120eb7659
+FileChecksum: SHA256: a3f809598cabffede0da871529bc0a1b329fe3c94ba69493ae0b647b80413614
+FileChecksum: MD5: f5aeb0175aec10e88790674d398917dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/controller/src/services/webhooks/webhooks.class.ts
+SPDXID: SPDXRef-item11733528
+FileChecksum: SHA1: 39f7e282c92bfa00b8a2a92dd9e66bbb8f221af0
+FileChecksum: SHA256: 001b95cc538acaa047a742a76f6432064f16a8d536cc7fd7b8bd636124364f37
+FileChecksum: MD5: 543a8f2a5081e31bc8b663270efb9f3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/controller/src/services/webhooks/webhooks.service.ts
+SPDXID: SPDXRef-item11733529
+FileChecksum: SHA1: 8d529030f9edd7e76e39d3a0c2aef1f84f865381
+FileChecksum: SHA256: 2c02489eeed35d90f7b7e526e0be7aa4404a52689ed70c2a41222aaeba7e5938
+FileChecksum: MD5: 9ef7d4a89492b276e428fc30554546c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/controller/src/services/index.ts
+SPDXID: SPDXRef-item11733530
+FileChecksum: SHA1: 28995efe1dbbad84554f4ea307e37e4853cab860
+FileChecksum: SHA256: c2835fa750a864feb3e40345aebcca8ebed9e142384632beb511ec6c51ca82f5
+FileChecksum: MD5: 7696edc2980216e206807c19dd55f6dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/controller/src/services/aries-agent/aries-agent.service.ts
+SPDXID: SPDXRef-item11733532
+FileChecksum: SHA1: cd23bfd85feb1ab0d8d4f3dba142a8f4dd1fa4c5
+FileChecksum: SHA256: 6ab0a34352af2cc2e9451a13a6a476cc3a0e32fe1b43ed8de676f5c4f4df23a8
+FileChecksum: MD5: 6f62f77126d2378bcc5d5effb14db339
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/controller/src/services/aries-agent/aries-agent.hooks.ts
+SPDXID: SPDXRef-item11733533
+FileChecksum: SHA1: 763ce317633ac5ffcd18d353b9d2ab673b895cb1
+FileChecksum: SHA256: 459b4ecf2d91d465d47390bb7b257aaf323b9a2f10a112d3d6a35e410f8fb11e
+FileChecksum: MD5: a71c7e602c4eda3e999c6c4f7d16728d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/controller/src/services/aries-agent/aries-agent.class.ts
+SPDXID: SPDXRef-item11733534
+FileChecksum: SHA1: be971e5284177dd8b2dd4da9bac68f9b872768fc
+FileChecksum: SHA256: d27160e324aec981b292a8ae2d1329994061971620cae181586be46c3f93a608
+FileChecksum: MD5: 52f81951f013e3581acfea35d02faba4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/controller/src/logger.ts
+SPDXID: SPDXRef-item11733535
+FileChecksum: SHA1: 1c21e2a82f4b086719e4ad1243aad39d708efec6
+FileChecksum: SHA256: cb23858f88b7807dd520ff1c45e26ec7f6759bc5fa741ed211b67fa0eff9ba67
+FileChecksum: MD5: 46721ec803066d7aecc71eb59e6fdac9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/controller/src/app.hooks.ts
+SPDXID: SPDXRef-item11733536
+FileChecksum: SHA1: fdd0025bb2f325adf60e1bbb53ea336de17e14c7
+FileChecksum: SHA256: a18f5e261afd101cd50fd8f1b7c7dcd30ec36ebb1e18d676c116e645a125c42d
+FileChecksum: MD5: 7857b47342c15b38c3bd87f11e5be7a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/controller/src/declarations.d.ts
+SPDXID: SPDXRef-item11733537
+FileChecksum: SHA1: 49a45f910141497694277740ec5bd88edf09aa73
+FileChecksum: SHA256: d8e0a1e09ee8ba8ed15779b7fdf1f2c196a23ae08371bd73a38881358a45c46b
+FileChecksum: MD5: ce951b57f38a55094efd4a4e902519e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/controller/src/index.ts
+SPDXID: SPDXRef-item11733538
+FileChecksum: SHA1: db0a0651fa91756ce214137a5dcdc9e39024eeff
+FileChecksum: SHA256: 89e6d6a38253739a77c055e0e02262b71e482d16ff26c3ef732d4826b02e80ec
+FileChecksum: MD5: 3caca7cfb86043ad8811dbd81b311d8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/controller/jest.config.js
+SPDXID: SPDXRef-item11733539
+FileChecksum: SHA1: 90a8535522e28308c095d70b0de400b644044459
+FileChecksum: SHA256: 8a92acdb96d79975541ca02587db9d925f3b2deead8048d2e8df947aa1869797
+FileChecksum: MD5: 78dc278aab07e3f1432fcd4fbec2d50c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/controller/.prettierrc.json
+SPDXID: SPDXRef-item11733540
+FileChecksum: SHA1: c3b456549821510c5729648bfd93886491df1db8
+FileChecksum: SHA256: 37055c98043228133ffcc5cad7bba5ef6c8f24698a551cae547b90f51d22e519
+FileChecksum: MD5: e502800d651a7ef3ff58d918c68aa81a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/controller/.gitignore
+SPDXID: SPDXRef-item11733541
+FileChecksum: SHA1: 31269a4449c71349c838208f0732d8efa0edf5ad
+FileChecksum: SHA256: 9d622bc1349e163ef59d97937ac060938319fb8ce9e9eaf4cfd58c792066ca87
+FileChecksum: MD5: 80a3f798bada95e91dd45689fa6406a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/controller/test/services/webhooks.test.ts
+SPDXID: SPDXRef-item11733544
+FileChecksum: SHA1: 391ae14b39ada5287bae698c329bc2169327cb80
+FileChecksum: SHA256: c4b18840d71d37cf724e029156e1e40ab08ee6c43e600051f974d3ed8418610b
+FileChecksum: MD5: 33cb2bf02f306402eeea0e1360fac8d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/controller/test/app.test.ts
+SPDXID: SPDXRef-item11733545
+FileChecksum: SHA1: c6a2a58be3ef13c925501c15cb5fa0fd046e153d
+FileChecksum: SHA256: d899d4f8b9d1a408c7846af791d83a9bf74cba4a7f69e2e42aaf0e9944ee07f8
+FileChecksum: MD5: db3e146a4fa8b322221ab4dc41d3ba4e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/controller/.editorconfig
+SPDXID: SPDXRef-item11733546
+FileChecksum: SHA1: 89b4090cf7138153270db2fb92960c0d1816c81e
+FileChecksum: SHA256: 8cffe8d94ad371a35f2c7e0bf6b43e60ae896e243e4fffed8a898f891081210b
+FileChecksum: MD5: 6b30df8b2be9a9d71ce2b43706c93e59
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/controller/.eslintrc.json
+SPDXID: SPDXRef-item11733547
+FileChecksum: SHA1: 2eab75eca96273d7d65b893bd9504ded1273ed15
+FileChecksum: SHA256: 81f973b7f67c9530d9cd7008c47bd282f38f6d558ca71db6c2fb4db7e28b4a65
+FileChecksum: MD5: 5a8f39523ce422426a4c62442f85820c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/controller/README.md
+SPDXID: SPDXRef-item11733548
+FileChecksum: SHA1: aedc1daac578c1503966048c6dc62ceb9adcc61d
+FileChecksum: SHA256: 589d1539f0fa16125fecd20cc6e0859221181dbeafd8b429db3522c8a0591e42
+FileChecksum: MD5: ea2fee6297908dcaba80b42ecc912879
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/controller/package.json
+SPDXID: SPDXRef-item11733549
+FileChecksum: SHA1: e757f12d7105368a102311f91db7f4449ac97f3d
+FileChecksum: SHA256: 627e6c846f262fa1fbeff1c3f06cececc1166558677ea56ac331a700cad92cfb
+FileChecksum: MD5: ab61ef847c6b37414ecf264a0546a0b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/controller/public/favicon.ico
+SPDXID: SPDXRef-item11733551
+FileChecksum: SHA1: cb4c36e1631ed4a69b948bb173daa9a024f6c565
+FileChecksum: SHA256: 43c384702f7dc40a0125b10a081b581b1ca3f04f40f56f23e3cd2760fb1b2606
+FileChecksum: MD5: 0aac1c776ffd28a503f559e4235a0ffb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/controller/public/index.html
+SPDXID: SPDXRef-item11733552
+FileChecksum: SHA1: f398944590fa6316e2b87a9123fea5d79dfcb358
+FileChecksum: SHA256: 84368da2511c52c12eefab34bc49a3c4074f2ca6ea0179300fbeb4cc71504201
+FileChecksum: MD5: 151184df81e57386c241dd305fb12b59
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/controller/config/test.json
+SPDXID: SPDXRef-item11733554
+FileChecksum: SHA1: 5f36b2ea290645ee34d943220a14b54ee5ea5be5
+FileChecksum: SHA256: ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356
+FileChecksum: MD5: 8a80554c91d9fca8acb82f023de02f11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/controller/config/default.json
+SPDXID: SPDXRef-item11733555
+FileChecksum: SHA1: 4307f2708656d169e14f3150c4181c8874f98e9a
+FileChecksum: SHA256: 88f4f1e4c8712bb5a4dcfa9445d48d8a68c86950292d5fa33cae234105dccd70
+FileChecksum: MD5: 75787d129225f51be22932562517b287
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/controller/config/production.json
+SPDXID: SPDXRef-item11733556
+FileChecksum: SHA1: fde1045f77515f3f511e8b50fa22b65e933f5ba8
+FileChecksum: SHA256: 86276b17940e3e804c1e70e3cdec2d74fddc1512feed38556e920e3cfb24dd3d
+FileChecksum: MD5: 42f867fd6bd300165c1f007fd777df06
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/Dockerfile.acapy
+SPDXID: SPDXRef-item11733557
+FileChecksum: SHA1: 0c59e825ee5ea950a4c3acfdce980ba6b32826a4
+FileChecksum: SHA256: 71bbba8ee024889a599a9ba0d935ad18fe465a405f3c9cae1b7ab6ec5d214b96
+FileChecksum: MD5: 8bd0b71154cabca41cf74457494c7c44
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/requirements-latest.txt
+SPDXID: SPDXRef-item11733558
+FileChecksum: SHA1: 481b49313647422e317c261e2dfcc159543016cf
+FileChecksum: SHA256: 48945affa4013fb1299fe03e179c4f36b39513861e71b5c93d899e85ff33c8a5
+FileChecksum: MD5: 386af81a90b840750b8cb3ba2bd42130
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/configs/local.yml
+SPDXID: SPDXRef-item11733560
+FileChecksum: SHA1: 68df185b0b1e63d66597ee2599ee05dc2eb51c8d
+FileChecksum: SHA256: 26cb77bcfcfddf7cd525bace289c166819de9cfeffb47f628b8c20c50acb294e
+FileChecksum: MD5: fcd6d71bc456fb26c909d31eef5895c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/configs/mediator-auto-accept.yml
+SPDXID: SPDXRef-item11733561
+FileChecksum: SHA1: d713f90ac98b83ed121941e25c7b3b6fb00c1f2f
+FileChecksum: SHA256: 5022c8bf67d601401ca30e1855c850c5f5969457a37a512e8feff09ce79dcbde
+FileChecksum: MD5: aad7b9a07fe9e4445d02d84ad0a89f48
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/configs/mediator-with-controller.yml
+SPDXID: SPDXRef-item11733562
+FileChecksum: SHA1: 2194a89288d982f395bf1e35f4bc2a0d0f4d11ae
+FileChecksum: SHA256: 02d743aa110acb56cd35454e3b492e866ff4203b1daceecf79d297ee9ee4fd75
+FileChecksum: MD5: 7e6e5d96b2e84e97f7bb86cd6cb08c79
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/configs/provision.yml
+SPDXID: SPDXRef-item11733563
+FileChecksum: SHA1: 9badb3af4c76750cd387e7f2f6332c31852c61e5
+FileChecksum: SHA256: ecddcb3b36d10798f58a9ee4027834abd746cdbdb4225e402c15e4beab18f539
+FileChecksum: MD5: e37e7116b5ffd56697005df5b8b38313
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/acapy/configs/mediator-with-plugin.yml
+SPDXID: SPDXRef-item11733564
+FileChecksum: SHA1: b6e4723ce6e6734a75bcd8981299ed907d4ecf83
+FileChecksum: SHA256: 57eb2e1265377cb09a87db3ebc7e5aac6f4124e64dadce82cfe52e06949a4a34
+FileChecksum: MD5: 13c35a357ce9502387523fb4d659138e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/redis-pq-demo/docker-compose.redis.yml
+SPDXID: SPDXRef-item11733566
+FileChecksum: SHA1: 0e23d54f05fa65450f089d166fbbf02c00940726
+FileChecksum: SHA256: d4401d85618c94d6bb3cfa25be01ff984502782f6d0dcda2fbf8ae9a2186b239
+FileChecksum: MD5: ae7d35ade7642b642401d34ec812b3e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/redis-pq-demo/start.sh
+SPDXID: SPDXRef-item11733567
+FileChecksum: SHA1: 2538d137f9a54cc17f43f995f7a9c568ed1baee7
+FileChecksum: SHA256: 9ccc3a9b533c232208645b36aba71c656b69ceb9aa424859c33f8a109e76ae34
+FileChecksum: MD5: 76a543570b6d7030bca16b976e4e91fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/redis-pq-demo/p3x-redis-ui-settings/.p3xrs-conns.json
+SPDXID: SPDXRef-item11733569
+FileChecksum: SHA1: 33251a9c1c511f7ffc2fa652a45ab2cfcfd35d95
+FileChecksum: SHA256: e497d37c437d4098c3db6e3efca70e40995574c0883dc613a35e9a6f34dfb57b
+FileChecksum: MD5: cb9b2c10b6db011d9aa524bfb7ce0572
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/redis-pq-demo/caddy/Caddyfile
+SPDXID: SPDXRef-item11733571
+FileChecksum: SHA1: b65be79201bdf6ece0786f5697412756653dac48
+FileChecksum: SHA256: b6bcf27e223e875f925d8685d4059fca5a4339f7b70e6eaa7980e351726b5cf7
+FileChecksum: MD5: c610fba687b677090c78af921751e6c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/redis-pq-demo/Dockerfile
+SPDXID: SPDXRef-item11733572
+FileChecksum: SHA1: 4ae48be4c2c86d7c3cc227ee4ae3d7b92106d40f
+FileChecksum: SHA256: d9e6ac5cee981260506dd3b94547b1744b2973fe3930f85585607f5acf6d8471
+FileChecksum: MD5: e658af86393d67722a9896f3f265bfdf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/redis-pq-demo/.env.sample
+SPDXID: SPDXRef-item11733573
+FileChecksum: SHA1: 6e965e7f282ed10ec004df9c67ad9ca23e8ca3fd
+FileChecksum: SHA256: 655b0c5bad19fe472847b42116f8333b7974bb9564284ff98c5d9f532b21591b
+FileChecksum: MD5: d872412f35ce9583974252826063ecda
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/redis-pq-demo/README.md
+SPDXID: SPDXRef-item11733574
+FileChecksum: SHA1: 61c229afd25723e771e771b1b04ab2c953339e15
+FileChecksum: SHA256: 2982fae3921bcbcbf90c1078dc9ad81487093ef74eafd11d158def613c534b03
+FileChecksum: MD5: eff54ee5c4422dacdccbe696bb059b53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/redis-pq-demo/docker-compose.yml
+SPDXID: SPDXRef-item11733575
+FileChecksum: SHA1: 6cbea686d3ae4568a7782300b758ea26fc874b1e
+FileChecksum: SHA256: 0f578f5a39ed00d379368997f87ce75523029d0bac7b5674e5486bfc007950ce
+FileChecksum: MD5: ea8a4c3f8229ff74a90fcfce1c5b3d46
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/redis-pq-demo/configs/redis.conf
+SPDXID: SPDXRef-item11733577
+FileChecksum: SHA1: f8a4a6d71efe991e2e1e4edf12b289d19ca75bf9
+FileChecksum: SHA256: f50d602d665de263aff7165d1ec421e8386b1a2fc0a4610b236b2f5b459461d5
+FileChecksum: MD5: 786875f9a9ee512171d64f616a84a3f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/redis-pq-demo/configs/mediator-auto-accept.yml
+SPDXID: SPDXRef-item11733578
+FileChecksum: SHA1: 88c0c837e844039321674c5e5a85f60d4572c069
+FileChecksum: SHA256: 39a8fddb96a167dc3f9d5732199d2e74b794c5bc812d055c528e71bb0d3b0a6c
+FileChecksum: MD5: 489b795f4aa9f8bfdb95c27948a93bca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/redis-pq-demo/configs/plugins-config.yml
+SPDXID: SPDXRef-item11733579
+FileChecksum: SHA1: d8d60d0d635edb4055b455394dd7eba63ac542cc
+FileChecksum: SHA256: 23652320d82aeebe9ac81cac26829eee6237273f17f72dbde04178d8a80e13f0
+FileChecksum: MD5: 8fbae479741df8a6b68f90b2514a1f75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/multi-agent-load-test/db.py
+SPDXID: SPDXRef-item11733581
+FileChecksum: SHA1: cabe10962ad288cbc309cc6d13de3bad9ea9771f
+FileChecksum: SHA256: 6eb3db0542cf6149530292269bffd0ec09c8d2c78a882816130949dd19247116
+FileChecksum: MD5: 2dad8926b089cdffd779044e5e2ffd1f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/multi-agent-load-test/config.py
+SPDXID: SPDXRef-item11733582
+FileChecksum: SHA1: 8d2993631ea6ddc915092c2313a7cb4b6681c293
+FileChecksum: SHA256: d773062b73e7c8a834b0681d62160e475ddf9695324b8bf791084ec54d72320c
+FileChecksum: MD5: 4f7de988f7327412961abe557b86aa6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/multi-agent-load-test/pyproject.toml
+SPDXID: SPDXRef-item11733583
+FileChecksum: SHA1: fd3568bfcaccafc26d9645c40eb3187448695f53
+FileChecksum: SHA256: 5be7c5aa7e08af8da089069633ae4109f874f59ec376e8fd5fbb2488bc904b0e
+FileChecksum: MD5: dc49364a670f28b6d45c00766c831624
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/multi-agent-load-test/locustfile.py
+SPDXID: SPDXRef-item11733584
+FileChecksum: SHA1: c6288d1d6b7e39e7d09537d532beb15d56b1b942
+FileChecksum: SHA256: cb74c33fc4188b3dda3094a708186a27b3c6033e584c36ae64c6de3cb15ce93e
+FileChecksum: MD5: 00fa8a3da4b2ce3ee3260d87f75ad9d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/multi-agent-load-test/.gitignore
+SPDXID: SPDXRef-item11733585
+FileChecksum: SHA1: e76575476d117c22bbd05bf3bf88a3dfd52dbcec
+FileChecksum: SHA256: 44c0036a347ce838b6205c417013153816343484f726b44b886352bae72dceed
+FileChecksum: MD5: e095b19d680638ebd38d4beedacc5ed1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/multi-agent-load-test/Dockerfile
+SPDXID: SPDXRef-item11733586
+FileChecksum: SHA1: de9d466437d4feecf3f8781ab0ee89775f0534e1
+FileChecksum: SHA256: fbef0f5f1f3e97eec37a7e0dccf106e74cd3f3534b0498edd577219e91c26777
+FileChecksum: MD5: fc7185dfac775ae0e9ef85f7baa89c46
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/multi-agent-load-test/.env.sample
+SPDXID: SPDXRef-item11733587
+FileChecksum: SHA1: a2b65ab41f0aeb9f991cbbdd694343e1c79ae776
+FileChecksum: SHA256: fe85850d3c7b315d94a876fb14d30f0529c6cade37829c5a5297523184577fe8
+FileChecksum: MD5: 363b1d73542ad0d4fd2f285696cbb1e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/multi-agent-load-test/poetry.lock
+SPDXID: SPDXRef-item11733588
+FileChecksum: SHA1: 84c3152a36af3b8e19a7d0074cc5a6de014f82a2
+FileChecksum: SHA256: 4773e5a9f58932cbe58b213a688886bc1fd4de9e6b96cb72b6b20fbb38b57e36
+FileChecksum: MD5: 7f7e32f5e991d39aeab6a2d6294f09bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/multi-agent-load-test/README.md
+SPDXID: SPDXRef-item11733589
+FileChecksum: SHA1: 8194fc812e9265a57e1a282ffd58c84202cc6a48
+FileChecksum: SHA256: 7d3a4c39c434bd3f9431812f83151f8a29827cdb9677cc5f715fa17ba6450ee2
+FileChecksum: MD5: a1dfea4e196e7cbbff94c9ddc04d74b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/multi-agent-load-test/docker-compose.yml
+SPDXID: SPDXRef-item11733590
+FileChecksum: SHA1: 93df6af7e1ad6bd4599f99eb550170709c0aaf73
+FileChecksum: SHA256: 5e0ff67628e011df4265b52cde2de9655fb36338dddec403c6bdcaa20fb6bc34
+FileChecksum: MD5: 1b992358aa348fc8352c8847febf0aad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/multi-agent-load-test/.dockerignore
+SPDXID: SPDXRef-item11733591
+FileChecksum: SHA1: 330b4773a0e0b5a181513f82050b6724197c72a6
+FileChecksum: SHA256: af355cbc53d5e2562f0df012ada08a1e83ac621fa3e32569fcc1f15faac0e2aa
+FileChecksum: MD5: c460e8db3fd7ad65cb8b130a5c7e2c19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/.devcontainer/devcontainer.env
+SPDXID: SPDXRef-item11733593
+FileChecksum: SHA1: 18b573a5b26291a72bbf701ab023d6268325a163
+FileChecksum: SHA256: 893e049543e12a6e46240689ac6821fee8e69ab8c8e78072aaba410b59ea19c3
+FileChecksum: MD5: b1ecfc6f5aceb78f57c865e7777c01f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/.devcontainer/Dockerfile
+SPDXID: SPDXRef-item11733594
+FileChecksum: SHA1: 4b656968b187f599c003dd2e78cb6b7883e647af
+FileChecksum: SHA256: fe4cf12ef6f84a06cdcd5d5befa2609198b3155f97ac804d2846bc6adee322c8
+FileChecksum: MD5: e48c1f8e1f0de6795a55587bb105baf7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/.devcontainer/devcontainer.json
+SPDXID: SPDXRef-item11733595
+FileChecksum: SHA1: 3d4431ae1de350681aa7df3adab9a2b826329955
+FileChecksum: SHA256: 697ffe05b010e90a4cf921d444bf3c63406086fb9e8269e55f6f0a81e7d30104
+FileChecksum: MD5: 3263a42ed7b9e82e7ffb82b0713bd5b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/.gitignore
+SPDXID: SPDXRef-item11733596
+FileChecksum: SHA1: 161c5201278da38ac111027f84fb9fc51d80bb38
+FileChecksum: SHA256: 315e80fe2c808a15d0e8eba83260828cdff0cde54f32078c52c89088f2217eb2
+FileChecksum: MD5: d209f7da66c8c5187b0122c6cf462e9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/load-testing/results/locustMediatorMsg/20230321/Test Report for locustMediatorMsg.pdf/Test Report for locustMediatorMsg
+SPDXID: SPDXRef-item11733603
+FileChecksum: SHA1: 36763bfbc1f315e7a27f58c009481e9be7840c1b
+FileChecksum: SHA256: f23f1a7ea92ec598a4bbd807465a4c77e90a796a472a209757403bf8eefa59c4
+FileChecksum: MD5: 4d096445e36a5b12f104e0d69876b3ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/load-testing/results/locustMediatorMsg/20230327/env
+SPDXID: SPDXRef-item11733607
+FileChecksum: SHA1: d834fb3f7c6fb2afe00106605a824b43f707ca30
+FileChecksum: SHA256: a0e1a50698d42cf595455a9ff7d2c3521c711529dc0c8c999aed1507cd70e579
+FileChecksum: MD5: 9c5b173b50729a36bbbc797072be4647
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/load-testing/results/locustMediatorMsg/20230327/Test Report for locustMediatorMsg2.pdf/Test Report for locustMediatorMsg2
+SPDXID: SPDXRef-item11733610
+FileChecksum: SHA1: 3a0719cb91b011d2eefd0ff5285e367f2f21b701
+FileChecksum: SHA256: ac96c887f6d599784ebf12a132af511d61e01027ee44886e29cd07e81170ecb0
+FileChecksum: MD5: ee5804295c2bccb12e7ceb2b06d1e8be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/load-testing/README.md
+SPDXID: SPDXRef-item11733611
+FileChecksum: SHA1: bcf8474d9fbe156012af7b2d89422c7ce22cebc1
+FileChecksum: SHA256: 1e01d9d2ef72779f231367d311967f9328a2e7927e7442a20bf75cb43c476642
+FileChecksum: MD5: eae750e5bf01639c7fb042abe879c621
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/afj/yarn.lock
+SPDXID: SPDXRef-item11733613
+FileChecksum: SHA1: 739c6e7ad4afba297c9f276d65dae94edbb218f3
+FileChecksum: SHA256: a30df5f07c4d4b54cd4631ec611346fec46d079d1d4e73c06dea06147db8e308
+FileChecksum: MD5: 061b1b2a91a5a905c8657a4084a72e67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/afj/tsconfig.json
+SPDXID: SPDXRef-item11733614
+FileChecksum: SHA1: 9113f082efaade50ac81790e98de2f67ec17cc6b
+FileChecksum: SHA256: f4313ecbe2ecdae5ee43f5d8e304fb437d225aa7ae9df3b31671db6d225d0346
+FileChecksum: MD5: 77f50c3ec31e9fb0e28c9f2945589447
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/afj/src/mediator.ts
+SPDXID: SPDXRef-item11733616
+FileChecksum: SHA1: a0e71545655a8e3b67357bb74c744c4e9ff1817c
+FileChecksum: SHA256: 2dd37c2e715ec93af509563e5183ea085b8f8f303f78826143b0004eecccf295
+FileChecksum: MD5: c699a447d8a5b52094e0bada7583abd8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/afj/Dockerfile
+SPDXID: SPDXRef-item11733617
+FileChecksum: SHA1: ca7b2b1ea7a261982996ab701d123e0086b911d1
+FileChecksum: SHA256: 5176ecb00b506cfb6ec18ae93023adb5fa6ae9462d9c30197c406f49cef47bda
+FileChecksum: MD5: e29e565398f0f35c836eb606191c3672
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/afj/README.md
+SPDXID: SPDXRef-item11733618
+FileChecksum: SHA1: b00b84107657052688c1a847835648a5e2f18806
+FileChecksum: SHA256: 0cd759b7c8dc8a2d9a32d8fed2fec5070d298cad350f61adf5306b932fa2f1cd
+FileChecksum: MD5: 7e180b903db05382a860df6a22fb0537
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-file
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/afj/.dockerignore
+SPDXID: SPDXRef-item11733620
+FileChecksum: SHA1: 8b894ec0b3bbc33011392ad9bafeb1df2634db45
+FileChecksum: SHA256: 16d30e4462189fb14dd611bdb708c510630c576a1f35b9383e89a4352da36c97
+FileChecksum: MD5: 3d10912d07e7bc8cd7d2faea51adb2d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/afj/gulpfile.js
+SPDXID: SPDXRef-item11733621
+FileChecksum: SHA1: 6f0fd7bf02ab0f17b18769db4a4b0e516fe98a13
+FileChecksum: SHA256: 16c6bb019a20cd7d3fc9163bcba476e4fbe2963b1c45d3c898533c377076781c
+FileChecksum: MD5: 6770c6a4e2e071697e7ea327c4212e7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/.env.sample
+SPDXID: SPDXRef-item11733622
+FileChecksum: SHA1: 03920a0aeb104528d9351029f970057e1a900205
+FileChecksum: SHA256: fe4d7a5c692cce6117fc7d48b443a200cd2a4c75092dbe22f3010e807a1bbda5
+FileChecksum: MD5: 613eccc8f38d75368148f1037d53bbce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/.env.multi-agent.sample
+SPDXID: SPDXRef-item11733623
+FileChecksum: SHA1: e2b24f5c07a5dfdc3e89c9369ba487bb4a422cc0
+FileChecksum: SHA256: 0685c9e5536ca80d03f0c154d4e083e598c09b8843c493660dea9ff5aeba06cc
+FileChecksum: MD5: 9fa0030909a6b9fb498fc6b7d54c587c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/README.md
+SPDXID: SPDXRef-item11733624
+FileChecksum: SHA1: 6c28c31f5b6bb15164b100eb4b7cd5a7303045c0
+FileChecksum: SHA256: b2f7abe05c309a7570e1579c1b0bd3b2baf5b15512b9488fd7057ab3255881c0
+FileChecksum: MD5: df9cdae630e78a07ff2ed45cb64c5671
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/docker-compose.yml
+SPDXID: SPDXRef-item11733625
+FileChecksum: SHA1: 4d5b9623567a2941685897dbf16309d75a9dc251
+FileChecksum: SHA256: 9465c4e4aa4b0eeecebc1a95981816d4f9e2753618c76a47212cbcb418a7dd30
+FileChecksum: MD5: ed376d725d20e98ab008df7455a6e8aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/.dockerignore
+SPDXID: SPDXRef-item11733626
+FileChecksum: SHA1: 314320f789157c700ef06cc4c2af39a6ed3bb680
+FileChecksum: SHA256: 6e868f6397b5c837c6e28b7afbdd8a08cb2d84b5790782052200a26f5c8b5121
+FileChecksum: MD5: dee48465719a3360e805c5b62f11627e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-service/MAINTAINERS.md
+SPDXID: SPDXRef-item11733627
+FileChecksum: SHA1: 7cc2657080a72e1f566d479f072264044975f9ed
+FileChecksum: SHA256: 7203782f180b28a4f3de7aa85c07e62e957824843cd3b834fdb8426483b418d7
+FileChecksum: MD5: 244d46fae81276e7ef76cef43ee8afa6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-socketdock/demo/wait-for-tunnel.sh
+SPDXID: SPDXRef-item11733631
+FileChecksum: SHA1: 29aeb0ab9d52521c1d59d43d2196797e7d25e751
+FileChecksum: SHA256: 34e91b3bf8e79835f9dea00123057cf719b3a4cb9799183c5403b473d62f9868
+FileChecksum: MD5: c4b64f0196cc055f6d003231f70ed8d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-socketdock/demo/socket_client.py
+SPDXID: SPDXRef-item11733632
+FileChecksum: SHA1: 839fe99fd44476255508b021f20d94e5a901464f
+FileChecksum: SHA256: 995af33b3ad5e0fe5ae898e3a6bdea56bda07fb1952eb561c6de0de6266b82c7
+FileChecksum: MD5: 1a04fa9d3a22fa59ec7ff78da122af94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-socketdock/demo/docker-compose-local.yaml
+SPDXID: SPDXRef-item11733633
+FileChecksum: SHA1: c266877e1ccfd94cd4cb751b6a719682f75321cd
+FileChecksum: SHA256: 19e503d48bd4c5882ee380b64e775b9b85041f1d4d3dff9bc269aefcb25514fa
+FileChecksum: MD5: c9337a98b01d0aeddb6ea39cc3a096f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-socketdock/demo/docker-compose.yaml
+SPDXID: SPDXRef-item11733634
+FileChecksum: SHA1: 4eadfe3f1cee5964cf612f34b9707aee6b7d1763
+FileChecksum: SHA256: fe1349bb2d31d32c46caa90733d6b7cbceaf9585f7d34f605d70b1b20edbc3ac
+FileChecksum: MD5: ab42c6a14588b512c5ab31a5839a9939
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-socketdock/pyproject.toml
+SPDXID: SPDXRef-item11733635
+FileChecksum: SHA1: 5e79567692ef154c8833a2f541512746057042e2
+FileChecksum: SHA256: 369f7081b196912817b148d63dcf9a245f77537e1916552058d22034b179766f
+FileChecksum: MD5: d7f54afb19cdd2d2abe0d818fe11e1e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-socketdock/graphics/SocketDock.png
+SPDXID: SPDXRef-item11733637
+FileChecksum: SHA1: be086cb30f6289ac2dfff25f67978d0af3efb6f4
+FileChecksum: SHA256: 0c3bc3ff0d3a1399afc1cbca0631a6e20665468802b595a4eb3035948e6f84c9
+FileChecksum: MD5: 91e41fda9e66cc81ba4867828f5f9850
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-socketdock/.github/workflows/code-quality-check.yml
+SPDXID: SPDXRef-item11733640
+FileChecksum: SHA1: 32f29ce655ab96d26c5e487fa847b2a59847ef64
+FileChecksum: SHA256: e64329efccd032dadc4c9e9e6f68ee761e65de5fdc84509f1974e308180a5392
+FileChecksum: MD5: 1055d7c0376dbf30bce53cfe48adef03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-socketdock/.github/workflows/publish-image.yml
+SPDXID: SPDXRef-item11733641
+FileChecksum: SHA1: ea904f9c66ed300bae76a9290dc6cf217a162324
+FileChecksum: SHA256: 97d1fbb3372f007b3b3452c033218bb22202079387027deafd9c95fdfccbf8c1
+FileChecksum: MD5: e71e73a7b69756d35162cd7ed0212b4f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-socketdock/.github/dependabot.yml
+SPDXID: SPDXRef-item11733642
+FileChecksum: SHA1: d4f311fd001f02080b63dfc8423a273cb352ccab
+FileChecksum: SHA256: 18085ac7f1184d3e5e57fce15938631bb9af0f60ddfe723eccbdaf2594126399
+FileChecksum: MD5: 42e13518898f86787e377082a87f0f2d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-socketdock/.gitignore
+SPDXID: SPDXRef-item11733643
+FileChecksum: SHA1: 9a056d3b787d39c3b5ca2149b6fc200c7fc9ba11
+FileChecksum: SHA256: b7aa8f49d86dad0517a26dd054627bf61068acb99f02441a8687f7d79908172b
+FileChecksum: MD5: 9e1c41b6b19c2c062b46b1141cb48ad4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-socketdock/socketdock/testbackend.py
+SPDXID: SPDXRef-item11733645
+FileChecksum: SHA1: 957b4c5163640c8dd7d02f1f8f310e1e8bc3d9c1
+FileChecksum: SHA256: b4ab32156da5a594f023f2aee5c6fbcd15cd9d5f8b5249e6afa81af8d72485a7
+FileChecksum: MD5: f08128a931a46bed5669665c6c6f07d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-socketdock/socketdock/backend.py
+SPDXID: SPDXRef-item11733646
+FileChecksum: SHA1: bc29ba30948526275efee8e04efb375d2656998b
+FileChecksum: SHA256: 542c19333fa6fe64bcb4a57d1f3cc4c0b27d8ebcd81fd0f340711d5a434581d4
+FileChecksum: MD5: 3f1c2decf5259db4f5ae05c3cd0044c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-socketdock/socketdock/httpbackend.py
+SPDXID: SPDXRef-item11733647
+FileChecksum: SHA1: 0c7ba7e3cc52bb120a0e2607f65546f9138353e2
+FileChecksum: SHA256: 66af2cf5b0a6b5ec81213ad91a00253f77b197ecf3a1c513737f777a1dd63dbe
+FileChecksum: MD5: cfacfdc4dc8791fb0ef02b044a20e102
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-socketdock/socketdock/__init__.py
+SPDXID: SPDXRef-item11733648
+FileChecksum: SHA1: 020ca68425270459bd69704bd2216c2e81bd6ed1
+FileChecksum: SHA256: 02a59c0261b096a632bd8971167d7824451f922e73f37fcbe884628c7d719a94
+FileChecksum: MD5: 8733e7815497b36b4cef6c7d9cd14a45
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-socketdock/socketdock/loadlogger.py
+SPDXID: SPDXRef-item11733649
+FileChecksum: SHA1: 17408c92a603f5077d62dc851fbde786954f5c0b
+FileChecksum: SHA256: 0d65f3d7499cf7a3dd04bd5733ed7465babc0c7f2b3c80f213cb7b937f33d790
+FileChecksum: MD5: e969b8b50ccc2646ee764f965933ed67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-socketdock/socketdock/__main__.py
+SPDXID: SPDXRef-item11733650
+FileChecksum: SHA1: 83fd994817305043b294cb911017db300216b67b
+FileChecksum: SHA256: c576d8ae89be4223d74b97fb4e4e2713b931cc31baac093ce57bce2cef746259
+FileChecksum: MD5: cb4de1145959341f42f92e442473e088
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-socketdock/socketdock/config/jsonLog.py
+SPDXID: SPDXRef-item11733652
+FileChecksum: SHA1: 6e1a22fb9fbea789fab3ccd098481598ba66cbcb
+FileChecksum: SHA256: e35f25659e89a0c233d7522478275a618d2c8013eb8ec11d4452c857255e435f
+FileChecksum: MD5: 72c28dd581131d6d73f713347d70f063
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-socketdock/socketdock/config/logging-config.yml
+SPDXID: SPDXRef-item11733653
+FileChecksum: SHA1: 2d33c910c3c17e804ec985636a57575baa2d2b70
+FileChecksum: SHA256: 3219d215808058a4ffe7ef6d01edafd669b33e420a00da06835cea27d7c5a5e1
+FileChecksum: MD5: a0a1a615b58a8a576511d36003cad1ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-socketdock/socketdock/api.py
+SPDXID: SPDXRef-item11733654
+FileChecksum: SHA1: 89f751166defc9d4a70adcd97dfddceeef651737
+FileChecksum: SHA256: a7e29b2d9e52bb09b70e15d5eddcb808e6b9637221b566ba883150b0bb8063bf
+FileChecksum: MD5: 6f9a0b690f168cd07ada2fc030e940ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-socketdock/locust/pyproject.toml
+SPDXID: SPDXRef-item11733656
+FileChecksum: SHA1: 0ef9535343ed1f62dfef8566043e6080d7f60ece
+FileChecksum: SHA256: 1c9808c25c7e508c5493b30651e370568e90940b13d7846ec7a3412fd35d9bda
+FileChecksum: MD5: 2f783d5ddbf232de546e38646e4a2989
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-socketdock/locust/locustClient.py
+SPDXID: SPDXRef-item11733657
+FileChecksum: SHA1: 7ee8a885a234b0cf6f8fe29d2a3bbff8ac4c0745
+FileChecksum: SHA256: cc6f5eb359e306e2e9f72114d322e62411a02bff84295146783a810e113fc77b
+FileChecksum: MD5: 0b31b2c335f20788b9617d587e882d1f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-socketdock/locust/locustfile.py
+SPDXID: SPDXRef-item11733658
+FileChecksum: SHA1: f935dbc654dad6e8bd3afae7abf7629895bb1915
+FileChecksum: SHA256: 4f72b70c711cfc1791ab6e0630273712830b6d27a2e2c19c2415ccf39c2e26ce
+FileChecksum: MD5: b256d958d0d05fcdd775c24e7b5d158a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-socketdock/locust/Dockerfile
+SPDXID: SPDXRef-item11733659
+FileChecksum: SHA1: f1715768ff3ee7331b1dbc91342ca3bec212d380
+FileChecksum: SHA256: cef2fa553df6e7126769ded0847b54ac1c49a4db5b3622e43f05d0f08c19902e
+FileChecksum: MD5: 3159999a4de63828b8375d6c6b5ae98c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-socketdock/locust/poetry.lock
+SPDXID: SPDXRef-item11733660
+FileChecksum: SHA1: d02243f0c73650ca60a3d94d1396a570dc9f5f4e
+FileChecksum: SHA256: 3419767e6f6fc7c2a375487afc10f64cfa7a27ff0d526181c65df9e7c353cee6
+FileChecksum: MD5: 24a9a9ebbffb615d4c2dbebcbd8b3ca8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-socketdock/locust/docker-compose.yaml
+SPDXID: SPDXRef-item11733661
+FileChecksum: SHA1: 0886702275956dc3180630c7c3bc2c010f68cf92
+FileChecksum: SHA256: 9e8d79b6ec60b7a8af6ce7d4515971262da8d5f49092057cd64c5b529373ecfa
+FileChecksum: MD5: 094501d338a6e2b87ed11d7e174d1e0b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-socketdock/Dockerfile
+SPDXID: SPDXRef-item11733662
+FileChecksum: SHA1: e7bd7660c9ccba13d180d756c041c361847ce947
+FileChecksum: SHA256: 73d74219a5fbe0ee9b16fefea2a1d529b577835c28b4b22e7ca4e0fbc8384f21
+FileChecksum: MD5: 9d89c8f4bc465675e5b1f6463dd393ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-socketdock/poetry.lock
+SPDXID: SPDXRef-item11733663
+FileChecksum: SHA1: c16eab18361ad67d457aa2c6b437c89517a80035
+FileChecksum: SHA256: e17ae66a97a113e50a8180d439b860868ade0447c0d6e6938aa40fd585723561
+FileChecksum: MD5: b31b2dc658e17d8ac9380f39eb84e566
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-socketdock/.commitlint.config.js
+SPDXID: SPDXRef-item11733664
+FileChecksum: SHA1: f0768eb3062f028f530a337b728f0f9d2ed4d20f
+FileChecksum: SHA256: 0ca27c3e2db20dc19ae2606dc27eec56bd335a23057aa9624d6acc23ff82b3cd
+FileChecksum: MD5: 759c05571d14e7526ee426966984d787
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-socketdock/README.md
+SPDXID: SPDXRef-item11733665
+FileChecksum: SHA1: 8addc85cf1d6f67115b6c82cb3fec24fa04f29d4
+FileChecksum: SHA256: 1ba95be70e3fef8c21e46af9b65fa6dbafdb62519161775b65a5727fa16ba310
+FileChecksum: MD5: db3884e81dd320e5c87e8dada9afda3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-socketdock/.dockerignore
+SPDXID: SPDXRef-item11733666
+FileChecksum: SHA1: 24adfcb43e77cc4a885cd14df77cd1a3a249147e
+FileChecksum: SHA256: f0d42f9e3d10581d78a1a075ec6f38b3f8460b1082c74f5a7d8a35d7a422ecf8
+FileChecksum: MD5: b5ead0c3f358108dc71bedeadbce3295
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-socketdock/.pre-commit-config.yaml
+SPDXID: SPDXRef-item11733667
+FileChecksum: SHA1: f9a663ea8940dabf5a733f40c242a8c732ee519c
+FileChecksum: SHA256: 29717b4a4eaac7d34584ef7ba170c0013eec18e373fd65bf358dd0ec13b54811
+FileChecksum: MD5: 7af42cd0758bb6dc38776a09a42cbc28
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DIDComm-Mediator-2025-11-15.zip/didcomm-mediator-socketdock/MAINTAINERS.md
+SPDXID: SPDXRef-item11733668
+FileChecksum: SHA1: c8aa57e68da5ecc541c5fee494aeafeb90acef41
+FileChecksum: SHA256: 0b71abe7a09b25558fd4a3035a5cf68f599f2ce463c2960b8d2120e6a396af3d
+FileChecksum: MD5: e55c8a64c0b4aba762723e6e8282c9bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-See-file
+LicenseName: See-file
+ExtractedText: <text> This license means that you can get copyright or license information through a reference file.
+
+one example below:
+/* 
+ * Copyright (C) 2007  Olli Salonen &lt;oasalonen@gmail.com&gt;
+ * see btnx.c for detailed license information
+ * 
+ * revoco.c is under a different copyright. See that file for details.
+ * 
+ */ </text>
+
