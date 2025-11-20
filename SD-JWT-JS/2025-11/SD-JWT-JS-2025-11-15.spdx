@@ -1,0 +1,2457 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_SD-JWT-JS-2025-11-15.zip_1763280657.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-11-16T08:10:58Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: SD-JWT-JS-2025-11-15.zip
+PackageFileName: SD-JWT-JS-2025-11-15.zip
+SPDXID: SPDXRef-upload2048
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: f7b809d3212840406894d8fcd1c05db1d842840a
+PackageChecksum: SHA1: 012c08b579aa8c9370c46357c6e55b8907f207db
+PackageChecksum: SHA256: 9ef8e5edc278848bb292ca0f4ce39ec4c3648c205ac07bd736635a4f26c2a578
+PackageChecksum: MD5: 89e5317e2f949c9d8fdc6190f4e9fb69
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2048
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/examples/sd-jwt-vc-example/package.json
+SPDXID: SPDXRef-item11738339
+FileChecksum: SHA1: ee3c9965e9e441afb23e41d601b128a0531b38a7
+FileChecksum: SHA256: 8a29c58926029017bf6c43631dcc030610a1f79cdbcec646ac141c7d06894b15
+FileChecksum: MD5: 2dd77dd350079b9cc012c95b27fcf3ba
+LicenseConcluded: ISC
+LicenseInfoInFile: ISC
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/examples/sd-jwt-example/package.json
+SPDXID: SPDXRef-item11738359
+FileChecksum: SHA1: e3b1f55aecb9801e54f8a8ef842d8d209f77f033
+FileChecksum: SHA256: ed20ee0ea81a9aad5c67fbae7066bf16e818fe8a2c579bfeb070a1dbb5b2ab0f
+FileChecksum: MD5: 31001fccfb03b4790977ebefdf12c4ac
+LicenseConcluded: ISC
+LicenseInfoInFile: ISC
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/examples/present-example/package.json
+SPDXID: SPDXRef-item11738344
+FileChecksum: SHA1: 5a2dca5f30dbdf4f999248e480c2311330c0abea
+FileChecksum: SHA256: ee3c07be0db3bf07d00720aaeb22165c68d19a1063f26c4c38f80530b971c806
+FileChecksum: MD5: eb9b9c57c525a2019ee4e907544059ca
+LicenseConcluded: ISC
+LicenseInfoInFile: ISC
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/examples/decode-example/package.json
+SPDXID: SPDXRef-item11738364
+FileChecksum: SHA1: 665998fd1ddaf70c8ca3cf2cd92ee047fef41114
+FileChecksum: SHA256: eaf873ed3076889900f31ee708031ac539a40542919b1e6ff9dc8998c35d36d9
+FileChecksum: MD5: 500ad00a86f190c2ff155be5835ff621
+LicenseConcluded: ISC
+LicenseInfoInFile: ISC
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/CONTRIBUTING.md
+SPDXID: SPDXRef-item11738314
+FileChecksum: SHA1: bc4c54341411cc5b4e1fe675dd8b5c614dce6919
+FileChecksum: SHA256: 69b63dbda20ce0f5e91c3f7f13f395b7f9118a59fac11714307c602915514363
+FileChecksum: MD5: d1fb9e3b6b2d66614679ffe2e9a6ec3e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/LICENSE
+SPDXID: SPDXRef-item11738313
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/README.md
+SPDXID: SPDXRef-item11738372
+FileChecksum: SHA1: 3b22bd8c272c09a87cd9393642d8585ea9f408ca
+FileChecksum: SHA256: 4d74f8280acd49ad22f11390da458c84cc95832dea8837e71a68e39d2b084ce1
+FileChecksum: MD5: 955b19a3869d6ab5363b1348bfc9ebf3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/decode/package.json
+SPDXID: SPDXRef-item11738445
+FileChecksum: SHA1: 436c512b3f24c786b46eb53b4f3d5ec0810b3706
+FileChecksum: SHA256: 30beccd481eb27dc9ff6770f38defdc136bc3eb59d517a47a28b632911f5248e
+FileChecksum: MD5: f6b11a979efd66761978dcd1daf9aedc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/hash/package.json
+SPDXID: SPDXRef-item11738550
+FileChecksum: SHA1: d9bd5024643cb010df0a7f261e9b3a0a149ff0b0
+FileChecksum: SHA256: 1e4275752a2b341a21ae206d35c9e0ef33529a99b5a4222a9caec327b9adb680
+FileChecksum: MD5: e9b8d687def63d1d59d9e29b497b57ac
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/jwt-status-list/package.json
+SPDXID: SPDXRef-item11738497
+FileChecksum: SHA1: fce106941dfda5af4bb608f572cfc39236ee6555
+FileChecksum: SHA256: a8b2648f1a9d05dd69f671f0aacedfe56ebc8442f7f7d9d21cffa70de6b628ab
+FileChecksum: MD5: 06a1e926358ebdc20d0070b4664d6d48
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/node-crypto/package.json
+SPDXID: SPDXRef-item11738419
+FileChecksum: SHA1: f283863708ca5a9c7062db48bdc736f3c6d76636
+FileChecksum: SHA256: 7d3ecf3df9a3e3ab4cb107d0788444445e4c6490a9c62e8aff61de15ce035d14
+FileChecksum: MD5: 4a32ee6e741e79238c48f6b79458f9e0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/present/package.json
+SPDXID: SPDXRef-item11738386
+FileChecksum: SHA1: 67ff57cd5df9c0c77b2543d03721c676845f6ed7
+FileChecksum: SHA256: abca496f12af1de65bca077eec9357f0bd55c9371481671c52875acc530e9de5
+FileChecksum: MD5: 5ee307ecd724565def75ef2869e59a8b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/sd-jwt-vc/package.json
+SPDXID: SPDXRef-item11738482
+FileChecksum: SHA1: 6dfa93445a4438d8534472dec85132423ced4d22
+FileChecksum: SHA256: 6022d3045154f5971404a51b999e0f55b64d64ffbbb096ac9a77a6c50f9ebd2d
+FileChecksum: MD5: 000ce855aca9e7e31c2b28dc8767f388
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/types/package.json
+SPDXID: SPDXRef-item11738397
+FileChecksum: SHA1: cfc86b16bdbf4871e8ce1147adac0b1f34d5d0e0
+FileChecksum: SHA256: 52d0f0434b369c91ca49bf1df4160b491c677500d573e8513246266cbacbd9ac
+FileChecksum: MD5: 8cf8e96b90a4bfcb784e733e4cf28cc1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/utils/package.json
+SPDXID: SPDXRef-item11738434
+FileChecksum: SHA1: 5c6123e19eb10598d7d1bd51d9befa12700f9112
+FileChecksum: SHA256: 8c0fe21753b17f6e6477ae244c0ddd07c92af5288c8e321797283d1dd993a874
+FileChecksum: MD5: 1e39714fc7736c7744e574082d3b19b8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/package.json
+SPDXID: SPDXRef-item11738551
+FileChecksum: SHA1: 6479d558df1cebd503b1f58754cef0389a51f28f
+FileChecksum: SHA256: 2b3a7a3589d5de6e99905062929efdcaa45842956a5eff1e86c3f1060b5ee07e
+FileChecksum: MD5: f35eb8ea7d3a63ef7d6c09776de16271
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/browser-crypto/package.json
+SPDXID: SPDXRef-item11738408
+FileChecksum: SHA1: eb1fc2f43d097a785fd14519ccab598ada177df4
+FileChecksum: SHA256: 1337ce214e30c2298726a8a3cf5d2665b6253c40972b62ef5c565aa139837d55
+FileChecksum: MD5: 646b92668687df16a578d8115dc3530f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/core/package.json
+SPDXID: SPDXRef-item11738539
+FileChecksum: SHA1: 9bdcbf3f013ce7567cdac6ed4b0ef79af93eb807
+FileChecksum: SHA256: f4df0d9fe5b45049528fb0454821e52d7277d29166f88101b3256f7cfdde306b
+FileChecksum: MD5: b4c2f7544d02fb71679bdab43b686e74
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/.github/settings.yml
+SPDXID: SPDXRef-item11738324
+FileChecksum: SHA1: e9f15ffd2817dc1e24067652712ac192f0a906f7
+FileChecksum: SHA256: 6eb74a479f5990e3e0705e04021037dec9ce3eb34fbc0f59e2d44881ee211529
+FileChecksum: MD5: c0d780cff6e5854e86b73ec851228d59
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/docs/sdjwt.html
+SPDXID: SPDXRef-item11738295
+FileChecksum: SHA1: 8b32dd848dab3161bb06477974ffbf0b6d2d1997
+FileChecksum: SHA256: 08dc0ebcc8102f49f806b305fcce9a568747e804d4bf40dcac55a4e73210222a
+FileChecksum: MD5: 3c55e2b36cf65d24d2a13ca7d9eabe01
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/docs/imgs/concept.png
+SPDXID: SPDXRef-item11738297
+FileChecksum: SHA1: 4ebf5b3d09d856b9c227cd9ffcc04cc2215da779
+FileChecksum: SHA256: 805429907f052f5af5d5740e6fa204fb1934ac6d45f13b7ffd043faa0e7ac8ed
+FileChecksum: MD5: e1a00ae08632072b348aed185492b55f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/docs/README.md
+SPDXID: SPDXRef-item11738298
+FileChecksum: SHA1: 0fa307bc256b9db642522158df9a590e168fca5a
+FileChecksum: SHA256: 0eaa643acec25bdbd4aaec6de5b204cd630b16cb1ad9953df223f9c695efa74b
+FileChecksum: MD5: b97755640ca16128961e3c1805030a11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/docs/0.x/validate.md
+SPDXID: SPDXRef-item11738300
+FileChecksum: SHA1: 81c819e53abf57f7ac6060abd0773d2fc950c7de
+FileChecksum: SHA256: bf7d9ee07df643d9c3a54e8fc0d1a54f54c07d04e7609de0ab93397898aef460
+FileChecksum: MD5: d76d966041433476f07476e274eba144
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/docs/0.x/encode-decode.md
+SPDXID: SPDXRef-item11738301
+FileChecksum: SHA1: 3c8ee25d37f7685ab6be9766b3b8ca92fe4a15b6
+FileChecksum: SHA256: 86b86f3fa05f6d2a5674699839e155d1f9ff94e7a929651a1bb6aebec6587172
+FileChecksum: MD5: ed6b8b2e69c03d8269dc3b344f97a5e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/docs/0.x/present.md
+SPDXID: SPDXRef-item11738302
+FileChecksum: SHA1: f56cb89e57e5413133ee5940a606327efdea4bc6
+FileChecksum: SHA256: 3d3ff4b857ba0d9b0c6097bd97016f22d5d7a3f60424cb34b0e04c30e2d37f15
+FileChecksum: MD5: bf47a6653d42688a755560c8a0869775
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/docs/0.x/sdjwt-instance.md
+SPDXID: SPDXRef-item11738303
+FileChecksum: SHA1: b4f7251f6dc49a79f36e843cb8fb6cfb848bb99d
+FileChecksum: SHA256: 9faa6c7a99522f79d60de6b37a6a446b29f90e8153af74a002db66dd9c28b58a
+FileChecksum: MD5: beece48681307714d44b287c07aa6a84
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/docs/0.x/keybinding.md
+SPDXID: SPDXRef-item11738304
+FileChecksum: SHA1: 12e347b86d0679f65abc17525acb01bbac87b504
+FileChecksum: SHA256: 9108a96fba758506dd8620b7a88abada95a7ccef08b3eac992cbbcc530b96ca6
+FileChecksum: MD5: 17856073185a7ac2dd5fe1b64b7adc2d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/docs/0.x/verify.md
+SPDXID: SPDXRef-item11738305
+FileChecksum: SHA1: 58cdf4d97caa6b1ec399c84ece0ffd68a651ccaf
+FileChecksum: SHA256: 0d4e4930034dda504e4d0537943135c6039eb9dfceadd5bced0e4ce6f0ef9218
+FileChecksum: MD5: f12296c9e13682275a43f46b997e2bcb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/docs/0.x/issue.md
+SPDXID: SPDXRef-item11738306
+FileChecksum: SHA1: 9ce4234990b4b29a055fd447c7663fc7f6530e38
+FileChecksum: SHA256: f08a7cab24fb97d1a285c57f5ba670dfdfab8724f528bf8fb2396b45ad2e796e
+FileChecksum: MD5: 752ca5af3159bbfdcbd4a2517f00791b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/docs/0.x/README.md
+SPDXID: SPDXRef-item11738307
+FileChecksum: SHA1: b62990c953819e20761160553e1a21e157a24482
+FileChecksum: SHA256: c605bd3ca413a35ff41c0a6873dd3eb24f14ed83e4c7e7a7d837ca835085b096
+FileChecksum: MD5: b369c9922beeaad00fe26adb6284642e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/docs/0.x/claims.md
+SPDXID: SPDXRef-item11738308
+FileChecksum: SHA1: 84866e27a6f6728f332be51b3a04c55cd130c213
+FileChecksum: SHA256: 66ad51a4ea6d021a5d56e2cf02faa3d9a931f49a4fb3e0fdae85ed7525b32290
+FileChecksum: MD5: 17db60717a17c56f3964f3272c8c3f47
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/docs/0.x/disclosureframe.md
+SPDXID: SPDXRef-item11738309
+FileChecksum: SHA1: fcd632ae3f1ca1556d76a61acd1f9444710530fd
+FileChecksum: SHA256: 2f5b960b106935cb2d9667784fde0621971927a37340a0be76ae4d14e3d94a05
+FileChecksum: MD5: c4812324c07733276f692c67a6da0823
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/docs/index.html
+SPDXID: SPDXRef-item11738310
+FileChecksum: SHA1: 7e11e1d439e200f12fdde34ec61c8759f65a41e0
+FileChecksum: SHA256: 50208d53085d0d85ba18d186ddbbd0be9f194e1a8ac3cb2579b8355052035310
+FileChecksum: MD5: 4a6819b13579148d9e2ded6e51455ed2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/CODEOWNERS
+SPDXID: SPDXRef-item11738311
+FileChecksum: SHA1: 0e96ada715bc8b83a2a6d0ba8781b2961e39a8de
+FileChecksum: SHA256: 5aa1f057eb9aa83dd9f68bc6e6b625fadd6a9505ed4b64c0e103f2e8f3b5da9b
+FileChecksum: MD5: b280c847db0d43134b3ee495b7689392
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/CNAME
+SPDXID: SPDXRef-item11738312
+FileChecksum: SHA1: 0d1c2ce84c8ea8c972a45379ee65f49c02e4fe77
+FileChecksum: SHA256: a2d617d6354d39323fa13545442456b7f353c40ef33b1da045f6538bf761d942
+FileChecksum: MD5: cef12e03927ebbc78c59f412893757fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/tsconfig.json
+SPDXID: SPDXRef-item11738315
+FileChecksum: SHA1: 9f3ca69d663ca014f996b8b1bf3d404a72dab198
+FileChecksum: SHA256: 76ef182d6724bb02329e5bea25cabdff0b80717bc6c29b8b439ccd6cdcb24ec4
+FileChecksum: MD5: 1bb28a07996f4cfbb40c175eb0c90134
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/images/diagram.png
+SPDXID: SPDXRef-item11738317
+FileChecksum: SHA1: c2ab846e9a7ac804fbbe618973fb0c0d5fd24e11
+FileChecksum: SHA256: 31fd3c00e9803ea1ce670e01ec19760d2b4d5c508c915e1fe21433feeaffddeb
+FileChecksum: MD5: de48c27ec8eac1682eb25e405ddd9c4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-GPL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/.github/workflows/release.yml
+SPDXID: SPDXRef-item11738320
+FileChecksum: SHA1: 5d7a9648343f9fef681a4ee5c76ca6b68924ee9d
+FileChecksum: SHA256: 277422e6727b526f35fafd469b1327849498e054b08f6c1972c9b6baf3dc6faa
+FileChecksum: MD5: 5b32e0409e618bc08481952c7a1d7186
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/.github/workflows/build-test-publish-on-push-cached.yaml
+SPDXID: SPDXRef-item11738321
+FileChecksum: SHA1: af252bb3650e65bfad639dcb63602c7e52dcd17c
+FileChecksum: SHA256: 4d7b68adac016cace5a16cc36ca9a34e504e0907a61ffe158a32f26655c918f6
+FileChecksum: MD5: 5dd4b801a0b27a602465358f4e0214c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/.github/workflows/static.yml
+SPDXID: SPDXRef-item11738322
+FileChecksum: SHA1: 86dc6f0e21145cfbd6662ec7c0a1c21e2ff1b069
+FileChecksum: SHA256: 0e2b8889451236ea6df60a1c91ed3d2adf7fbd4440d7343503673569be83ae17
+FileChecksum: MD5: e64057012898fdaf04088e0589700582
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/.github/dependabot.yml
+SPDXID: SPDXRef-item11738323
+FileChecksum: SHA1: a34e1d40e61553eb9292e3f8e2292eaf12b415dc
+FileChecksum: SHA256: cb9acb7c6d993936c2203eb0ba1cd9d370350a37f8619b2f44b114909413f29e
+FileChecksum: MD5: ff7c1de2ffb291cf60850ff2a03b1685
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/vitest.shared.js
+SPDXID: SPDXRef-item11738325
+FileChecksum: SHA1: 184f89f5b8e5eace5805379612fa6ced9740ecc3
+FileChecksum: SHA256: add5c02286a49af6a71bba771963dfdbd450a9be55c85051360539d5f6a95f4a
+FileChecksum: MD5: 0342017ea5ca4c7ea607b45eaf92cdd3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/examples/sd-jwt-vc-example/decode.ts
+SPDXID: SPDXRef-item11738328
+FileChecksum: SHA1: 2c2532e9cf4e04c9fc396b398c5eee5c24b7c76e
+FileChecksum: SHA256: c5c929fdaf924a47df80e8b4dba150af8ff777e40920bd0189297d700cd6f006
+FileChecksum: MD5: 2582a114d1e8bdf6579c8651a271d336
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/examples/sd-jwt-vc-example/kb.ts
+SPDXID: SPDXRef-item11738329
+FileChecksum: SHA1: f333e29ce8ccc13435f0f21f5cd6230ff2f3a75c
+FileChecksum: SHA256: b20815046c7e28e4c379a3d062d027dbbb9e9f89ccefae5c60eb31b2aa756471
+FileChecksum: MD5: 9423f66eb7de88a105179a0a8dd86daf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/examples/sd-jwt-vc-example/tsconfig.json
+SPDXID: SPDXRef-item11738330
+FileChecksum: SHA1: 2941dd90e5d65b5d078759cbbb4c92d76c311131
+FileChecksum: SHA256: 9e628c0a409550f32802c8b23468480e94fce393c7161305e938c49c9568afae
+FileChecksum: MD5: 6f70f23c950b42be32ef9cc070515134
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/examples/sd-jwt-vc-example/decoy.ts
+SPDXID: SPDXRef-item11738331
+FileChecksum: SHA1: e9a051efba46d0387130a90975117c2f57e1334a
+FileChecksum: SHA256: eb42987de5c92862f4f402e6e34b5b76880bd19c569a662c70afcdb8fdf7fd20
+FileChecksum: MD5: d43256ae271b8324c5bdb887e5a2ca00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/examples/sd-jwt-vc-example/basic.ts
+SPDXID: SPDXRef-item11738332
+FileChecksum: SHA1: 624b5700bf953bf05673ad220aaf88c41af7a69e
+FileChecksum: SHA256: 0348cbab57d02d0d5e02ebe2c7ee5c217121060cddf5167570107584cc0e023f
+FileChecksum: MD5: 20414c7f038792e3f1766ee5b94796f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/examples/sd-jwt-vc-example/custom.ts
+SPDXID: SPDXRef-item11738333
+FileChecksum: SHA1: 50aadfa668ef5a616ad52c1b6e8ffb68593214a2
+FileChecksum: SHA256: ed8e066decf33a3883f186793297e011a5da6349aca23a0d664ddede98d8acad
+FileChecksum: MD5: 794c9df78bc336334c15efe8f5c425f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/examples/sd-jwt-vc-example/sdjwtobject.ts
+SPDXID: SPDXRef-item11738334
+FileChecksum: SHA1: fc0bb904e5522e1dcebfff7ae43b6e05f4183188
+FileChecksum: SHA256: b3d0fefb2a5bf67280c6c3a6fb2eaac97739c44db01c97a6a61516b22106511d
+FileChecksum: MD5: d4cf51619865c100c5dda6a441242a7c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/examples/sd-jwt-vc-example/custom_header.ts
+SPDXID: SPDXRef-item11738335
+FileChecksum: SHA1: 74d25c25d52b5f451bcbe22ccb78f555cf68d1e6
+FileChecksum: SHA256: 5e52cf0519ad7c69e4166c40a7d5bdc3d6e2785cbb6ae6c3e02a85cd63b75f5a
+FileChecksum: MD5: b2cace063cfc404710bdb7b2d1c7284d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/examples/sd-jwt-vc-example/all.ts
+SPDXID: SPDXRef-item11738336
+FileChecksum: SHA1: 7d7dc232eb64d706337941884db10fba1019138f
+FileChecksum: SHA256: 3db11b3d19d5a3dbbdb3ccfe538d79106e6d476c56251d752ea5f1149289bc88
+FileChecksum: MD5: f62e6634522860957dac48baf315492b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/examples/sd-jwt-vc-example/utils.ts
+SPDXID: SPDXRef-item11738337
+FileChecksum: SHA1: f54fa218d5842ad4f51295370606134ab427908b
+FileChecksum: SHA256: 103392807cf6586c5607b68184f2519518bc5a675e7986a232ea4b0d3bf9ed97
+FileChecksum: MD5: 102e379104518a053528b15832991187
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/examples/sd-jwt-vc-example/README.md
+SPDXID: SPDXRef-item11738338
+FileChecksum: SHA1: 9b9551681f08be4b1753985e51b84729aae0bd5d
+FileChecksum: SHA256: f297d37de8f2bea3baafc64c4456faafc66b64dccbe721ce9b4bf92e69a25abf
+FileChecksum: MD5: ff1b0ea3098c7e45dc109e66644d1f99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/examples/present-example/tsconfig.json
+SPDXID: SPDXRef-item11738341
+FileChecksum: SHA1: 807c9a2063f5769f496de0624112bea04c5f73b1
+FileChecksum: SHA256: f830a92d20336515000a6a3352a800bad1e742439feb4290e8c4b2b26bf304f4
+FileChecksum: MD5: b06c35bd0725a1efc12a9a617b8d3db7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/examples/present-example/present.ts
+SPDXID: SPDXRef-item11738342
+FileChecksum: SHA1: eaadb8866f1b7631bc2774ddc88e9008d7767834
+FileChecksum: SHA256: 39b04c9db4b1b70b8552be4c95c818c662a0c5a2444a8ba2a37f84fb9df9cd8e
+FileChecksum: MD5: b434c77dd2447a6780e2ff303c2c4068
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/examples/present-example/README.md
+SPDXID: SPDXRef-item11738343
+FileChecksum: SHA1: 8c44cafb20daf63325386321f6e259ffb6e13a28
+FileChecksum: SHA256: 8728c01e783ab5a7e1f7ccd435d5e1ff586cff6c2ca5bb03eac73a4358e6ba30
+FileChecksum: MD5: fca6ffc7eae53a761f440f5d5a7cc94f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/examples/sd-jwt-example/decode.ts
+SPDXID: SPDXRef-item11738346
+FileChecksum: SHA1: ec0c36b34a6bbc18986b14e1585e2080b75c8dca
+FileChecksum: SHA256: 787580de5d41b37034665bb5400f311f54cc50317052bc4a10158cf77d24835e
+FileChecksum: MD5: 0789b63b807e5e6db60bc4d1a7874a11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/examples/sd-jwt-example/kb.ts
+SPDXID: SPDXRef-item11738347
+FileChecksum: SHA1: b0879681a587e1e5b3da2fb2ef129c709feb2639
+FileChecksum: SHA256: c65467be2df9d560a660adf264beeea70aada58eff98b7a86de4ce6560e4ca44
+FileChecksum: MD5: 447b84e152cc8d78adcfa9c64343264c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/examples/sd-jwt-example/generalJSON.ts
+SPDXID: SPDXRef-item11738348
+FileChecksum: SHA1: 37b7011db5418c26001b2167e0bd5cdb828c6704
+FileChecksum: SHA256: cde00a7cee0ac17c2c13dd46e3deac30a73f517d3c713feae49dd2e382d85805
+FileChecksum: MD5: 846908071bf0073339ee7603b0c5f131
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/examples/sd-jwt-example/tsconfig.json
+SPDXID: SPDXRef-item11738349
+FileChecksum: SHA1: 2941dd90e5d65b5d078759cbbb4c92d76c311131
+FileChecksum: SHA256: 9e628c0a409550f32802c8b23468480e94fce393c7161305e938c49c9568afae
+FileChecksum: MD5: 6f70f23c950b42be32ef9cc070515134
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/examples/sd-jwt-example/decoy.ts
+SPDXID: SPDXRef-item11738350
+FileChecksum: SHA1: 53f78c345dd173a1b0913e154c56359d6a60a08e
+FileChecksum: SHA256: fc84c38488be337b2cb049bda26ac464b68744fe607ff2ed0acae61a4a560dfd
+FileChecksum: MD5: 8207a1214ae24bd0d1da82fa231bf26c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/examples/sd-jwt-example/basic.ts
+SPDXID: SPDXRef-item11738351
+FileChecksum: SHA1: 70c61e3559dcf4c37ebcc71754c4dc0e18a4854d
+FileChecksum: SHA256: fb571cdbfc30268bca521dfc1a012dc908c0b06503ec36b6f4474f53764f1e4e
+FileChecksum: MD5: 31025fea26b08c22a34cac252dc40f47
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/examples/sd-jwt-example/custom.ts
+SPDXID: SPDXRef-item11738352
+FileChecksum: SHA1: 8b4557cf67af47249ac940b51e555e2054bf5824
+FileChecksum: SHA256: c0e9195c3072964d2a4fec32961022f88174d1e478105d7f1b64facc23cda8dc
+FileChecksum: MD5: 3a37a2b727c61fb068ab24162ce7befc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/examples/sd-jwt-example/sdjwtobject.ts
+SPDXID: SPDXRef-item11738353
+FileChecksum: SHA1: b79dfc4e56e6228094bcb75774b84a4d798c5170
+FileChecksum: SHA256: 91bc8691ce1b76d7a60a92a202cc764aed71f20a56c7502e93cb85200ed091f8
+FileChecksum: MD5: 849906685f6ac06157bb025a94a0a1c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/examples/sd-jwt-example/custom_header.ts
+SPDXID: SPDXRef-item11738354
+FileChecksum: SHA1: 321672042977ad1904c928ac0e1e9bdff2806da9
+FileChecksum: SHA256: 3b27747cc179cd77d9e8466ccfdd156abdfc9b828e31afeda6b2c54c898a1a88
+FileChecksum: MD5: b8d5c64835984e223544512a867fbbc7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/examples/sd-jwt-example/all.ts
+SPDXID: SPDXRef-item11738355
+FileChecksum: SHA1: 5504d8011ce998d560ce408e53c684ec56407602
+FileChecksum: SHA256: 3d1b8ea40f2765dac36e01b41035c846be17f35f91ae03d334ebe95dd441cec8
+FileChecksum: MD5: 79e4db33978f6b08f561cb5353953904
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/examples/sd-jwt-example/utils.ts
+SPDXID: SPDXRef-item11738356
+FileChecksum: SHA1: f54fa218d5842ad4f51295370606134ab427908b
+FileChecksum: SHA256: 103392807cf6586c5607b68184f2519518bc5a675e7986a232ea4b0d3bf9ed97
+FileChecksum: MD5: 102e379104518a053528b15832991187
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/examples/sd-jwt-example/flattenJSON.ts
+SPDXID: SPDXRef-item11738357
+FileChecksum: SHA1: 2bef45fb4caa6c668e9bb214ee9d8c9a90cc8cb4
+FileChecksum: SHA256: 5bc28f9eb2e38aed097a7c342819dc47d734cf8c87e4a86709f9707d961f4d93
+FileChecksum: MD5: 858ebb675828a6df184c4bee7d3e9160
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/examples/sd-jwt-example/README.md
+SPDXID: SPDXRef-item11738358
+FileChecksum: SHA1: 9b9551681f08be4b1753985e51b84729aae0bd5d
+FileChecksum: SHA256: f297d37de8f2bea3baafc64c4456faafc66b64dccbe721ce9b4bf92e69a25abf
+FileChecksum: MD5: ff1b0ea3098c7e45dc109e66644d1f99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/examples/decode-example/decode.ts
+SPDXID: SPDXRef-item11738361
+FileChecksum: SHA1: 628cdf64c1a6881d9085ec8eb4ca2ca0cefd6c1d
+FileChecksum: SHA256: bc6a6b345f6db750c38549468282a5d682058152dc64034aedd61074091bd6a3
+FileChecksum: MD5: fa7c1182c6d91ef49cf65972fa197c6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/examples/decode-example/tsconfig.json
+SPDXID: SPDXRef-item11738362
+FileChecksum: SHA1: 004cb27e24d2e05be1d5132737f3a6c1870da3c4
+FileChecksum: SHA256: 11bfed94ea1c3c6e59dcc9cfa7e39a1f0265628def1005bda41ad8b449bdf0f5
+FileChecksum: MD5: b98fe6dfb72570150bb8a9b8c3135bf2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/examples/decode-example/README.md
+SPDXID: SPDXRef-item11738363
+FileChecksum: SHA1: b7f0c1f4aa46d31eb2f298bd472953dd1db518da
+FileChecksum: SHA256: 14c8bde36bb06acdaf95df4aa9ac8eaa3adc29d3d11fc9bc3938b38b3204e1a8
+FileChecksum: MD5: f9a7725550d8b140e3b7afbaaa5b220a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/examples/README.md
+SPDXID: SPDXRef-item11738365
+FileChecksum: SHA1: 2536dff6cd61f04976fcbe24eef372d686580036
+FileChecksum: SHA256: 63233768140423ab80e389d5313f224165517dcdc644d13390d4a547175d0d42
+FileChecksum: MD5: f7be8a64fdff875fb2ed5686419cb10a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/.gitignore
+SPDXID: SPDXRef-item11738366
+FileChecksum: SHA1: fce37fcfaf4243731b93cfafedc75f158e3e60a1
+FileChecksum: SHA256: 69b7fbea571e66dd643125de6be3a4651c333e5aa0f1d9de402119d595a5e444
+FileChecksum: MD5: 0182695a5bb26732cf229ccb9dbe0297
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/pnpm-lock.yaml
+SPDXID: SPDXRef-item11738367
+FileChecksum: SHA1: d13a79377bd2ffd9e859799794500635aa9ee037
+FileChecksum: SHA256: 4591642c5d5ce9ed0cba993675856cb46a2ec61ca95f413dd2ff3a7a0a833ed9
+FileChecksum: MD5: 1406febc959ac1d9b97143833ec4311d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/CHANGELOG.md
+SPDXID: SPDXRef-item11738368
+FileChecksum: SHA1: 810115e5116658d347ecdaadfdf7690e9f19ac97
+FileChecksum: SHA256: 9013015bfc6d124a4c04d4287ca34eb7328dae765bd2418645e932490d333024
+FileChecksum: MD5: 56e9528061b8f2e65a7f43d0f156be51
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/pnpm-workspace.yaml
+SPDXID: SPDXRef-item11738369
+FileChecksum: SHA1: 6e6eebac98b1639774154d370fddbfb1f1f1eb8b
+FileChecksum: SHA256: e41fee90c623468a4cd4ed543805d12779041b160df8bb7209ea176fc4900bf9
+FileChecksum: MD5: 12db5b7749a7937abfe3531a4e10d464
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/vitest.workspace.ts
+SPDXID: SPDXRef-item11738370
+FileChecksum: SHA1: e42b96fff3697c2f060e5dd97381dddcc4b807a5
+FileChecksum: SHA256: dbd133112ffc8a5eb05a8d6bcbfa8b573cbe5fc7489e4f5bc0afb5feeb3c507a
+FileChecksum: MD5: 712305d72d4880bbf95e90e2aad2eced
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/lerna.json
+SPDXID: SPDXRef-item11738371
+FileChecksum: SHA1: 25fa5343729589a0055a85a13903aaa865f22468
+FileChecksum: SHA256: 24e361510c9d7e8a23a3dbad18b389630a3611adae50e147f9f3bbf9bdec822c
+FileChecksum: MD5: 2384a10fe051f4fe5a3e7bcd7b77e3b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/.husky/pre-commit
+SPDXID: SPDXRef-item11738374
+FileChecksum: SHA1: 263ea390143016e2b40aa280a21612dc600bd89f
+FileChecksum: SHA256: b066050af3f88218f8769a8731502d69d7c9a9c8fde8b36daef24622155fb95b
+FileChecksum: MD5: d4ab896fa39cea7c01c2fe21c51e17ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/present/vitest.config.mts
+SPDXID: SPDXRef-item11738377
+FileChecksum: SHA1: a85fea8b2d43ea4fa53e97d22bb0873d3af80aba
+FileChecksum: SHA256: 9db07511c1ee6829893638d1c08a083deab9dc379e0791381ce1944b53d0e153
+FileChecksum: MD5: fa9223ce09656f6eeb4bf7fb87959639
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/present/tsconfig.json
+SPDXID: SPDXRef-item11738378
+FileChecksum: SHA1: c277f87bce9d0ed9bae947fd8898fcae4b903f64
+FileChecksum: SHA256: aa7a55224693c0b8899f19259f84c0d7a2a89dcbe99d6f10d29ff70d5ea23e8c
+FileChecksum: MD5: 2b946889b271a4e4b36f569ce650c28f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/present/src/test/present.spec.ts
+SPDXID: SPDXRef-item11738381
+FileChecksum: SHA1: 316e1981c105a349ee102c1da250fe0cf880e876
+FileChecksum: SHA256: 8670239581d49d5fc09c7672a6696cec9d447448e54225abb7a017e47e1e3a51
+FileChecksum: MD5: 9136eb7a789abe21982ad9e4565fa3c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/present/src/present.ts
+SPDXID: SPDXRef-item11738382
+FileChecksum: SHA1: df4393cafdca2d3bcec267ef9e942c0f29e2af36
+FileChecksum: SHA256: c7b167d9396c39454c2b94e83761d3427bff194b1fcd357a7203fa59c3edf46d
+FileChecksum: MD5: 0a53a7427860983ba48707d4f48a9736
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/present/src/index.ts
+SPDXID: SPDXRef-item11738383
+FileChecksum: SHA1: aa879c5e2c6bb13e2ed546ee61957b99caa9ceac
+FileChecksum: SHA256: bc1dd044993bb248a1cbe4542ad530e1a4964290fe17854732b7a15fe329f11b
+FileChecksum: MD5: e8af86351de391efdb23c8b0d20ac75f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/present/CHANGELOG.md
+SPDXID: SPDXRef-item11738384
+FileChecksum: SHA1: fe8b96f5b32349d2f79abfb745bf65730ca94a25
+FileChecksum: SHA256: 388ac5ee4dd274bb7a5ece4481997ee898e3aa938697a6a4f6920951523f0425
+FileChecksum: MD5: 5abaea3ffb02fbfdeb97245520f9f7fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/present/README.md
+SPDXID: SPDXRef-item11738385
+FileChecksum: SHA1: 94dde140bfa3242b4ea5efd62bbf77de762641ca
+FileChecksum: SHA256: 4170808cb8ba29f45cfc69f3d7a8f9be4e9b75d099975fd467989303a31ad367
+FileChecksum: MD5: 05709135191d8285137820ae423a8e8d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-URL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/types/vitest.config.mts
+SPDXID: SPDXRef-item11738388
+FileChecksum: SHA1: a85fea8b2d43ea4fa53e97d22bb0873d3af80aba
+FileChecksum: SHA256: 9db07511c1ee6829893638d1c08a083deab9dc379e0791381ce1944b53d0e153
+FileChecksum: MD5: fa9223ce09656f6eeb4bf7fb87959639
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/types/tsconfig.json
+SPDXID: SPDXRef-item11738389
+FileChecksum: SHA1: c277f87bce9d0ed9bae947fd8898fcae4b903f64
+FileChecksum: SHA256: aa7a55224693c0b8899f19259f84c0d7a2a89dcbe99d6f10d29ff70d5ea23e8c
+FileChecksum: MD5: 2b946889b271a4e4b36f569ce650c28f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/types/src/type.ts
+SPDXID: SPDXRef-item11738391
+FileChecksum: SHA1: 176a77c18b866c45da6b93cf5f21ade489a23743
+FileChecksum: SHA256: 3e6a087c95eab8a7dae8a804a5b3884a0f76cd03b92f56fd8f4c18230ce0e32b
+FileChecksum: MD5: 0eb4acfc878871093b62a057caf04806
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/types/src/test/type.spec.ts
+SPDXID: SPDXRef-item11738393
+FileChecksum: SHA1: 170eb14e17f5864730cc8416d8bd65236c13671b
+FileChecksum: SHA256: 57fb75e894c368d5e6f5dacfd292ae3b4f486cefd4aaab65222ed2d965c3ab22
+FileChecksum: MD5: a4f4e70c01f11f6bbff1194b85870352
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/types/src/index.ts
+SPDXID: SPDXRef-item11738394
+FileChecksum: SHA1: eb457aad8b9c4ec4fdaf2510d72a42ba5fb016ed
+FileChecksum: SHA256: c72001118edc35bbe4fff17674dc5f2032ccdbcc5bec4bd7894a6ed55739d31b
+FileChecksum: MD5: 4f3dabd53970c4ed5116d076d7fd57b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/types/CHANGELOG.md
+SPDXID: SPDXRef-item11738395
+FileChecksum: SHA1: bde241796fc3461eb40d28786ea5ebdc47964fe7
+FileChecksum: SHA256: ded06ce6bd80f64fdc37a5860ffdd9c6c88ce8cba84d05315aa1b22314512df2
+FileChecksum: MD5: 409cfccb7db4b2c3ab5ba18bc306241d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/types/README.md
+SPDXID: SPDXRef-item11738396
+FileChecksum: SHA1: 2a58453cc83a7b7da21d041dc3d622a659dc4993
+FileChecksum: SHA256: 93de59f2db004a2535278b4b644828ff9c935bf887aca83cd1faba96372c7709
+FileChecksum: MD5: 28ee61b0d2bf653ec604f9f9aa799727
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-URL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/browser-crypto/vitest.config.mts
+SPDXID: SPDXRef-item11738399
+FileChecksum: SHA1: 3042df50f19eaadbf72803880e8b8a0c3fc6eb84
+FileChecksum: SHA256: 1a045fd4f14e890e2583f82f45d96843db2a8e38323ed707851a8ccfee5e86e5
+FileChecksum: MD5: 5cf821f77f8ac79fbde089ee8a661b84
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/browser-crypto/tsconfig.json
+SPDXID: SPDXRef-item11738400
+FileChecksum: SHA1: c277f87bce9d0ed9bae947fd8898fcae4b903f64
+FileChecksum: SHA256: aa7a55224693c0b8899f19259f84c0d7a2a89dcbe99d6f10d29ff70d5ea23e8c
+FileChecksum: MD5: 2b946889b271a4e4b36f569ce650c28f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/browser-crypto/src/test/crypto.spec.ts
+SPDXID: SPDXRef-item11738403
+FileChecksum: SHA1: 55933d51a64025839f68c02e3d0fc4de69f12e9e
+FileChecksum: SHA256: 917e1e6339d33f94d74bb993678c6c9940ed0cca6cc2605d9ea87989e109dbbe
+FileChecksum: MD5: d955eb4b4ea4e4a6dda5000c0ea46deb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/browser-crypto/src/crypto.ts
+SPDXID: SPDXRef-item11738404
+FileChecksum: SHA1: 9c78ffd9516b3ac662efd069a5e09696afd41813
+FileChecksum: SHA256: e13120329e3a048316227647358c45e557fb35cefaa237980e16cb8e1284382e
+FileChecksum: MD5: 9df66fe7f50798537eb985f11ae9e34e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/browser-crypto/src/index.ts
+SPDXID: SPDXRef-item11738405
+FileChecksum: SHA1: b703d0e34e282f5edcab4a37c01d3d52fe7a18e9
+FileChecksum: SHA256: 0d1d6e0b19bee38c18686ebdeda8c4490b2e3d899ebe467521d7dc34241a03a6
+FileChecksum: MD5: 3918c58a9b8dff3fc5241b6560e1f703
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/browser-crypto/CHANGELOG.md
+SPDXID: SPDXRef-item11738406
+FileChecksum: SHA1: 97fb8b9f0651428fd7a330153bb7892cce97d990
+FileChecksum: SHA256: 3d485aee9703abccaf95ad2303a5cf4d50d9e1806aab18047d4638f6307ba60a
+FileChecksum: MD5: 98b56113469789be91091b759b3af3aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/browser-crypto/README.md
+SPDXID: SPDXRef-item11738407
+FileChecksum: SHA1: 28093276538134ee09d08e89ba417952e89436cf
+FileChecksum: SHA256: 6c8f2b95c0168a53e0391acfdb00ecedc694264c4a019ccba41e4d41188b37c9
+FileChecksum: MD5: 3f877aa9f79687991d03aaf1a3805a2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-URL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/node-crypto/vitest.config.mts
+SPDXID: SPDXRef-item11738410
+FileChecksum: SHA1: 9ba192a283ea481653d9b8a51d39976317a2f926
+FileChecksum: SHA256: af6cd25bdc7eb9d78f25c3a225e94026ace555aa48065f8fb9a0f2a676a513c1
+FileChecksum: MD5: 86ba5e203d799920a4e757cb24de8694
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/node-crypto/tsconfig.json
+SPDXID: SPDXRef-item11738411
+FileChecksum: SHA1: c277f87bce9d0ed9bae947fd8898fcae4b903f64
+FileChecksum: SHA256: aa7a55224693c0b8899f19259f84c0d7a2a89dcbe99d6f10d29ff70d5ea23e8c
+FileChecksum: MD5: 2b946889b271a4e4b36f569ce650c28f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/node-crypto/src/test/crypto.spec.ts
+SPDXID: SPDXRef-item11738414
+FileChecksum: SHA1: c694acfb0a2379755caf87139d15dd7fc33ec7ab
+FileChecksum: SHA256: 695e6bbe4e46839eb1697444b56c93b9fbf92019ca70d4ed667e2dedd6f64b05
+FileChecksum: MD5: 5b6771b64219e1db9361184e88abc59c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/node-crypto/src/crypto.ts
+SPDXID: SPDXRef-item11738415
+FileChecksum: SHA1: 9d0fb606e885b5a7ddf3764b81dc3b4390720c39
+FileChecksum: SHA256: 9167211c993184e9c8b464ae27ce0a850457a563ac36e262c4e89de65f088ef2
+FileChecksum: MD5: 16807658b7ae43a7bab282c187130c71
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/node-crypto/src/index.ts
+SPDXID: SPDXRef-item11738416
+FileChecksum: SHA1: b703d0e34e282f5edcab4a37c01d3d52fe7a18e9
+FileChecksum: SHA256: 0d1d6e0b19bee38c18686ebdeda8c4490b2e3d899ebe467521d7dc34241a03a6
+FileChecksum: MD5: 3918c58a9b8dff3fc5241b6560e1f703
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/node-crypto/CHANGELOG.md
+SPDXID: SPDXRef-item11738417
+FileChecksum: SHA1: 1fd1eab5df0bf05fe0636ada396b01d581cb50be
+FileChecksum: SHA256: 97fb1202b6fa3d3815b12ece9f342e3916cf9c629985d8deb95c6e52e3cbf2a0
+FileChecksum: MD5: 3967cf0a25a1502437a5e3548586a065
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/node-crypto/README.md
+SPDXID: SPDXRef-item11738418
+FileChecksum: SHA1: a3faa80a6eacb0338d73f9684514d61d56882b12
+FileChecksum: SHA256: 2373a78abece64ef1055b8facdc4470b31b924351a945df7b28e37f81859dc9f
+FileChecksum: MD5: 38137fd864a805750e4a6aed4b663fe5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-URL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/utils/vitest.config.mts
+SPDXID: SPDXRef-item11738421
+FileChecksum: SHA1: a85fea8b2d43ea4fa53e97d22bb0873d3af80aba
+FileChecksum: SHA256: 9db07511c1ee6829893638d1c08a083deab9dc379e0791381ce1944b53d0e153
+FileChecksum: MD5: fa9223ce09656f6eeb4bf7fb87959639
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/utils/tsconfig.json
+SPDXID: SPDXRef-item11738422
+FileChecksum: SHA1: c277f87bce9d0ed9bae947fd8898fcae4b903f64
+FileChecksum: SHA256: aa7a55224693c0b8899f19259f84c0d7a2a89dcbe99d6f10d29ff70d5ea23e8c
+FileChecksum: MD5: 2b946889b271a4e4b36f569ce650c28f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/utils/src/error.ts
+SPDXID: SPDXRef-item11738424
+FileChecksum: SHA1: 64314aaeb15a76e5f50e66d0d06f84bb4811bc8e
+FileChecksum: SHA256: 124c3cb83c48c341b7be4ae8264588e65c6a947372753b50c0a5a95a1803a57f
+FileChecksum: MD5: f34bdc3e0cd1dcd81874a496ad572651
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/utils/src/base64url.ts
+SPDXID: SPDXRef-item11738425
+FileChecksum: SHA1: 4dce249185f57bf05bed156d30de83892296e31c
+FileChecksum: SHA256: 9941d20aad0ed324aed6ea83b0b6e0f6d4eb7d7684e6c7791dfede2c67269feb
+FileChecksum: MD5: d9e1f4e43269f22990ba3fdaab347c4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/utils/src/test/base64url.spec.ts
+SPDXID: SPDXRef-item11738427
+FileChecksum: SHA1: 32ee99a6626436e377eb85af903f46713100f00d
+FileChecksum: SHA256: aeb3350f64fd1fc9cb2cf1339eb845c325c7fb3eec2f99e3b1385c457b677de7
+FileChecksum: MD5: 59efdebc9f1ad4b2e9c850f156faf5f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/utils/src/test/error.spec.ts
+SPDXID: SPDXRef-item11738428
+FileChecksum: SHA1: 359ece5815d4d21acaabb1b3c7873e70437b6caa
+FileChecksum: SHA256: ac1718e86cf1e7cb6c6004f0eecf40fb46e8aba5fab6f70bc90126a74d5c1c03
+FileChecksum: MD5: 1a72ab592b7a200e0f2efc6693a7af9c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/utils/src/test/disclosure.spec.ts
+SPDXID: SPDXRef-item11738429
+FileChecksum: SHA1: 472f7916f567076e108c116bfe923e41082c3362
+FileChecksum: SHA256: 7437792d59267cbc8d1028266f8a2eb03c7af9bbf30524105014c3bc8343ebb0
+FileChecksum: MD5: 59bbbfbae4dcf35d1b2d177ad7c6de6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/utils/src/index.ts
+SPDXID: SPDXRef-item11738430
+FileChecksum: SHA1: 4716a9d4b9a973c40c3add757f66bf6f753c38ae
+FileChecksum: SHA256: 2ab8c1dcfdbe2a13089f44a15114abb3ac1a3c85e866d40a01393de5ab1dc0cc
+FileChecksum: MD5: b379707a3f0b54229312945d05b63d82
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/utils/src/disclosure.ts
+SPDXID: SPDXRef-item11738431
+FileChecksum: SHA1: d1aaff2c19327bed13b2f378891e07d885dea1e2
+FileChecksum: SHA256: 1003b50e1543cb1b1d90a83b044510020893687818886006cb700cb5f3b2f510
+FileChecksum: MD5: f37f1a38c1ca810b4e381d245ced9c83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/utils/CHANGELOG.md
+SPDXID: SPDXRef-item11738432
+FileChecksum: SHA1: 5805ae03a1a436236dadc32b4c249d5eb3f0461f
+FileChecksum: SHA256: 71c21908d773d731ff136539f6d8a9ad817aa648b7b315c72bd46a62a5351cb6
+FileChecksum: MD5: c848078af19fd67686ee2b4c75229c4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/utils/README.md
+SPDXID: SPDXRef-item11738433
+FileChecksum: SHA1: 96ee4f568140225c9d5eb553508c42eaca6b8b5d
+FileChecksum: SHA256: f3101582af8d7a99ad83fe7638f7c6a9915add7e0ca678f25ef02d7f8414801b
+FileChecksum: MD5: 0dd76e96a6aca90d41ed631b99ef30af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-URL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/decode/vitest.config.mts
+SPDXID: SPDXRef-item11738436
+FileChecksum: SHA1: a85fea8b2d43ea4fa53e97d22bb0873d3af80aba
+FileChecksum: SHA256: 9db07511c1ee6829893638d1c08a083deab9dc379e0791381ce1944b53d0e153
+FileChecksum: MD5: fa9223ce09656f6eeb4bf7fb87959639
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/decode/tsconfig.json
+SPDXID: SPDXRef-item11738437
+FileChecksum: SHA1: c277f87bce9d0ed9bae947fd8898fcae4b903f64
+FileChecksum: SHA256: aa7a55224693c0b8899f19259f84c0d7a2a89dcbe99d6f10d29ff70d5ea23e8c
+FileChecksum: MD5: 2b946889b271a4e4b36f569ce650c28f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/decode/src/decode.ts
+SPDXID: SPDXRef-item11738439
+FileChecksum: SHA1: ec8a0df793e4a2f142834c1aae650285522e6971
+FileChecksum: SHA256: 55d70c25ede64177e5847aceebcd82a33878eb6dc41c41e15ee0a8848da1b06b
+FileChecksum: MD5: faf339d28c9999a61f6a52d27d7647e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/decode/src/test/decode.spec.ts
+SPDXID: SPDXRef-item11738441
+FileChecksum: SHA1: 79b915f1589d8bba1a08c49aa44c6953cf458591
+FileChecksum: SHA256: 69c10256038b3f46672e0e2d7a5718e95a2550b64432145f2cd6d52787f79257
+FileChecksum: MD5: dfc42e7b119d2af1b10f2695d9cef46c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/decode/src/index.ts
+SPDXID: SPDXRef-item11738442
+FileChecksum: SHA1: fa52b2fd207998c7297d7bb3b1940346e664eb2a
+FileChecksum: SHA256: 7a2fddc83d89fbea058e058791fa87d70da2f346d81c6b236f1e8310ee81b52f
+FileChecksum: MD5: 5c31489f9b9d2964a63b8fb4d8868c6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/decode/CHANGELOG.md
+SPDXID: SPDXRef-item11738443
+FileChecksum: SHA1: b3cc7b8c45538de9932ef8f42f90d68a42b9974c
+FileChecksum: SHA256: 8231341115b39b8e138c19e2be102b70e563be5f411fef8e13f2a8daf7b78f98
+FileChecksum: MD5: d4433edeff8933ef5bd66a590d2039f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/decode/README.md
+SPDXID: SPDXRef-item11738444
+FileChecksum: SHA1: 1d4c433f8974a6b06ad871aade90217e3db7ca1e
+FileChecksum: SHA256: 4e261eea9ed7b9169e5b5a81b54f942a78a743a3a648b5cf11f2af86160497eb
+FileChecksum: MD5: 893d90a6e32faa9859101334da472e97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-URL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/sd-jwt-vc/vitest.config.mts
+SPDXID: SPDXRef-item11738447
+FileChecksum: SHA1: a85fea8b2d43ea4fa53e97d22bb0873d3af80aba
+FileChecksum: SHA256: 9db07511c1ee6829893638d1c08a083deab9dc379e0791381ce1944b53d0e153
+FileChecksum: MD5: fa9223ce09656f6eeb4bf7fb87959639
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/sd-jwt-vc/tsconfig.json
+SPDXID: SPDXRef-item11738448
+FileChecksum: SHA1: c277f87bce9d0ed9bae947fd8898fcae4b903f64
+FileChecksum: SHA256: aa7a55224693c0b8899f19259f84c0d7a2a89dcbe99d6f10d29ff70d5ea23e8c
+FileChecksum: MD5: 2b946889b271a4e4b36f569ce650c28f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/sd-jwt-vc/src/sd-jwt-vc-type-metadata-format.ts
+SPDXID: SPDXRef-item11738450
+FileChecksum: SHA1: 6a5c41d71d0a90c0911a736e18da3d9616ddf8fb
+FileChecksum: SHA256: f933f4e996d402f660e469d4bb5bf4f18b096cfe736c9aef7ba33f51417b9ec3
+FileChecksum: MD5: f8406ab0069cd6e6e3955b20bf99d528
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/sd-jwt-vc/src/sd-jwt-vc-config.ts
+SPDXID: SPDXRef-item11738451
+FileChecksum: SHA1: b3cc8f7c1f342eb3c67c5990131f15220817226c
+FileChecksum: SHA256: 315557a4dcc5eba30456dc7c25d8ad6a2e0f31828001fd7b0f72fa1049e9af2a
+FileChecksum: MD5: 6aa911ea1ecc23dd53e3797e1e161270
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/sd-jwt-vc/src/sd-jwt-vc-status-reference.ts
+SPDXID: SPDXRef-item11738452
+FileChecksum: SHA1: f0e9cbf28f8fdac4cb66d0f6889c32c5021ab621
+FileChecksum: SHA256: 53bfe5a2ee8ab30744499524c6266c9980271d1acb2d933c1c7364bf23187091
+FileChecksum: MD5: 1ca08e3ae58028b4efcc02ef6f3354b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/sd-jwt-vc/src/sd-jwt-vc-vct.ts
+SPDXID: SPDXRef-item11738453
+FileChecksum: SHA1: 2deafbe021743efc7390d11f7fb32414eb41005a
+FileChecksum: SHA256: f6fd92f99270cffe66367a459f50cf7948fb409366b937f858ca9ad75ddf4005
+FileChecksum: MD5: 50057210ea9fc7d67a1b505d4ba43c55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/sd-jwt-vc/src/test/index.spec.ts
+SPDXID: SPDXRef-item11738455
+FileChecksum: SHA1: 01a55a4dff70e0d58e37285ae8380137880c697e
+FileChecksum: SHA256: 15c743b84fb2158ed88dcbcda60098057266d242958a505c11177659b5403420
+FileChecksum: MD5: fd4f2f473a1a5ee3d2823f969fda285b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/sd-jwt-vc/src/test/vct.spec.ts
+SPDXID: SPDXRef-item11738456
+FileChecksum: SHA1: 6bd37b4a148f277b9bf330219392428708755a17
+FileChecksum: SHA256: 7e013031c29e2958d18385aef9e16984ef70136f85dd0579cad054d856d8f0f2
+FileChecksum: MD5: ff2130eef3a648b6451cafd76c4a6409
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/sd-jwt-vc/src/sd-jwt-vc-payload.ts
+SPDXID: SPDXRef-item11738457
+FileChecksum: SHA1: 31e927f16d4e21f43965cc3f68451e7a9fab7856
+FileChecksum: SHA256: 915938dfaaf398aef6fa6a7dd9473221629a46a3297cd638bc0edb3a49037c28
+FileChecksum: MD5: 5b42716393d7900ea7dedfd596950fd4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/sd-jwt-vc/src/verification-result.ts
+SPDXID: SPDXRef-item11738458
+FileChecksum: SHA1: aed9db4f11cb90cd9f04af3816765217ca9c05cc
+FileChecksum: SHA256: 739c62dc186361828d49f2673a40f10c7f97e1373557a22df4587d00b49ad3dc
+FileChecksum: MD5: 6b87bce3f5daac4a5f32bc2b9476b386
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/sd-jwt-vc/src/sd-jwt-vc-instance.ts
+SPDXID: SPDXRef-item11738459
+FileChecksum: SHA1: 8580979124228909791fd658f257b0fc480c3300
+FileChecksum: SHA256: 0c38c267b3e3b302f3ec2313978440f462f5f1fdb8e68a648c08fa5673c712f9
+FileChecksum: MD5: 8bca3b3471535f1140eff6652fe6b4fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/sd-jwt-vc/src/index.ts
+SPDXID: SPDXRef-item11738460
+FileChecksum: SHA1: fe85ca7f4b44ed5ebce53a1c68f75bb2ab31cb36
+FileChecksum: SHA256: 595ffaf7e5a2540429517ee0d81cd4c11f37af1d9d14ac564df1fa0359e74212
+FileChecksum: MD5: 4194e9c9d56603c03f5df8296650a687
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/sd-jwt-vc/test/recursions.json
+SPDXID: SPDXRef-item11738462
+FileChecksum: SHA1: 4c6c63bfb2e3b05d1cac5741bbfaa37cd6f2f98e
+FileChecksum: SHA256: b552c4fdc1bc2ea86f1ce012b4737b95b232c639c561eecf8c1e4290032ec99b
+FileChecksum: MD5: f6f5527e8886aa5a44b42a86790848d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/sd-jwt-vc/test/no_sd.json
+SPDXID: SPDXRef-item11738463
+FileChecksum: SHA1: 1e33c99d9a4c017c9ff9e2f3eb232334a372f992
+FileChecksum: SHA256: 18ab8421630eeadad627341f0332568b0e4ee243bb91e26f8ff8c08bc395a8bc
+FileChecksum: MD5: e3cd6a805d060612de4f807ad4867a13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/sd-jwt-vc/test/array_data_types.json
+SPDXID: SPDXRef-item11738464
+FileChecksum: SHA1: 9ff283fdb5a046a08109871fd287766edec8f31f
+FileChecksum: SHA256: cb0ed823ebf4689a2c0d295fd2899746ce285d02d7b17749bbe7d4f836291d85
+FileChecksum: MD5: cc0727801f1a5e92cad21e03daf6b284
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/sd-jwt-vc/test/complex.json
+SPDXID: SPDXRef-item11738465
+FileChecksum: SHA1: 2a27aa69bc5d31d8d28e52bf6a1ab61a1c9d6a85
+FileChecksum: SHA256: 6594ac428e261c0420ddeba1da86eb50ea75e86ce8309aeb68d3231ad23cb0b8
+FileChecksum: MD5: 13e63f449ade2891fe371572bf091b69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/sd-jwt-vc/test/object_data_types.json
+SPDXID: SPDXRef-item11738466
+FileChecksum: SHA1: bb567f7d0ee1d5735a607e87399e2dd5296481e1
+FileChecksum: SHA256: 2d0b2cbb4851d6fb01168f7d3729eca12071ac6c818708a906889ddeb18181e9
+FileChecksum: MD5: 1369ad55c88c14c6c164b2b3435bf503
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/sd-jwt-vc/test/json_serialization.json
+SPDXID: SPDXRef-item11738467
+FileChecksum: SHA1: e6aaf6b7148f68552dc60823ff2dc212c96352eb
+FileChecksum: SHA256: b6fce1c136c0e06802ad7422160ac12de64b60d37c78282e3e7e2e3b93c82488
+FileChecksum: MD5: 15a21649e2e7efdac4e03453eb3483d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/sd-jwt-vc/test/array_recursive_sd_some_disclosed.json
+SPDXID: SPDXRef-item11738468
+FileChecksum: SHA1: 017ecddda1696053f6af50ea40b82e3dbe4a0bdb
+FileChecksum: SHA256: 0f6859988bf5e203e68b0d557593079b37e6273b90e064d91132e585902bbe4c
+FileChecksum: MD5: 23c3f212730146e866e97a896e567454
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/sd-jwt-vc/test/array_in_sd.json
+SPDXID: SPDXRef-item11738469
+FileChecksum: SHA1: cc1cc9de0a3225407f52b50a8de202dad040fd26
+FileChecksum: SHA256: e4128761012c1fa5e5807df18200f48215602a2f70afcf0ee093a75a0bec0401
+FileChecksum: MD5: 59bbae263ee248eb040bea49400f1585
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/sd-jwt-vc/test/array_of_scalars.json
+SPDXID: SPDXRef-item11738470
+FileChecksum: SHA1: 2a83ac123cbc6d7ee9c8ecdfeda12ded42f5b17a
+FileChecksum: SHA256: b99ea3c716d8086c39de79283b14cce4a1fbfd275295df1b0f5eb82efbd2193a
+FileChecksum: MD5: c5a1d9d15d6cf10222841e258df8f3d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/sd-jwt-vc/test/array_of_objects.json
+SPDXID: SPDXRef-item11738471
+FileChecksum: SHA1: 4459de5fa3575001c954919f5256b0830330aba4
+FileChecksum: SHA256: 1fae4c6c2af0092ec863a425ceece3567a8f241a7ec677cccc9aca517df1ba9d
+FileChecksum: MD5: b7bcab3cee50362ad98a05a839be2a4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/sd-jwt-vc/test/header_mod.json
+SPDXID: SPDXRef-item11738472
+FileChecksum: SHA1: e6aaf6b7148f68552dc60823ff2dc212c96352eb
+FileChecksum: SHA256: b6fce1c136c0e06802ad7422160ac12de64b60d37c78282e3e7e2e3b93c82488
+FileChecksum: MD5: 15a21649e2e7efdac4e03453eb3483d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/sd-jwt-vc/test/array_of_nulls.json
+SPDXID: SPDXRef-item11738473
+FileChecksum: SHA1: 9490a1fb81674bcf0d17072baf3e31dc289f9f5b
+FileChecksum: SHA256: 7760085de6e678449a58e74c61c6fd2495e11fa47c5b733daf22a58b1faef462
+FileChecksum: MD5: 6d45c43471d64cfcf966c50ef65b225e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/sd-jwt-vc/test/array_nested_in_plain.json
+SPDXID: SPDXRef-item11738474
+FileChecksum: SHA1: 121e79ae0919710258712d0818c29eb26387fba4
+FileChecksum: SHA256: 9be9aa8d7c737823f21f7988e513ec5fa638d7d0dc35d01f195b2f91910bd120
+FileChecksum: MD5: ea72fd5e7331b554d6618bb237a33769
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/sd-jwt-vc/test/array_recursive_sd.json
+SPDXID: SPDXRef-item11738475
+FileChecksum: SHA1: 39257a296c6812250e4fe2b3a5f6e38c537aceb5
+FileChecksum: SHA256: bb038a06fa9f835b94876fb846bd1700c1a750181a820728f843fed68f89cf04
+FileChecksum: MD5: 422304a7d4907eff0ddfc2f1de746b51
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/sd-jwt-vc/test/array_full_sd.json
+SPDXID: SPDXRef-item11738476
+FileChecksum: SHA1: f2b18f1b86aa1aa7459625b841611a8ff335c656
+FileChecksum: SHA256: d248a03c7a6594dd5481d4ef0ebef281ec421d3665c1493c5d4d22ad66d7c58d
+FileChecksum: MD5: ba00cc1cb6ed578c268291fd42012a32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/sd-jwt-vc/test/array_none_disclosed.json
+SPDXID: SPDXRef-item11738477
+FileChecksum: SHA1: 895410cb7436d92d56c2f2266f4f1b1b70616ff8
+FileChecksum: SHA256: c741b864479bdf9cc2122c2572469173b3a5635fd1cd04046c9bf139f28e3516
+FileChecksum: MD5: 980e0c91062ef1ce8b0cdd8fd86cc1f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/sd-jwt-vc/test/key_binding.json
+SPDXID: SPDXRef-item11738478
+FileChecksum: SHA1: e6aaf6b7148f68552dc60823ff2dc212c96352eb
+FileChecksum: SHA256: b6fce1c136c0e06802ad7422160ac12de64b60d37c78282e3e7e2e3b93c82488
+FileChecksum: MD5: 15a21649e2e7efdac4e03453eb3483d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/sd-jwt-vc/test/app-e2e.spec.ts
+SPDXID: SPDXRef-item11738479
+FileChecksum: SHA1: 3690699e49e82e5de45ca899a2604c94d6bf3aba
+FileChecksum: SHA256: e0d2079c7f73730f910608929ea0b6e554b2b7cea5109ab26edf4a9291b299c9
+FileChecksum: MD5: 7517ac8c9412091b49cee28011a1cf32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/sd-jwt-vc/CHANGELOG.md
+SPDXID: SPDXRef-item11738480
+FileChecksum: SHA1: c48c8a6cc0419832c4d979bafc5561a26dbbd93e
+FileChecksum: SHA256: 85df3b15f477d9dca460327c38ab2ddd83ef753d9f8128edd67f81c8af6e01c3
+FileChecksum: MD5: 4a6aaa3ced30d84125b712775cf6aa55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/sd-jwt-vc/README.md
+SPDXID: SPDXRef-item11738481
+FileChecksum: SHA1: 943f8d93a9e5c05a57d1cbd2d355f177802537e1
+FileChecksum: SHA256: 98b297630747e82023b1a008d88e86743a5a378939bcac0af20095959234d0b4
+FileChecksum: MD5: e55d9924aa3fdfb444a4e221864bc57b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-URL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/jwt-status-list/vitest.config.mts
+SPDXID: SPDXRef-item11738484
+FileChecksum: SHA1: a85fea8b2d43ea4fa53e97d22bb0873d3af80aba
+FileChecksum: SHA256: 9db07511c1ee6829893638d1c08a083deab9dc379e0791381ce1944b53d0e153
+FileChecksum: MD5: fa9223ce09656f6eeb4bf7fb87959639
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/jwt-status-list/tsconfig.json
+SPDXID: SPDXRef-item11738485
+FileChecksum: SHA1: c277f87bce9d0ed9bae947fd8898fcae4b903f64
+FileChecksum: SHA256: aa7a55224693c0b8899f19259f84c0d7a2a89dcbe99d6f10d29ff70d5ea23e8c
+FileChecksum: MD5: 2b946889b271a4e4b36f569ce650c28f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/jwt-status-list/src/types.ts
+SPDXID: SPDXRef-item11738487
+FileChecksum: SHA1: 1fd469681052bdd3713491cf1f57fd345afc0cb3
+FileChecksum: SHA256: 827c0b46f2e5e944db470486b612af75a2c917fb21439914b68ade1a44d60be9
+FileChecksum: MD5: 0e225f37c8e872ebfdf6658479effc4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/jwt-status-list/src/status-list-exception.ts
+SPDXID: SPDXRef-item11738488
+FileChecksum: SHA1: 35b8aa9ccee5678d54c0c1ae52b89761f387a556
+FileChecksum: SHA256: 6d0dddb77419445d0dd1020f3a749617ab8ad2a675653986fed576190142518a
+FileChecksum: MD5: eb8934e501587bedd4de20af3bb5f6b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/jwt-status-list/src/test/status-list.spec.ts
+SPDXID: SPDXRef-item11738490
+FileChecksum: SHA1: 42175d0175c7a2daef5411b9e08933efeb941b1c
+FileChecksum: SHA256: d744f270064532047cecbf132fc42766849a8b6710f1180d52d4f43eba9234ac
+FileChecksum: MD5: 74132579ca16f7e5ff1a4f6a1fb78060
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/jwt-status-list/src/test/status-list-jwt.spec.ts
+SPDXID: SPDXRef-item11738491
+FileChecksum: SHA1: e20ebdd5d10bb40fbd9551910e2f2a773098538f
+FileChecksum: SHA256: fc3deb6aee4280518e622de09fd7fa6b2ff31ccc409259ea49a73c77ece4cb06
+FileChecksum: MD5: 1ba5119f18dea451c9386d273cd447ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/jwt-status-list/src/status-list.ts
+SPDXID: SPDXRef-item11738492
+FileChecksum: SHA1: ad6fdfb2c6e67ea9fef70b4ddebc2bce15401eb6
+FileChecksum: SHA256: f219d337b7a787b892007a45d03c7429c370b290347e9cfc62a09805ae29c1e6
+FileChecksum: MD5: 20cc454f9721574c71bc17957d4e3ad6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/jwt-status-list/src/status-list-jwt.ts
+SPDXID: SPDXRef-item11738493
+FileChecksum: SHA1: a4a2bee475455c7a86ae0866aa930339c9fc59bf
+FileChecksum: SHA256: a6530961b1fe3555fff35180a39ea98e7595fd624ddcace59119eaaf2c1bbf2e
+FileChecksum: MD5: 9a904951a8a56f1a58c40dd4a499b313
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/jwt-status-list/src/index.ts
+SPDXID: SPDXRef-item11738494
+FileChecksum: SHA1: f16942228517be8419cf1358bd37c048d526c9ad
+FileChecksum: SHA256: 1535b400f2dfa23692ee65f8447b7bf8a69c4a8a27d49f903258938b84309248
+FileChecksum: MD5: 7e46a3855f97f7d0de66458198ba8a3d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/jwt-status-list/CHANGELOG.md
+SPDXID: SPDXRef-item11738495
+FileChecksum: SHA1: dfb10a8f4f97e08a553eee895d037f9a50aedfce
+FileChecksum: SHA256: 9110aa784052e3fc81bc6e60504421ab7ab2a8e79ffb026f45f2d96502c74d58
+FileChecksum: MD5: 160e0e8bbe589ac704bf02cbb1b119e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/jwt-status-list/README.md
+SPDXID: SPDXRef-item11738496
+FileChecksum: SHA1: cc580a9771f552e9fc2bc0b92321ddb9fc0234fa
+FileChecksum: SHA256: 9cd609ea6a1a4c76f10c95511c82cd705372fa620ac61f4f8ae4fe039fb3624b
+FileChecksum: MD5: 92528aa7b4bfecc0cc65aac448b46ae0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-URL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/core/vitest.config.mts
+SPDXID: SPDXRef-item11738499
+FileChecksum: SHA1: a85fea8b2d43ea4fa53e97d22bb0873d3af80aba
+FileChecksum: SHA256: 9db07511c1ee6829893638d1c08a083deab9dc379e0791381ce1944b53d0e153
+FileChecksum: MD5: fa9223ce09656f6eeb4bf7fb87959639
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/core/tsconfig.json
+SPDXID: SPDXRef-item11738500
+FileChecksum: SHA1: c277f87bce9d0ed9bae947fd8898fcae4b903f64
+FileChecksum: SHA256: aa7a55224693c0b8899f19259f84c0d7a2a89dcbe99d6f10d29ff70d5ea23e8c
+FileChecksum: MD5: 2b946889b271a4e4b36f569ce650c28f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/core/src/generalJSON.ts
+SPDXID: SPDXRef-item11738502
+FileChecksum: SHA1: 3bedfc5ce52a0129f0ac79b9402f39cb332cc43e
+FileChecksum: SHA256: efd10ed2439b1e8c20638ac410bded16a156c50f7336bc3dbae93a3bbe274425
+FileChecksum: MD5: aed44cd727250c28b19d322c65d5b7ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/core/src/decoy.ts
+SPDXID: SPDXRef-item11738503
+FileChecksum: SHA1: b9dabc0a77f0a7f98a89d568710060690e35092c
+FileChecksum: SHA256: 3dc0648ae3f4355c330017705197b282d7c4bf5bccfdff35b2cb48072d7bdbad
+FileChecksum: MD5: 0c2116949a5dcfe950152c0a32a9ab80
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/core/src/jwt.ts
+SPDXID: SPDXRef-item11738504
+FileChecksum: SHA1: c184aa99ed41001cd9fa9b5afcdf137164858c1f
+FileChecksum: SHA256: 8c5a01066f7f056d9eb0a46d31e845a2e7449c85bc31e34b8b436d64d4535f97
+FileChecksum: MD5: 92d212282d690db01cec9dbfa006b499
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/core/src/sdjwt.ts
+SPDXID: SPDXRef-item11738505
+FileChecksum: SHA1: 1222683199f372b2fd16e92f092dff21a493a0e2
+FileChecksum: SHA256: bdfa4e2d4a2f94a066a2b6fe34bcbcf6d1771109a9f603ae2f4f2e07725ebe87
+FileChecksum: MD5: 8c8e7dddc21152dc0c2b759b4bb4b952
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/core/src/test/index.spec.ts
+SPDXID: SPDXRef-item11738507
+FileChecksum: SHA1: 5e06ae83fe647db30157fd933995215d7113bc61
+FileChecksum: SHA256: 4019c3d8aeb5e116c8cf5dc541c8bb6111cace6c1216f21544f33c7a6afc5630
+FileChecksum: MD5: d23bf616ec767c6e2b849a5bf8ca8a5e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/core/src/test/kbjwt.spec.ts
+SPDXID: SPDXRef-item11738508
+FileChecksum: SHA1: 02b72d59682484098f8aa257191c931127e562ae
+FileChecksum: SHA256: 5b5ffec69852da31895f5867105fd2e3b200504e8a46c77e296495b46515ac4c
+FileChecksum: MD5: 848cf9ca2d48b5b9c00405f2a6399c8d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/core/src/test/generalJSON.spec.ts
+SPDXID: SPDXRef-item11738509
+FileChecksum: SHA1: 495ddba38e0972f49c12e0d387c98c5c92daa5c0
+FileChecksum: SHA256: aac410bf1292f2223945e1c6dca729b8c5da3826dcb9600a1967a8cc86e747fd
+FileChecksum: MD5: 8054589298a0f72e8d0331b6f89417dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/core/src/test/flattenJSON.spec.ts
+SPDXID: SPDXRef-item11738510
+FileChecksum: SHA1: b88b227d59211db6c53a0bdc6b109d49ec3f14bb
+FileChecksum: SHA256: 89b19de785a450aa8ce1306366c4a8d78a66a0676f2c8fd0f9cec074790bc5d2
+FileChecksum: MD5: ac078e1a2f28c5e24a5e39e848bed7c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/core/src/test/jwt.spec.ts
+SPDXID: SPDXRef-item11738511
+FileChecksum: SHA1: febbe54bcf492c942b6f4a8bc532f2293a0b196f
+FileChecksum: SHA256: e2d689707016f5759606f8c90b6a984196a38b7dc3c66a2028bb34f77f672c15
+FileChecksum: MD5: 3169fa76f9bef47c35608b6e1658add6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/core/src/test/decoy.spec.ts
+SPDXID: SPDXRef-item11738512
+FileChecksum: SHA1: 4db0693f9e78be139e9c5033de839f7829ca802c
+FileChecksum: SHA256: 1df275d71bebf63eca32f796684213a24ca283c891fb40057506110fb6961789
+FileChecksum: MD5: 984749c58dd758a33201b92fc164a0b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/core/src/test/sdjwt.spec.ts
+SPDXID: SPDXRef-item11738513
+FileChecksum: SHA1: 693446d6055f348ba0bd8956022a9c716e859b6a
+FileChecksum: SHA256: 7e8ec3a0afc6b8906b45bfccac32de548030373969476ce9784d2f77da7a9987
+FileChecksum: MD5: e26e65cd8edd7a151cee69ac97910589
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/core/src/test/pass.spec.ts
+SPDXID: SPDXRef-item11738514
+FileChecksum: SHA1: a50b4f9ab28d49de20d9d3b07753d2dc5e2e09d2
+FileChecksum: SHA256: 87c413cca9e5073146564d7ed9d42672eee668b88a463496f3b2bd1160546b87
+FileChecksum: MD5: 10e3715538ddb234a2c51d3034655796
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/core/src/kbjwt.ts
+SPDXID: SPDXRef-item11738515
+FileChecksum: SHA1: c673b213bfbbd363dd6739df0763a80007380a8d
+FileChecksum: SHA256: aeddb3a0e40c79285a9f86858414538a4db74f1ebc4c782df501b229971c80fb
+FileChecksum: MD5: 3e86985933f382a762ff393ef2d1ffd2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/core/src/flattenJSON.ts
+SPDXID: SPDXRef-item11738516
+FileChecksum: SHA1: f497eb91d187793270a64ef837a6af6dc642606b
+FileChecksum: SHA256: a7c2b6681c64007243fcd479e1faea2495d3246a1a3d2fcfc3171a198652ece5
+FileChecksum: MD5: 7aa8785f2a620db2c6fffedb77cd97a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/core/src/index.ts
+SPDXID: SPDXRef-item11738517
+FileChecksum: SHA1: 08bcaa6340b4796e6cdf3f6091e105e89d9bcf58
+FileChecksum: SHA256: caeef567929a60f7291f6d2374a44569c04f82a87a769d9c7dabffca9ca4473c
+FileChecksum: MD5: 6e1657252c88240e283bc0daf0da30f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/core/test/recursions.json
+SPDXID: SPDXRef-item11738519
+FileChecksum: SHA1: 4c6c63bfb2e3b05d1cac5741bbfaa37cd6f2f98e
+FileChecksum: SHA256: b552c4fdc1bc2ea86f1ce012b4737b95b232c639c561eecf8c1e4290032ec99b
+FileChecksum: MD5: f6f5527e8886aa5a44b42a86790848d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/core/test/no_sd.json
+SPDXID: SPDXRef-item11738520
+FileChecksum: SHA1: 1e33c99d9a4c017c9ff9e2f3eb232334a372f992
+FileChecksum: SHA256: 18ab8421630eeadad627341f0332568b0e4ee243bb91e26f8ff8c08bc395a8bc
+FileChecksum: MD5: e3cd6a805d060612de4f807ad4867a13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/core/test/array_data_types.json
+SPDXID: SPDXRef-item11738521
+FileChecksum: SHA1: 9ff283fdb5a046a08109871fd287766edec8f31f
+FileChecksum: SHA256: cb0ed823ebf4689a2c0d295fd2899746ce285d02d7b17749bbe7d4f836291d85
+FileChecksum: MD5: cc0727801f1a5e92cad21e03daf6b284
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/core/test/complex.json
+SPDXID: SPDXRef-item11738522
+FileChecksum: SHA1: 2a27aa69bc5d31d8d28e52bf6a1ab61a1c9d6a85
+FileChecksum: SHA256: 6594ac428e261c0420ddeba1da86eb50ea75e86ce8309aeb68d3231ad23cb0b8
+FileChecksum: MD5: 13e63f449ade2891fe371572bf091b69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/core/test/object_data_types.json
+SPDXID: SPDXRef-item11738523
+FileChecksum: SHA1: bb567f7d0ee1d5735a607e87399e2dd5296481e1
+FileChecksum: SHA256: 2d0b2cbb4851d6fb01168f7d3729eca12071ac6c818708a906889ddeb18181e9
+FileChecksum: MD5: 1369ad55c88c14c6c164b2b3435bf503
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/core/test/json_serialization.json
+SPDXID: SPDXRef-item11738524
+FileChecksum: SHA1: e6aaf6b7148f68552dc60823ff2dc212c96352eb
+FileChecksum: SHA256: b6fce1c136c0e06802ad7422160ac12de64b60d37c78282e3e7e2e3b93c82488
+FileChecksum: MD5: 15a21649e2e7efdac4e03453eb3483d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/core/test/array_recursive_sd_some_disclosed.json
+SPDXID: SPDXRef-item11738525
+FileChecksum: SHA1: 017ecddda1696053f6af50ea40b82e3dbe4a0bdb
+FileChecksum: SHA256: 0f6859988bf5e203e68b0d557593079b37e6273b90e064d91132e585902bbe4c
+FileChecksum: MD5: 23c3f212730146e866e97a896e567454
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/core/test/array_in_sd.json
+SPDXID: SPDXRef-item11738526
+FileChecksum: SHA1: cc1cc9de0a3225407f52b50a8de202dad040fd26
+FileChecksum: SHA256: e4128761012c1fa5e5807df18200f48215602a2f70afcf0ee093a75a0bec0401
+FileChecksum: MD5: 59bbae263ee248eb040bea49400f1585
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/core/test/array_of_scalars.json
+SPDXID: SPDXRef-item11738527
+FileChecksum: SHA1: 2a83ac123cbc6d7ee9c8ecdfeda12ded42f5b17a
+FileChecksum: SHA256: b99ea3c716d8086c39de79283b14cce4a1fbfd275295df1b0f5eb82efbd2193a
+FileChecksum: MD5: c5a1d9d15d6cf10222841e258df8f3d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/core/test/array_of_objects.json
+SPDXID: SPDXRef-item11738528
+FileChecksum: SHA1: 4459de5fa3575001c954919f5256b0830330aba4
+FileChecksum: SHA256: 1fae4c6c2af0092ec863a425ceece3567a8f241a7ec677cccc9aca517df1ba9d
+FileChecksum: MD5: b7bcab3cee50362ad98a05a839be2a4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/core/test/header_mod.json
+SPDXID: SPDXRef-item11738529
+FileChecksum: SHA1: e6aaf6b7148f68552dc60823ff2dc212c96352eb
+FileChecksum: SHA256: b6fce1c136c0e06802ad7422160ac12de64b60d37c78282e3e7e2e3b93c82488
+FileChecksum: MD5: 15a21649e2e7efdac4e03453eb3483d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/core/test/array_of_nulls.json
+SPDXID: SPDXRef-item11738530
+FileChecksum: SHA1: 9490a1fb81674bcf0d17072baf3e31dc289f9f5b
+FileChecksum: SHA256: 7760085de6e678449a58e74c61c6fd2495e11fa47c5b733daf22a58b1faef462
+FileChecksum: MD5: 6d45c43471d64cfcf966c50ef65b225e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/core/test/array_nested_in_plain.json
+SPDXID: SPDXRef-item11738531
+FileChecksum: SHA1: 121e79ae0919710258712d0818c29eb26387fba4
+FileChecksum: SHA256: 9be9aa8d7c737823f21f7988e513ec5fa638d7d0dc35d01f195b2f91910bd120
+FileChecksum: MD5: ea72fd5e7331b554d6618bb237a33769
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/core/test/array_recursive_sd.json
+SPDXID: SPDXRef-item11738532
+FileChecksum: SHA1: 39257a296c6812250e4fe2b3a5f6e38c537aceb5
+FileChecksum: SHA256: bb038a06fa9f835b94876fb846bd1700c1a750181a820728f843fed68f89cf04
+FileChecksum: MD5: 422304a7d4907eff0ddfc2f1de746b51
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/core/test/array_full_sd.json
+SPDXID: SPDXRef-item11738533
+FileChecksum: SHA1: f2b18f1b86aa1aa7459625b841611a8ff335c656
+FileChecksum: SHA256: d248a03c7a6594dd5481d4ef0ebef281ec421d3665c1493c5d4d22ad66d7c58d
+FileChecksum: MD5: ba00cc1cb6ed578c268291fd42012a32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/core/test/array_none_disclosed.json
+SPDXID: SPDXRef-item11738534
+FileChecksum: SHA1: 895410cb7436d92d56c2f2266f4f1b1b70616ff8
+FileChecksum: SHA256: c741b864479bdf9cc2122c2572469173b3a5635fd1cd04046c9bf139f28e3516
+FileChecksum: MD5: 980e0c91062ef1ce8b0cdd8fd86cc1f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/core/test/key_binding.json
+SPDXID: SPDXRef-item11738535
+FileChecksum: SHA1: e6aaf6b7148f68552dc60823ff2dc212c96352eb
+FileChecksum: SHA256: b6fce1c136c0e06802ad7422160ac12de64b60d37c78282e3e7e2e3b93c82488
+FileChecksum: MD5: 15a21649e2e7efdac4e03453eb3483d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/core/test/app-e2e.spec.ts
+SPDXID: SPDXRef-item11738536
+FileChecksum: SHA1: d3ce079465a9c066e1bb50bd4752cdc8d06ff180
+FileChecksum: SHA256: a991719c891f791aaf775ca1c0523005094eacc52a377f5f24bb5f3f2e5c91c3
+FileChecksum: MD5: 4ae5f3895f37a39e25a713ac4a3516e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/core/CHANGELOG.md
+SPDXID: SPDXRef-item11738537
+FileChecksum: SHA1: 2dcc7d9156fea0a8db0498f4d1661406325afee4
+FileChecksum: SHA256: e4a6b5adf81ad4d3eacaba4ad395955fdb533d80bcff3dc89b376a0bfb117734
+FileChecksum: MD5: 02efd55ff667ee93cfdc9bfb34df77d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/core/README.md
+SPDXID: SPDXRef-item11738538
+FileChecksum: SHA1: ceab6219c0fb37f77b8fb536f940eab0e4b47081
+FileChecksum: SHA256: dcde0acaee9cd7709ee823712ca2080f679c91fc9c2a981edf381deae29f3a03
+FileChecksum: MD5: 28912ed23e4814859550a2e1f07a0832
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-URL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/hash/vitest.config.mts
+SPDXID: SPDXRef-item11738541
+FileChecksum: SHA1: a85fea8b2d43ea4fa53e97d22bb0873d3af80aba
+FileChecksum: SHA256: 9db07511c1ee6829893638d1c08a083deab9dc379e0791381ce1944b53d0e153
+FileChecksum: MD5: fa9223ce09656f6eeb4bf7fb87959639
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/hash/tsconfig.json
+SPDXID: SPDXRef-item11738542
+FileChecksum: SHA1: c277f87bce9d0ed9bae947fd8898fcae4b903f64
+FileChecksum: SHA256: aa7a55224693c0b8899f19259f84c0d7a2a89dcbe99d6f10d29ff70d5ea23e8c
+FileChecksum: MD5: 2b946889b271a4e4b36f569ce650c28f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/hash/src/sha.ts
+SPDXID: SPDXRef-item11738544
+FileChecksum: SHA1: a749d11b3c1bd17e4414c483ad204df5263b576c
+FileChecksum: SHA256: 9389692b49885380e2ee7176a1b486f3da372eeaf95caf7b1a11c7a717da9301
+FileChecksum: MD5: f1727d38e2d85b8e08778648020dbf7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/hash/src/test/sha.spec.ts
+SPDXID: SPDXRef-item11738546
+FileChecksum: SHA1: b77f00b2b7b3b788bec00a517c5598b0bce0defd
+FileChecksum: SHA256: c8ace1b6a242d7be442945e47084c7cbd5533fe1a39d6e1896781327f42d2a7a
+FileChecksum: MD5: ae5c515d6cd598718dfa9d28e019404d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/hash/src/index.ts
+SPDXID: SPDXRef-item11738547
+FileChecksum: SHA1: baa02687bef10d942a15304b1cbfb65ebc3d61ba
+FileChecksum: SHA256: f1df99448f5afc6bbfe210eb71207c14ddcf374ecf84e93f1d72996af760560e
+FileChecksum: MD5: 6d40c93e7114cd773f549247dc6645e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/hash/CHANGELOG.md
+SPDXID: SPDXRef-item11738548
+FileChecksum: SHA1: 713861a5e280e0c799060de4e62026aa2edb4738
+FileChecksum: SHA256: b29eda97f027a9c6d62fb867f76a3012fbaa65a46d5b86b7f1ddcfc4a919f0cc
+FileChecksum: MD5: d54626f4248547aff4cca994077c22f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/packages/hash/README.md
+SPDXID: SPDXRef-item11738549
+FileChecksum: SHA1: 2b6f0b826b6fe50045806f1b949d7e8f44df4219
+FileChecksum: SHA256: 15e22cdaba3f5a28aaac8d0175a49a698a4c36a0f11a153a56b3922ce3f1de46
+FileChecksum: MD5: 6b62b78210a45fa85b337c3bb9999635
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-URL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/SECURITY.md
+SPDXID: SPDXRef-item11738552
+FileChecksum: SHA1: 819445108aba227e8f3dd4844bc62a5f3e9cc3f4
+FileChecksum: SHA256: 209fee09fdf381bf4957de61671a43f724a81d5de0c31d79494289f249f3ccaa
+FileChecksum: MD5: 794c54bf3712bdbf9c85eee09f61eac3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/.prettierrc
+SPDXID: SPDXRef-item11738553
+FileChecksum: SHA1: 3de6327d1988e75bd0056b2fd459a4638a57e7cc
+FileChecksum: SHA256: e7aa1c4fa7afe4eab42ed50344946469313d24451df91d797dcecdb51b766d0a
+FileChecksum: MD5: 7f13d07a8df451aaca2cf6647a18e234
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/biome.json
+SPDXID: SPDXRef-item11738554
+FileChecksum: SHA1: 6ccf759fa96364102424c2d3f366306e9187332a
+FileChecksum: SHA256: fda2f0d0b5f82534e435ef2ed22b52ab2085cd4ee5e8b60526c5f7ecbbf87f99
+FileChecksum: MD5: a45c7961374f97d489524ecb6c5658ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: SD-JWT-JS-2025-11-15.zip/sd-jwt-js/MAINTAINERS.md
+SPDXID: SPDXRef-item11738555
+FileChecksum: SHA1: 12dce8fe31776936155a1fa7edf8d4ec4c81c4ef
+FileChecksum: SHA256: fa1412719e0fddde21e06a194c6cf8a21b3fb7def097130f310694901dd45b99
+FileChecksum: MD5: b1dca0a2b9a4f804b14f8d789b65a966
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-fossology-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
