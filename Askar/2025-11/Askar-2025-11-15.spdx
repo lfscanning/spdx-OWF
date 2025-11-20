@@ -1,0 +1,3216 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_Askar-2025-11-15.zip_1763280277.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-11-16T08:04:38Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: Askar-2025-11-15.zip
+PackageFileName: Askar-2025-11-15.zip
+SPDXID: SPDXRef-upload2042
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 3ee93a204f67232e52b4dc1c3f40fad1c4228fee
+PackageChecksum: SHA1: 9b8acc819a0ceecaf726fb184f33143e773b295d
+PackageChecksum: SHA256: d14b2afb201f3dc33fe0dc8c40cf886c3d88f873edd72a20849d586e2ddb54ba
+PackageChecksum: MD5: 151b8ef2a6b4415c6b6607a678ab4910
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2042
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-storage/Cargo.toml
+SPDXID: SPDXRef-item11728335
+FileChecksum: SHA1: 66938ae7e68df63e290a70f782e2fd1fa902c57f
+FileChecksum: SHA256: bdb353f1c7e43f4be8187a6b91082220a0e62a9ca63804ceb05d22c439b7df55
+FileChecksum: MD5: 0897974d7ebc628693beececd50286b0
+LicenseConcluded: Apache-2.0 AND MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/Cargo.toml
+SPDXID: SPDXRef-item11728403
+FileChecksum: SHA1: ffa7bc0b9f7d7db04179f1451bcd24a16a366a81
+FileChecksum: SHA256: b123d733914ad6f1948eeebb9759607f6f361100ec84711cd893df0568cbb08c
+FileChecksum: MD5: af9c83b60d7c7242b364b97d6005a69b
+LicenseConcluded: Apache-2.0 AND MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/Cargo.toml
+SPDXID: SPDXRef-item11728476
+FileChecksum: SHA1: 684c6bf805c578136c06bb191e5832497f06b5dd
+FileChecksum: SHA256: 40d39723e43a6e15851ad278a18940bd06b885c161a17a8a3f41f5ba05af60fc
+FileChecksum: MD5: 6829b6da28277188736780093ab8898b
+LicenseConcluded: Apache-2.0 AND MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/LICENSE-MIT
+SPDXID: SPDXRef-item11728477
+FileChecksum: SHA1: ce3a2603094e799f42ce99c40941544dfcc5c4a5
+FileChecksum: SHA256: 23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3
+FileChecksum: MD5: b377b220f43d747efdec40d69fcaa69d
+LicenseConcluded: MIT AND MIT
+LicenseInfoInFile: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/README.md
+SPDXID: SPDXRef-item11728481
+FileChecksum: SHA1: 4a761618d6f92223b9281edc8f17e3c3cb3a184e
+FileChecksum: SHA256: 40ca5b78d8964c8c19eedcfe79246f1e8c42d192cad8d68b4b5ab346a9ad8ece
+FileChecksum: MD5: 614dd66f1609be5ae9b0cc3cb3cf84d8
+LicenseConcluded: Apache-2.0 AND MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/README.md
+SPDXID: SPDXRef-item11728404
+FileChecksum: SHA1: 8e36b73f90d4a9f4092046e96663980fb4cddd72
+FileChecksum: SHA256: c3ad2be1a39d42a1a89e2729414965d88d15affebb1915ee0b402ca034079b0d
+FileChecksum: MD5: b3a6a7aa54cb314ad9b481226dd463e8
+LicenseConcluded: Apache-2.0 AND MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-storage/README.md
+SPDXID: SPDXRef-item11728336
+FileChecksum: SHA1: d9b3e76fc7090fb2451675bba4af65a2dc3d8e4e
+FileChecksum: SHA256: 67742717434beaeddadac69c8417943361f7836d9faf5e41a17485cb4e215862
+FileChecksum: MD5: 806bd06900807b45f83f848feb48504f
+LicenseConcluded: Apache-2.0 AND MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/wrappers/python/README.md
+SPDXID: SPDXRef-item11728470
+FileChecksum: SHA1: e25144d48929ae9305d9e2ea99495bfee9bb5c59
+FileChecksum: SHA256: 511b96e6cd490169194cf05166b8d67456c71e1d1456d64f89384186983fe085
+FileChecksum: MD5: a86343f527d941f1b61ab2244de22eb1
+LicenseConcluded: Apache-2.0 AND MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/wrappers/python/setup.py
+SPDXID: SPDXRef-item11728452
+FileChecksum: SHA1: dee7cd44c0c5fb7a4498bc74130a4e090dc7a596
+FileChecksum: SHA256: 29fde05c578c45590441ee1af7b4536ba94015329124274fc3a5d674328b816d
+FileChecksum: MD5: db5945ad105a84e45c96c9765c3445f3
+LicenseConcluded: Apache-2.0 AND MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/CODEOWNERS
+SPDXID: SPDXRef-item11728486
+FileChecksum: SHA1: b7a9e842a751ed7f9b0bc3d69d4972574568698c
+FileChecksum: SHA256: 177baba93f5ceced3a1030a9f39bfd0ba7340f48e5e02b475b28c79e75f946bd
+FileChecksum: MD5: 2dd37a713ea411fed76364f0fd661fa6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/CONTRIBUTING.md
+SPDXID: SPDXRef-item11728405
+FileChecksum: SHA1: 3b08a86cd5ecdd50687d60697d76d678830800c9
+FileChecksum: SHA256: 4d0ab609ce95cc772254f1dead5899e64d3d6f8530af55970bfa1298a36b7be3
+FileChecksum: MD5: 8917cb0520d64390ad53156eb4c5481d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/CONTRIBUTING.md
+SPDXID: SPDXRef-item11728488
+FileChecksum: SHA1: f5b514112c4c67de01aec15289ee1618437fcfaf
+FileChecksum: SHA256: d0a01054ccbc363296701d1291d3428ee325aed13bbe50fb90c93241069c19a2
+FileChecksum: MD5: 53ca86d4f74b2a91dd5f203fb65a5c09
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/LICENSE
+SPDXID: SPDXRef-item11728487
+FileChecksum: SHA1: 9b4f3f7abcd69d8020139b9cdef7fdab82c8dc09
+FileChecksum: SHA256: e556fb0bf295c94a1e1d7a572f1f632b82c6521ca2830dd107200e576afd28a6
+FileChecksum: MD5: 978c99694c408e0831a0d0c004fef54f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright 2020 Government of British Columbia </text>
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-react-native/LICENSE
+SPDXID: SPDXRef-item11728615
+FileChecksum: SHA1: 9b4f3f7abcd69d8020139b9cdef7fdab82c8dc09
+FileChecksum: SHA256: e556fb0bf295c94a1e1d7a572f1f632b82c6521ca2830dd107200e576afd28a6
+FileChecksum: MD5: 978c99694c408e0831a0d0c004fef54f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright 2020 Government of British Columbia </text>
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/LICENSE-APACHE
+SPDXID: SPDXRef-item11728479
+FileChecksum: SHA1: 9b4f3f7abcd69d8020139b9cdef7fdab82c8dc09
+FileChecksum: SHA256: e556fb0bf295c94a1e1d7a572f1f632b82c6521ca2830dd107200e576afd28a6
+FileChecksum: MD5: 978c99694c408e0831a0d0c004fef54f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright 2020 Government of British Columbia </text>
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/package.json
+SPDXID: SPDXRef-item11728646
+FileChecksum: SHA1: 7175acc6bf56444dbf6ff74c7765e8d85039b7f3
+FileChecksum: SHA256: b5123743b088a4182eebf2c75c7b4ba18d3d138d5e810d903bfcdda8b7c23443
+FileChecksum: MD5: 931f68871c1401ff2582aa8457c5c14d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-nodejs/package.json
+SPDXID: SPDXRef-item11728597
+FileChecksum: SHA1: 5dd33f4c35ac608ede5a6311e9683bc140a79392
+FileChecksum: SHA256: 3c7a25e31149d619b2ca43395cc3a13eb08cf3364f76378099c69c574be459e2
+FileChecksum: MD5: 8698093e93fb0cf8600a62ff87369cce
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-react-native/package.json
+SPDXID: SPDXRef-item11728644
+FileChecksum: SHA1: 0ed0a6627cad97d3e49c9b6addf69b344291fa77
+FileChecksum: SHA256: 55a3e6c43466f391876f6c0161f6b64cf237d1050aa868e9cd9e9552765c7dfe
+FileChecksum: MD5: a607c38feac2735997238cca51c02f59
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-shared/package.json
+SPDXID: SPDXRef-item11728558
+FileChecksum: SHA1: 852638a8541443175e1d9d99e4689f4f5a84041b
+FileChecksum: SHA256: b3e1398eb7a0c6f78cdd797fa76abff8364ee41b10657d8351b08a701bcf536d
+FileChecksum: MD5: 469cd43cf2c196017437f1a63bcf5a5b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/.github/workflows/scorecard.yml
+SPDXID: SPDXRef-item11728432
+FileChecksum: SHA1: 2cfb4b416920a7945fa77793ff5eb6d84638dbdf
+FileChecksum: SHA256: 46772a7bac0dd6e72790732ed39abed4f787ed8c6a70a3d28c8ed0d8d63f71bb
+FileChecksum: MD5: c2bcb1af3db157db293b4eae48f5fc38
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/.github/settings.yml
+SPDXID: SPDXRef-item11728495
+FileChecksum: SHA1: 1b40c9cb90def3aa7d15bb72deb8fe1ecafd952c
+FileChecksum: SHA256: dfec5ae6cc039d0d05fffd95ce77b0a16bc558fbd92ea2a82c6aa98d7eaf92a0
+FileChecksum: MD5: 4847ff153fef167ae44e314ba8e9bd8a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-storage/tests/migration.rs
+SPDXID: SPDXRef-item11728293
+FileChecksum: SHA1: 87f27bcbcb02cd6347115cc600853caf67ea2782
+FileChecksum: SHA256: e76648d24bec54bb3708a7c6d7252c0e49d7099e7eeff7be8c52f1926adbdde9
+FileChecksum: MD5: a8fae5b3827b04fc5ffac23900594f0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-storage/tests/utils/mod.rs
+SPDXID: SPDXRef-item11728295
+FileChecksum: SHA1: 8d087712f1df8ec6e1c2f942b24b0b443f06f52b
+FileChecksum: SHA256: 70d7be7d47afb51eee48303e480e6d16ceb6991b8ca52e8ca8fbd1514181bf1a
+FileChecksum: MD5: fabc57bd6f4b2cc8812faccd4fddc726
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-storage/tests/indy_wallet_sqlite.db
+SPDXID: SPDXRef-item11728296
+FileChecksum: SHA1: 984d26085f2c1dcd6b93128532333ffec0332992
+FileChecksum: SHA256: 5a6b285bc1ff04f992554fbdf4fc73024bab1ddbd510a763b36b673c57725848
+FileChecksum: MD5: dec8b5a018c3a15e4334b594a490b1c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-storage/tests/backends.rs
+SPDXID: SPDXRef-item11728297
+FileChecksum: SHA1: 128ca919e361098e731b66ea5bdff41624f36996
+FileChecksum: SHA256: 890fd2275d94f8fcc02a7391553ae7bc6027fc7877ea1d77abef953a1a8c7156
+FileChecksum: MD5: cec8d520108882feec74983460c170cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-storage/tests/.gitignore
+SPDXID: SPDXRef-item11728298
+FileChecksum: SHA1: 7d8fcfe562bbe7c3580e5a7f583fd273585bdb8c
+FileChecksum: SHA256: fe96928b540c3eb99ccebb973fd3919fd77ce4b459b35ab5453bbad27b8c9cbb
+FileChecksum: MD5: 874aae9a84c733b5d9aeb5d7ff214ec9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-storage/tests/docker_pg.sh
+SPDXID: SPDXRef-item11728299
+FileChecksum: SHA1: 0b6212151f26bad99b8a8e5de43ae41707493a76
+FileChecksum: SHA256: d41a6b95ef5b0422d6c4601419a8c34e2ecfe60927100f8bcc2487927a6ef314
+FileChecksum: MD5: dc14d185cf9d9890119bd1252d82f4eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-storage/src/backend/sqlite/mod.rs
+SPDXID: SPDXRef-item11728303
+FileChecksum: SHA1: 630b2006d3f40f2a486911027eed6e207668d903
+FileChecksum: SHA256: 0631c9d7948b3e9deae785c0cce5db9060861d786038059d38f897fcf38dac90
+FileChecksum: MD5: 29b260a47505d4ad5f9a03deca743257
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-storage/src/backend/sqlite/provision.rs
+SPDXID: SPDXRef-item11728304
+FileChecksum: SHA1: b82657c6fa730338a17db06a37428302ec897501
+FileChecksum: SHA256: 39085692f59e8e9f5ee2644fdbe1808da6e2d6ad32d7a86d36b22e518d8a5c05
+FileChecksum: MD5: 559dfc4e05ea7b5cd324ae4034825641
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-storage/src/backend/postgres/test_db.rs
+SPDXID: SPDXRef-item11728306
+FileChecksum: SHA1: b65092a2870478c7810c0f5d837ca743d19ff6c9
+FileChecksum: SHA256: ea5ba8bb43f052b98600c7e7fc08e076e3f3ee9ef74b6a94ed04c41773c4be6b
+FileChecksum: MD5: ca6388a2a89d4baaf356946697234549
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-storage/src/backend/postgres/mod.rs
+SPDXID: SPDXRef-item11728307
+FileChecksum: SHA1: 24551be1eed286af943730452cefba5b65529e66
+FileChecksum: SHA256: 08aef973c6afaf2785cef9bb5e60922567bb2be7ec2ededf1715f4ac7eb59b1d
+FileChecksum: MD5: 5d743c0981a9ef2d89443af07b67472c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-storage/src/backend/postgres/provision.rs
+SPDXID: SPDXRef-item11728308
+FileChecksum: SHA1: 58ad317ba0fb8caa4879d9389eea4875e666cbd9
+FileChecksum: SHA256: bc471e29681cf690725437aa8ecfcdfa58f8020897cc049867a23febf66bad51
+FileChecksum: MD5: c71452094cd5c4a2db117704aac9e47a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-storage/src/backend/db_utils.rs
+SPDXID: SPDXRef-item11728309
+FileChecksum: SHA1: 4ea49c64b013fca18963a0762373482560099fa5
+FileChecksum: SHA256: e656a81e0f63d88710ce011ac8c8de15a750df5f7eba0d26f69ce107d764953d
+FileChecksum: MD5: a3399ce74ba851b75fb321b6b1015222
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-storage/src/backend/mod.rs
+SPDXID: SPDXRef-item11728310
+FileChecksum: SHA1: afa5bb39cf97dfde889941aca6cc93a0d25f5ebe
+FileChecksum: SHA256: 60b01f7e93a4912abb49904779914d6c0304e98000058610f8244ba494b43daa
+FileChecksum: MD5: ce7fe57c238717a4ee5f6ef7f9366d9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-storage/src/any.rs
+SPDXID: SPDXRef-item11728311
+FileChecksum: SHA1: 8cc07ca125988a5c2222648fb31e53f01c6618e8
+FileChecksum: SHA256: df236cc17ce6419a37163087b52a0c29a1538708bf75ac199ad6e0f865180a54
+FileChecksum: MD5: 4441352eeaac54be726657cbbb93fdad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-storage/src/lib.rs
+SPDXID: SPDXRef-item11728312
+FileChecksum: SHA1: a0b98eb2da5db1cde38650ec6b57969a141deb2c
+FileChecksum: SHA256: 32ca4a0131faaef43f2f20a0d8df68ea23d37739f155d50928c89002d442c727
+FileChecksum: MD5: 6fd76bbe8fb1d8b47e0985ddfd5f3d72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-storage/src/options.rs
+SPDXID: SPDXRef-item11728313
+FileChecksum: SHA1: b10856f77b3224f4362c3a3a0b89092176446973
+FileChecksum: SHA256: 7c0fd11d6d804bc2c906340bd187467b5f6fedae2545c0b994a6febbb1e25de2
+FileChecksum: MD5: b0942ca414131bf9c60cf2940828b3f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-storage/src/error.rs
+SPDXID: SPDXRef-item11728314
+FileChecksum: SHA1: 87491d2e6585c4084dd413c95f9d8eff58da47b9
+FileChecksum: SHA256: f3c9b3ffdca6fa5cf02498a0bbed439aaedba7973fbe903374fd203cf1fa5c1b
+FileChecksum: MD5: 4bc931268c3107694edd8f9d30391679
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-storage/src/macros.rs
+SPDXID: SPDXRef-item11728315
+FileChecksum: SHA1: 97ed08054a4d7f9ebb1a1a85aca37f0e5f6e8eb2
+FileChecksum: SHA256: 0ad03bb96a5705fbe2eefb8e2612cbd92a4bb35edf78e5bcaff09aaa1a2cda55
+FileChecksum: MD5: 05566f4298f868bccf56d15dcebf0746
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-storage/src/entry.rs
+SPDXID: SPDXRef-item11728316
+FileChecksum: SHA1: e5d97f9a95331358758fe03ff8947461e52f1757
+FileChecksum: SHA256: 81f87310241996332d7f1f4c4c4011a9a58c8d64ba3b8c10f6f4cca0b6bcc108
+FileChecksum: MD5: 1025cb4f27fbee5602af5f9d7e091c16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-storage/src/wql/sql.rs
+SPDXID: SPDXRef-item11728318
+FileChecksum: SHA1: 40dfb845a9cb7e04644f6c356c4b1deec26d2c68
+FileChecksum: SHA256: 729ccbcda4605b49738d85f8a5b494a9fac8d842f00d33ae7484047ed0eb5ed2
+FileChecksum: MD5: 1a7a601b9bebe874416c86f6f0d9d261
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-storage/src/wql/query.rs
+SPDXID: SPDXRef-item11728319
+FileChecksum: SHA1: 61364ed8b69e68c88855ba7706f250a90e5f3022
+FileChecksum: SHA256: e107b49f17978b08a23237ac18f956f1414b1ed9983cb9137fa898cb72929cc1
+FileChecksum: MD5: 6d1eedffff510c83b74906333187d5e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-storage/src/wql/tags.rs
+SPDXID: SPDXRef-item11728320
+FileChecksum: SHA1: 2c313dd144555fda6ff6f7a3ffb5a677b1a8d56e
+FileChecksum: SHA256: b2fcd1cc75e70edf2c8c7a5214aaa688badbe9239a95a2e886b3f71c73353516
+FileChecksum: MD5: 1b287eedd5fb77e6cdc400f0b434d77f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-storage/src/wql/mod.rs
+SPDXID: SPDXRef-item11728321
+FileChecksum: SHA1: 2c0979bce206809158790a32673b489138466233
+FileChecksum: SHA256: fad3dfcbe6e1bea4a3d11ab07566e278178ad5526a72b24a01c2f47435f684fb
+FileChecksum: MD5: 36ce80cbd3a88cddb04a7a0bb85b89df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-storage/src/migration/strategy.rs
+SPDXID: SPDXRef-item11728323
+FileChecksum: SHA1: b645146a64b995274bc159e34f0da64835bfdb2f
+FileChecksum: SHA256: b6500ad3c4e3e03deb98d8c83ba3b2433afa46027814d14bcb44549ee2fb9f25
+FileChecksum: MD5: e31ee1cb1dfe5bd7ebe491edcd6034dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-storage/src/migration/mod.rs
+SPDXID: SPDXRef-item11728324
+FileChecksum: SHA1: 78e92fdabf427605ce73a4906fb6354cc3d8e2dd
+FileChecksum: SHA256: 688ef9308a9e5bff7185e3d99fc5ae784ce61007f424a9479066a33a5844606d
+FileChecksum: MD5: 5e4b427442510d366b6d59f5aaa3baea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-storage/src/future.rs
+SPDXID: SPDXRef-item11728325
+FileChecksum: SHA1: 418a05d0b1d33bbc7e5ba43ac89cc0bf1c66420b
+FileChecksum: SHA256: 3f17255c33f2998000b21f20278958edbdb9d5085db2b0575fbc0904f7f9038a
+FileChecksum: MD5: c8e231d5b100d90257a123d5d6916087
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-storage/src/protect/hmac_key.rs
+SPDXID: SPDXRef-item11728327
+FileChecksum: SHA1: f142bb3e1c29a7a33218d590871945bea8cae961
+FileChecksum: SHA256: 4a1546e87d75c73b7a95035050f46aa27979d1d3c9df138f4a8258af08ef8e90
+FileChecksum: MD5: 5cbd7d736c9b2b6ef4ccb09dd23fb7ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-storage/src/protect/pass_key.rs
+SPDXID: SPDXRef-item11728328
+FileChecksum: SHA1: 81af495d7f9068fd3bac203e9d6a161b7f87f7ed
+FileChecksum: SHA256: f0557f457cec2ff2ed255e145613b62ae2c87095e31a3ae34e36bd114a85443f
+FileChecksum: MD5: 9b44d44b3af3a482f90f62dd621eb9af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-storage/src/protect/kdf/mod.rs
+SPDXID: SPDXRef-item11728330
+FileChecksum: SHA1: e3cd012320853a947abb283ff8b939fb38fe4911
+FileChecksum: SHA256: 190ab253935e56fbb24b3041e4fe5e08aea3850371c8ba85293d8677ee6f5198
+FileChecksum: MD5: 50a1e74ee58a1e733d177eb3643e5d0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-storage/src/protect/kdf/argon2.rs
+SPDXID: SPDXRef-item11728331
+FileChecksum: SHA1: 496a7ff586da9338e3d37e3dadfa998edc5df228
+FileChecksum: SHA256: 2349f2a8f62b3e3e8b0956ce5dbbf6567907ec496982aec805ca0665a978292a
+FileChecksum: MD5: 0dba4a63f677c6fa802f869df860875f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-storage/src/protect/profile_key.rs
+SPDXID: SPDXRef-item11728332
+FileChecksum: SHA1: 3d4f41a2b8ab7d07484f260081529ed176c25c97
+FileChecksum: SHA256: 343e47da9b7e067ffa7faa25449ea50f6888814102207bd06abe8addb63889e0
+FileChecksum: MD5: 70d3915787b9b7cd93752c307aa0d093
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-storage/src/protect/store_key.rs
+SPDXID: SPDXRef-item11728333
+FileChecksum: SHA1: 60eacf0db77031af91a4adc79d3f7d16a77f7e24
+FileChecksum: SHA256: 70745b028554521a9ccb827b920a564ec31771997ec14e3dceedab8c50375554
+FileChecksum: MD5: 08b31b847bd0f7c2e2597a207b226030
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-storage/src/protect/mod.rs
+SPDXID: SPDXRef-item11728334
+FileChecksum: SHA1: 0b22d1540e1e3bcbd2f299b0bcd82a7d7d932478
+FileChecksum: SHA256: 958cf4d375dfc2839bb7a2fa5da37b179873b37c0ec44be409f4e964d1b255d2
+FileChecksum: MD5: 9128ac55a073cd111d0e75459ef46e4e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/tests/store_key.rs
+SPDXID: SPDXRef-item11728338
+FileChecksum: SHA1: 3a26e0b98041d468fe7f02fe7f1a61fccc458202
+FileChecksum: SHA256: 53956d430b8630076d80bf42faa915e725bc4e267c054a5589bf4a015c4b3f01
+FileChecksum: MD5: 352bc715e0422d49eab0237de0054975
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/tests/store_copy.rs
+SPDXID: SPDXRef-item11728339
+FileChecksum: SHA1: f6e06dcc5017b4517a980be2383cc5eefa3a83dd
+FileChecksum: SHA256: b20ca6ed9cd06fd10a496947b7bf6858a4588c52b29f9d72e6ca81431e23f18e
+FileChecksum: MD5: 5585575ec94dab3758737c24b4fc78fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/tests/local_key.rs
+SPDXID: SPDXRef-item11728340
+FileChecksum: SHA1: 41ae58a16d2415aa5e6767ab4dea0607857115b6
+FileChecksum: SHA256: fd240ed350b8bf213d67c9bd60c8edbe9ed1b5f41deb9840a64cfdaff299c5d2
+FileChecksum: MD5: 0e3799bc3d7ac30f978c96139d2ae761
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item11728341
+FileChecksum: SHA1: ea9169299c28ce364751e89864b063e85dfd7fb6
+FileChecksum: SHA256: df0d504fe16e7a0de8cae602c3c32644628c053b3b1bd67002d6158368aa9467
+FileChecksum: MD5: 709146ab54df6e86f242fab5030e8b3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/docs/storage.md
+SPDXID: SPDXRef-item11728343
+FileChecksum: SHA1: 5045815e3e3ec9a4cfdf996d604e30e226038b77
+FileChecksum: SHA256: 67a5b313d6fb5cdbb0e805bd32886c09c55cc9bbb6681348d84d58393e3d1d34
+FileChecksum: MD5: f4cac1b0a5b668807219daf8ef6915f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/GOVERNANCE.md
+SPDXID: SPDXRef-item11728344
+FileChecksum: SHA1: dbfa15850038b4b7ccd10323e03b081e13ba29ee
+FileChecksum: SHA256: b40064578e447303f3449db322c62105ae3bed9c5720dbe6c0c7b09f4c6b6f13
+FileChecksum: MD5: 30b9da63d5f9b5d293f6d5558ee32089
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/.cargo/config.toml
+SPDXID: SPDXRef-item11728346
+FileChecksum: SHA1: cb2d2eeac4822f1980a278b50af94436f036d067
+FileChecksum: SHA256: 18254ebd0f8e9c6f2648d44fd50c065e696e710b2676412c5c665d3ecb1099fc
+FileChecksum: MD5: 6240316e86b9f489e41034224c7941e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/src/backend/mod.rs
+SPDXID: SPDXRef-item11728350
+FileChecksum: SHA1: 26a82ee9b5d34b86afe77bf99533847a689d8193
+FileChecksum: SHA256: b16529d6175da17a7c47e40397469f9c316213ba18b8ca56484f1027c113d8ee
+FileChecksum: MD5: 70e63fe9a6c2c3368bbc0cb66e5a5474
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/src/alg/ec_common.rs
+SPDXID: SPDXRef-item11728352
+FileChecksum: SHA1: 8806438ea17d866ad8a0cf28caa35789d651b4f3
+FileChecksum: SHA256: 50af7047f566a40a772b2f64388b6392b507e81742722cc6460376915576ddb8
+FileChecksum: MD5: bb67ef836011237c57c538e9b22156d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/src/alg/any.rs
+SPDXID: SPDXRef-item11728353
+FileChecksum: SHA1: 3246e8264ab0d2bbb151f5af07f7789cf1235240
+FileChecksum: SHA256: 234eacf00123bf02bd4f4c50956f9e7f8f65297eeeda4eb9038eab11e9817202
+FileChecksum: MD5: 05ceb7c6a9df49e5822e3344eb7e3c5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/src/alg/chacha20.rs
+SPDXID: SPDXRef-item11728354
+FileChecksum: SHA1: c7e4d443f8f731b45bf64404f945db939d346490
+FileChecksum: SHA256: 48ec89d690293f86a9ab724a882104fb95a9e17fdf27f4689a0473c924666db0
+FileChecksum: MD5: c409ef374de5f3d1d765f7b939283b3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/src/alg/x25519.rs
+SPDXID: SPDXRef-item11728355
+FileChecksum: SHA1: 62103de578b89790f3bc61ccf57346200d1c2ce1
+FileChecksum: SHA256: cbcbfcd54559a9fd0241c94c229d94acbe5fc58309eedffd882d0720a0f16127
+FileChecksum: MD5: c298f0f8c440c27cfc3f2ecb8b01f91f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/src/alg/k256.rs
+SPDXID: SPDXRef-item11728356
+FileChecksum: SHA1: 6e375992b69f16736a2a7bea164262d78940e0c9
+FileChecksum: SHA256: b3cec168c7377f2ae42aac024b726c0e38f982578cba83937d06ba05447f28c3
+FileChecksum: MD5: ddc26794e0e32ba05636f996f7168f7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/src/alg/p384.rs
+SPDXID: SPDXRef-item11728357
+FileChecksum: SHA1: c6d8479b5b72ef2bb4ff2c739701176638942006
+FileChecksum: SHA256: bf883042851e7f12a01078c7c5924875411936716e2caa2cf3b6179ca437e6c9
+FileChecksum: MD5: 221458f26984c8fa909e4cd3f0faac55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/src/alg/p256.rs
+SPDXID: SPDXRef-item11728358
+FileChecksum: SHA1: e46798489e07a5566889f8fbf6d9883af3ab4900
+FileChecksum: SHA256: e498c9e865d446f5746873662ba87b608d7aeccd1890923e5fa5a6db59e2c91c
+FileChecksum: MD5: 07a5b6bcc31b74c72c6fe1f4a7650950
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/src/alg/ed25519.rs
+SPDXID: SPDXRef-item11728359
+FileChecksum: SHA1: 6dd5388d8c70dec5332643086fcf57c21d99f1e7
+FileChecksum: SHA256: 1ef6579a37dd326887a915b25fd87057a8b52bd4bcb85dcaeb02880a41948c62
+FileChecksum: MD5: bf8896f9f6da6a0d029244dcd598f56d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/src/alg/p256_hardware.rs
+SPDXID: SPDXRef-item11728360
+FileChecksum: SHA1: 7aa3e116ed157096cd73df2f7fb55ec6a153c09c
+FileChecksum: SHA256: d85029570dfe1d107ed5a9ca84dcbe0e21f2689ce35bfed2ef99b00c6edf2d35
+FileChecksum: MD5: 55d5d4db79ac6203edd58d634709c858
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/src/alg/mod.rs
+SPDXID: SPDXRef-item11728361
+FileChecksum: SHA1: d186da8c5064c9d756e7ee4640e538fa0acd90ba
+FileChecksum: SHA256: d8e86b5f56f3bbb2a368206ef2efcdce0b0d1c35bb492d43ec238ca9415bd795
+FileChecksum: MD5: d33fc005434318ce147a014545c87446
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/src/alg/aes/key_wrap.rs
+SPDXID: SPDXRef-item11728363
+FileChecksum: SHA1: 4d8e2c43fc87f9c9fe9c594a8257c377e4e37d67
+FileChecksum: SHA256: a84de0b1303129a2dc9cc5041d2bade64daf223b05315b93067b503480d87e7c
+FileChecksum: MD5: d943df4d5b39166ede69c4633760742b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/src/alg/aes/mod.rs
+SPDXID: SPDXRef-item11728364
+FileChecksum: SHA1: e5cc25f5fcc57e2c33a6aa53628331c615ecb322
+FileChecksum: SHA256: e8c998d1f5f3a6b8f32534273dd92efb1479ac2999700c53806b0dc16fe5effe
+FileChecksum: MD5: d6ee5e874675aa0635571c0c606540c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/src/alg/aes/cbc_hmac.rs
+SPDXID: SPDXRef-item11728365
+FileChecksum: SHA1: cab1c4690d56a4323c4f02bc6cdb93977e1fff51
+FileChecksum: SHA256: 2ab02bb1103efcd0bed1054dc9625a133fe3178492288586a4e18b06583f11e1
+FileChecksum: MD5: 68d89a5e0690a554084146d44f7e6541
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/src/alg/bls.rs
+SPDXID: SPDXRef-item11728366
+FileChecksum: SHA1: 48e569c703e8dc302f59ba75a6ceac1e5e6ff7b0
+FileChecksum: SHA256: 4e5b717bff9e6700afee9f598bd30f2ec916805480090a618be2eb2e37697a6a
+FileChecksum: MD5: 01c951adac2e60c526aa02b9d5013845
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/src/kdf/concat.rs
+SPDXID: SPDXRef-item11728368
+FileChecksum: SHA1: 8b6a7506156b448e804b1a99e124c62eb264e817
+FileChecksum: SHA256: 414ebc2c74a87f3b314050409192cea4a2bfde7958a1f5c6ed6454d4e8b5a183
+FileChecksum: MD5: 90cd066809991d53eb6d0a700739b7e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/src/kdf/mod.rs
+SPDXID: SPDXRef-item11728369
+FileChecksum: SHA1: 7691a3661ea6bc9acf40b7ee2e2656fe6ed03ab3
+FileChecksum: SHA256: eb4a08e99cb50a981ad3ae0f009e927c8db88c5b2918110d56fc186b2de1d2c7
+FileChecksum: MD5: 3de5d4fdc19d78b7370d1c0c287b20bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/src/kdf/ecdh_es.rs
+SPDXID: SPDXRef-item11728370
+FileChecksum: SHA1: e375c8d890726b3e905feed4bbe68e6f4ff30269
+FileChecksum: SHA256: 40d8ef6024e1d27f811b09430d5294f46666374202c51a81d9b7a7b6c8034b0b
+FileChecksum: MD5: 1f93e22ed20dcec8e6075260ddc30916
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/src/kdf/argon2.rs
+SPDXID: SPDXRef-item11728371
+FileChecksum: SHA1: 5d48a07b0d4b93ea41dc3e18e8e6e477d887539d
+FileChecksum: SHA256: bb82709fbf2e2809241a1344711c3d9ea7625dcfda9c03eeac7b7f46d747c8b4
+FileChecksum: MD5: c92c9bc89cec2eac736e6dfbe9b40bab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/src/kdf/ecdh_1pu.rs
+SPDXID: SPDXRef-item11728372
+FileChecksum: SHA1: 458573946ab777e1e6b8d2422eebcf38d54ed7ac
+FileChecksum: SHA256: 5a575949230bb29cc973d86318253ccea34138d76d4a9d32dd58d237356fc3a3
+FileChecksum: MD5: cd5d204804954412114eef657429ba46
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/src/jwk/encode.rs
+SPDXID: SPDXRef-item11728374
+FileChecksum: SHA1: 7cd0d0464c3dac4e13a77a6afc2a3820b00d1ec1
+FileChecksum: SHA256: 95a3b86bf807d8df1bd4467d74dcee7c163d0adbab8a64c04faeccdd2de71b1a
+FileChecksum: MD5: b062366f21afa077f29f820f6a2cb52d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/src/jwk/ops.rs
+SPDXID: SPDXRef-item11728375
+FileChecksum: SHA1: 4b1c003434487b2a76fd2a3e3aaf052fb0a7851e
+FileChecksum: SHA256: fba38c31bceb79ba3019a7dbaa1a1b0350197567ebba379ca4e24c24f1036f5d
+FileChecksum: MD5: 87c8c989479633c8f432d82a8c359d57
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/src/jwk/parts.rs
+SPDXID: SPDXRef-item11728376
+FileChecksum: SHA1: 7fd2786b61f279b347148a49bbcb76a650cb591b
+FileChecksum: SHA256: 3d4f4b85caddba1ef4e8a57154c45c35c05c950cc02b181bbbc75de7584d7347
+FileChecksum: MD5: b60a22eeeb99af702f4f753cdafae040
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/src/jwk/mod.rs
+SPDXID: SPDXRef-item11728377
+FileChecksum: SHA1: fa410987c9487a876b95c3b3d1f97c4c3376c530
+FileChecksum: SHA256: 7f40f80234b45e8298535c4481a01e2423b6dc495ef282d68424a90dd8193601
+FileChecksum: MD5: cd66bc30df1692cedf6c2a6e3cdf89b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/src/lib.rs
+SPDXID: SPDXRef-item11728378
+FileChecksum: SHA1: 38e0f223d81b8e2676da68d0e730ee86e38e2c38
+FileChecksum: SHA256: 0a06548e703f8756e52e679fb9c0ef1b9d83f11eeb05fcb97fa5cc5a514c3185
+FileChecksum: MD5: 6291242576e47962faef3d00224ea658
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/src/error.rs
+SPDXID: SPDXRef-item11728379
+FileChecksum: SHA1: 67fb0b78e13ca364bd139de76850d1eefa511b3a
+FileChecksum: SHA256: c5dcca03fce2bfa8dbd33de1149449d3603d1d01172b40684c1b04239894eead
+FileChecksum: MD5: 2dbd51699caf246b9ec601ae44f4ee38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/src/sign.rs
+SPDXID: SPDXRef-item11728380
+FileChecksum: SHA1: b9ff7cad63d901cbf409d4376bdcc7886ba31da7
+FileChecksum: SHA256: 4d9e53d9dd6f6cc86dbe1926d7b401549f55e5c0faa4c4b72abdd41229afb7ff
+FileChecksum: MD5: 775ccbe2c32006fb5c7523c157aedb0a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/src/repr.rs
+SPDXID: SPDXRef-item11728381
+FileChecksum: SHA1: 7f2549e8f6c6d9b2e5bce65f842af9d5ff575926
+FileChecksum: SHA256: 2d47c5ebe58324a1db9ce6e2fcced9cf0481f9bec59a97f65050176b44a8ba8b
+FileChecksum: MD5: 50b596bfc902f22778bd9bf5e3e62b9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/src/encrypt/mod.rs
+SPDXID: SPDXRef-item11728383
+FileChecksum: SHA1: a1c6d6f5f225d6dea18727044f41ed67f19ca5ac
+FileChecksum: SHA256: e823561315987704558b256da0def0d4352d5fb1c706546068c0c5517dd39c45
+FileChecksum: MD5: 11d16604428ccf149aff020172ed341d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/src/encrypt/crypto_box.rs
+SPDXID: SPDXRef-item11728384
+FileChecksum: SHA1: d7e1436808fd6990ff4fd15b408ba24ab5647827
+FileChecksum: SHA256: e47fba056aba70ccd5d14e60ac68d009ae54844285268732c713032c67a4304f
+FileChecksum: MD5: e9fab56cc57a5c621b361440362d5898
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/src/buffer/string.rs
+SPDXID: SPDXRef-item11728386
+FileChecksum: SHA1: cf0b7f902b3e474b518e8b765ba535481d8f518d
+FileChecksum: SHA256: 76bfde8bd696bcb19807c6497c177421ba8671592c4051d40a24dfbb609772d0
+FileChecksum: MD5: 2cdd09ee38f4b454767b86de3ba6bc46
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/src/buffer/secret.rs
+SPDXID: SPDXRef-item11728387
+FileChecksum: SHA1: 01ee600ab7f99847214bccb7aef259e3d3d7654d
+FileChecksum: SHA256: eb86895034a42f61273cb7707a07238264e991d4b1cebec77633b92497183193
+FileChecksum: MD5: 7dcef608bc2c37f69d4b3867fc77ec3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/src/buffer/array.rs
+SPDXID: SPDXRef-item11728388
+FileChecksum: SHA1: cbef819dcd819101816baaf0908dd9c48389e1df
+FileChecksum: SHA256: 9673b0bc077116d1e33f1f16c9c7be2e435bb0afaa2bb94e2b743d9fa8d183b2
+FileChecksum: MD5: 87c39bdacd3d5eed15fb3f8ac0e583dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/src/buffer/writer.rs
+SPDXID: SPDXRef-item11728389
+FileChecksum: SHA1: 6b4d9dd9b430fbca4cc2271a016746971e82819e
+FileChecksum: SHA256: ce0b3cd3570ec8dd91681eb06e558cc9048594217379e35fec8eaa38f071535f
+FileChecksum: MD5: be7af9db68788606da7456be736161ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/src/buffer/hash.rs
+SPDXID: SPDXRef-item11728390
+FileChecksum: SHA1: 361e93d89d36679d762a3af047caf573bc7b0c8d
+FileChecksum: SHA256: 2ec933999c3b90a678aff6945368542f09ad5da699f4d5b0a4006bd477d677b3
+FileChecksum: MD5: fc453d80fef786b6f13909d1240dc819
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/src/buffer/mod.rs
+SPDXID: SPDXRef-item11728391
+FileChecksum: SHA1: 3de3430999e0085ed5be165911524cd4d59a0622
+FileChecksum: SHA256: 8887940069051ba22d93fa46646876870ab4ee340b64e7d95e0c9cfc2fdc15d4
+FileChecksum: MD5: 2ee83aae94e784912b35a8b6be5e528e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/src/random.rs
+SPDXID: SPDXRef-item11728392
+FileChecksum: SHA1: 17ffaa93058135c235d7a8a8a4ab5f96177bc8d5
+FileChecksum: SHA256: 41f82f592ac48aa9b2281b1d3187cd4815f3683f8637e18bdc900cc354d41dbe
+FileChecksum: MD5: 0ea8089ef4aea13937a6bd0ab090bd3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/fuzz/.gitignore
+SPDXID: SPDXRef-item11728394
+FileChecksum: SHA1: 45c968d50ec06f3ef53a38943d66937b9c303624
+FileChecksum: SHA256: 254510c2c60d231ec3a5ecf9fe7f0c9fd5152ae7a09e2cebefaee9ec01a4b6c4
+FileChecksum: MD5: 477df6c5e84a8d172d97c95b1f0e0ced
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/fuzz/fuzz_targets/from_jwk.rs
+SPDXID: SPDXRef-item11728396
+FileChecksum: SHA1: a93324d6be4a049215641a3d3beb2fbe063e945c
+FileChecksum: SHA256: bf8e8dfce1153a1f61a49e3cc93911003b53658a0f11b4c610a9ad078c7858f3
+FileChecksum: MD5: eddd5d514775b27faa984a7e91488fc2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/fuzz/fuzz_targets/from_public_bytes.rs
+SPDXID: SPDXRef-item11728397
+FileChecksum: SHA1: becbea34a10a69fa946dddc04c1051f93671768c
+FileChecksum: SHA256: f5aba5b1a57ee385f4363ffc1825d39164c08435aefb0c0ba6eac824e44e1a0a
+FileChecksum: MD5: c1bcce48d24756dba69e653a24d0e34c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/fuzz/fuzz_targets/parse_jwk.rs
+SPDXID: SPDXRef-item11728398
+FileChecksum: SHA1: 4dfe488ee365f1807c1fe29ea8624ee100c8786a
+FileChecksum: SHA256: 33de834b6fe9ddd18f45133c9ebb8586946c6937c911d78fedaf0baaa1d3e6be
+FileChecksum: MD5: 4a616dc257e50b6eaa49d1744c858510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/fuzz/Cargo.toml
+SPDXID: SPDXRef-item11728399
+FileChecksum: SHA1: 41687daf1238a111485a47fafde52cc8428f298f
+FileChecksum: SHA256: badec1f5f3a0a7cd22b393406dde3e5acd121e1736a10d60ccb874906878b76f
+FileChecksum: MD5: a8091f6593a340c1b629ad71ab33c4d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/benches/kdf.rs
+SPDXID: SPDXRef-item11728401
+FileChecksum: SHA1: 71d42b05226cfe8ad6dc25ab40ef9dcdbe14495c
+FileChecksum: SHA256: 3683f246922d0f6e5786d040355614df9d18f2c508544d366443e6ea364395a7
+FileChecksum: MD5: 56b39197b19ecf90e6ba1cb516971f7c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/askar-crypto/benches/enc.rs
+SPDXID: SPDXRef-item11728402
+FileChecksum: SHA1: 54ebcb14cca367ddb813df51c2a76d2caeea0246
+FileChecksum: SHA256: 0982dd5cece34723b1cfe19d5c6ff8a3b97b1937cb5183fa22121a53f39e9183
+FileChecksum: MD5: 16a438c354fe0225d9e0f99fa2ff946f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/src/lib.rs
+SPDXID: SPDXRef-item11728407
+FileChecksum: SHA1: e9ad9d7edd850bb9502eb5b1ec9c811590988088
+FileChecksum: SHA256: 8c843c97f56572a52efdacb752657a4c16d49a2496a514b96a86610877882c9d
+FileChecksum: MD5: 19299ea391445a12063cf13515e4d06f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/src/kms/entry.rs
+SPDXID: SPDXRef-item11728409
+FileChecksum: SHA1: 2939cc342a91dbb9dddefbee6539cdf9b5909caf
+FileChecksum: SHA256: 9e250e740035e4d866f0a1eb9873b58fea1229ae48812467cc20b7348450e343
+FileChecksum: MD5: 3cefd165357f19f9749eb9f9280233d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/src/kms/mod.rs
+SPDXID: SPDXRef-item11728410
+FileChecksum: SHA1: bac18c67588077b6bc9c158f17f56b790b003d1f
+FileChecksum: SHA256: 7893006ecbb8fd2a21bf5258a65db89bdcb25ea689a7df51ce9524785ec712b5
+FileChecksum: MD5: 174ec14d2d9fbeb479550824246245f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/src/kms/envelope.rs
+SPDXID: SPDXRef-item11728411
+FileChecksum: SHA1: 5d2865d476dd4040deee90f35fad9aa05ffadf21
+FileChecksum: SHA256: 313d2b11eb8c99076173f78da01527983c56ba86d020aa350cef37b307fc7743
+FileChecksum: MD5: 59aa9461b05ff5904795b600f3961bd8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/src/kms/local_key.rs
+SPDXID: SPDXRef-item11728412
+FileChecksum: SHA1: 4e2efb967d8d93b7e2957223243b1d828cab6e7e
+FileChecksum: SHA256: a07866cadaa42ef90e98a628b27dfb034c12d528e5d80f1821f0d4c103a0e205
+FileChecksum: MD5: d1f3e6439b186dd09af8574a3eb3da67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/src/kms/enc.rs
+SPDXID: SPDXRef-item11728413
+FileChecksum: SHA1: 7004ef0b77f12a646bb56e9eefd9a52476cca301
+FileChecksum: SHA256: 2e88d68dad43b2ee316c8359ced8a6113c521050f1fc6b2e2c5484b5acc124d9
+FileChecksum: MD5: 14b5e38f975ca907b9b8f05b24a1e708
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/src/error.rs
+SPDXID: SPDXRef-item11728414
+FileChecksum: SHA1: c34e5865e54dc567571a5e843661b35f16654db9
+FileChecksum: SHA256: d9e84a7321036e04116e84738f9752ea5003666f3c7906fdb9be9c5350ff0283
+FileChecksum: MD5: 0d2363cf97625c42713a57891865fb49
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/src/store.rs
+SPDXID: SPDXRef-item11728415
+FileChecksum: SHA1: 65969b370959d2c9504e0888210dfd2abe99b57c
+FileChecksum: SHA256: 47211c56391b586523163d78a7c09377b767e1d751fd9881ad4576cedf8007bb
+FileChecksum: MD5: ebf35e2c42565075fa93468a440ab8c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/src/ffi/migration.rs
+SPDXID: SPDXRef-item11728417
+FileChecksum: SHA1: b24accba44791f09cafb27ba5a98763040abe5bd
+FileChecksum: SHA256: f87b07ad3a5801ede85cef5a0160467f15fc8b0a8e0f3b4aef4670cffe4f4325
+FileChecksum: MD5: 0622462ba4607627decc98997902799b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/src/ffi/kdf.rs
+SPDXID: SPDXRef-item11728418
+FileChecksum: SHA1: 8cb6f578816029dc7c0b79abbaec72e05566a727
+FileChecksum: SHA256: 4297c8111c6adef433e2552f5a12b8b3c35b37a6e185997ea0217192318f36df
+FileChecksum: MD5: bec4ec3101c1e3389b0ea7ba323249fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/src/ffi/secret.rs
+SPDXID: SPDXRef-item11728419
+FileChecksum: SHA1: 35d3fc755ec040ae308bcea4e02bb43e0c191873
+FileChecksum: SHA256: 9dd16e9087831800f407757b96759960177fb02969dccee8271d1fa2e032a784
+FileChecksum: MD5: 1a084e13173f03be22f9864c63e88080
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/src/ffi/error.rs
+SPDXID: SPDXRef-item11728420
+FileChecksum: SHA1: 99caec06f1ddd70c6773c86f9ac7ff502f5f253f
+FileChecksum: SHA256: 988bc7269f9783db97949f2873d8c17c3da8388ac082af5aafc0383055f7019b
+FileChecksum: MD5: 31000138957b668e5c31c305a286ce87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/src/ffi/result_list.rs
+SPDXID: SPDXRef-item11728421
+FileChecksum: SHA1: b38861b736765c78665d57b62df658859b800694
+FileChecksum: SHA256: 7ff4e6b4432f77e538313353049a6e47b82953504edc0198f21b860df2a9100a
+FileChecksum: MD5: 154360e3bd54198eaf7bd7c031e21d80
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/src/ffi/macros.rs
+SPDXID: SPDXRef-item11728422
+FileChecksum: SHA1: 0b085950be9bebe1ff5ae622088b0f941653832b
+FileChecksum: SHA256: eea41e775f0c45262234def51cc4e6ba89278e289bc8584483c6e04b54ef614a
+FileChecksum: MD5: 91f8ba112a1cb6bffa8bd53e202add1d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/src/ffi/key.rs
+SPDXID: SPDXRef-item11728423
+FileChecksum: SHA1: af9cdaa639fd0032f0cb431d971899eaadecc7d2
+FileChecksum: SHA256: 15c40ddc5881fb9f89b940a56ff02a512d7646aa0935cc76254fcd82d0102593
+FileChecksum: MD5: 0b0b091c2bc0a165396f314d0a277b1c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/src/ffi/store.rs
+SPDXID: SPDXRef-item11728424
+FileChecksum: SHA1: 15a7859e408fcd989ba63cf961a5c100c2f42d2f
+FileChecksum: SHA256: 1ac7c48adaee25df38eec30a25e1f6ca9fb41f48889c9a5f40f757e1a401f89e
+FileChecksum: MD5: 0cf801309b0fefa2b38814f31d675f80
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/src/ffi/tags.rs
+SPDXID: SPDXRef-item11728425
+FileChecksum: SHA1: c51620ece420af8e709d4fdada76281c14ebd91d
+FileChecksum: SHA256: 5112c5baf90cefff64d5b7ac01e446be7b7f77c598d482beb223e4f6fe961067
+FileChecksum: MD5: 187f3f504b142321051eeed61c05604a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/src/ffi/mod.rs
+SPDXID: SPDXRef-item11728426
+FileChecksum: SHA1: 5acbcfb9dddf663875843099f5eea4af68496ab7
+FileChecksum: SHA256: 327f37b93a189e7a24683f32383cee1ac89fe44ceaebd115a5b3d28ec274eb54
+FileChecksum: MD5: 86a8a9131cba3e4a625254330fcb1784
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/src/ffi/handle.rs
+SPDXID: SPDXRef-item11728427
+FileChecksum: SHA1: 1819f63800330f7d5cf255d8b8739434cdc8e14f
+FileChecksum: SHA256: 61922979f81f5e26098d0343f0cb8c920e91fb6a5bcdf9c3d8c99d07abd511bd
+FileChecksum: MD5: c16848e534efe85f250380281a9af777
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/src/ffi/log.rs
+SPDXID: SPDXRef-item11728428
+FileChecksum: SHA1: 74df89452e7e7f2682512e3243b8500bcf262fe7
+FileChecksum: SHA256: 642e6d0eb6ca2b9992271a74fe75a2e562129112937b5267aa2f0726f752b040
+FileChecksum: MD5: d753d6d940ec44d8a4f98765b67b20bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/.github/workflows/build.yml
+SPDXID: SPDXRef-item11728431
+FileChecksum: SHA1: 0d8cf8cef8bbcbb5fa51848fc12d34ec8f0289f5
+FileChecksum: SHA256: 3cae53b88573b325a936b58afc46030c39675cc220333cb652c070707a31f3c2
+FileChecksum: MD5: 433df9a362be017e6ca9ee9cbe894ccd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/.github/dependabot.yml
+SPDXID: SPDXRef-item11728433
+FileChecksum: SHA1: 8538df5bd0452601dfdac7c693dd4927bf1260f8
+FileChecksum: SHA256: 052b1e499bfb8d1653481be2ff86856b29d0c9395528c8566e879a242ea6c89a
+FileChecksum: MD5: 77960392125f1a9f6f9040a875acf5c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/benches/README.md
+SPDXID: SPDXRef-item11728435
+FileChecksum: SHA1: 5db0abc7e080b21bcfb9eba739e44a9a79608818
+FileChecksum: SHA256: 6499a03ebbdd38a166fa104a4db538aa1567b85ee121a2b00df17b7313d3da8e
+FileChecksum: MD5: a39a663f2283f2377cd8beb6e1d1203e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/benches/benchmark.rs
+SPDXID: SPDXRef-item11728436
+FileChecksum: SHA1: 851a2d973285bba60a9758babed8a91129ce24a2
+FileChecksum: SHA256: 6bfc058148de2740a7e4689955b7a5378654ac504d87467734ed59993e60069f
+FileChecksum: MD5: b2d6e8e3033a018d3f0a4139adef6ba2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/build-universal.sh
+SPDXID: SPDXRef-item11728437
+FileChecksum: SHA1: 95b1f9333a22e694203d0804ab458f9772d9829b
+FileChecksum: SHA256: c1f5d0e30697acf24e77904b46803b1f5e019716d38f47b10276a4f312b3e37d
+FileChecksum: MD5: df7a4f77b7df09ea4b6ba22ed0b0a456
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/wrappers/python/tests/test_kdf.py
+SPDXID: SPDXRef-item11728441
+FileChecksum: SHA1: 1f19ff5de10da87a1779284a750020b448cf977d
+FileChecksum: SHA256: 116d72c7354ba620d2d749873d319f797add9ddb6a6e3e0ee36a4458e216ad4f
+FileChecksum: MD5: 53f319b2d525dc4a5e4b291b740d468c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/wrappers/python/tests/test_cleanup.py
+SPDXID: SPDXRef-item11728442
+FileChecksum: SHA1: 3e28af0337d312cca8365d5b7f6a7d3875026648
+FileChecksum: SHA256: 4097722a3d8cc453fbd1dca7dd63dac64595f4ec22a3cc258ee91db8fdc22496
+FileChecksum: MD5: 81d76f90b24b634f44924b27ec07dfc2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/wrappers/python/tests/test_crypto_box.py
+SPDXID: SPDXRef-item11728443
+FileChecksum: SHA1: 4d9571b989ccf4ab1ed0edc25d9811a5772a59a9
+FileChecksum: SHA256: 7dff8a49db308e14d0e37a662d4c0e781e51b19b5dac425faad0855132fe328b
+FileChecksum: MD5: 3b689760a4c2fda038e824be534b9c54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/wrappers/python/tests/test_keys.py
+SPDXID: SPDXRef-item11728444
+FileChecksum: SHA1: b9c2bee346877fbc3b592795f352c14b707f83ee
+FileChecksum: SHA256: 8ea43d8e4ad2a58cef99be56f4fa5c5c2cd7cb9fac028ea4a85b61b07320a1b5
+FileChecksum: MD5: 5e5294bfd46df7ac0f2627c0fe2b7674
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/wrappers/python/tests/__init__.py
+SPDXID: SPDXRef-item11728445
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/wrappers/python/tests/test_jose_ecdh.py
+SPDXID: SPDXRef-item11728446
+FileChecksum: SHA1: 2b20acf2350ee7a894ce76dbcb638290d263138c
+FileChecksum: SHA256: ee51ebf79eb360782d5c072d34c30f6227b99899ef410a1575b1f47dddcae51f
+FileChecksum: MD5: 0fef87669a2fe212bed2a56e6f178a31
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/wrappers/python/tests/test_store.py
+SPDXID: SPDXRef-item11728447
+FileChecksum: SHA1: 4659e5ed17dc7425e455dc9b7eccce53a4af3194
+FileChecksum: SHA256: 7b321639cf8228c05bea38fb15b52304bb63f9514b61cf6b9bb9c8a5391643bf
+FileChecksum: MD5: e02863181c71ad064ec9493c8bd20939
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/wrappers/python/demo/perf.py
+SPDXID: SPDXRef-item11728449
+FileChecksum: SHA1: 9f369eb44f6a98e5351b0fefe4b1eedc8c247f24
+FileChecksum: SHA256: cdbd19a7ef24fa3d327aab5b918095e91713beab19cb730272100c53808de2d3
+FileChecksum: MD5: 549e47435b7aef8526c6d5507cf2bc92
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/wrappers/python/setup.cfg
+SPDXID: SPDXRef-item11728450
+FileChecksum: SHA1: 35b5ab617cb67d48580b2a4f8075d01052137d70
+FileChecksum: SHA256: 7c0d27b5da049a8ee7dae4c6cb7767e60d8d6ff726277b18cde5b24384c3f54b
+FileChecksum: MD5: b332b28766592f9b396aadf661bbe2a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/wrappers/python/requirements.dev.txt
+SPDXID: SPDXRef-item11728451
+FileChecksum: SHA1: d47a17df4a014ccf6fb4ec4368063f360525f8fc
+FileChecksum: SHA256: 1263a35e8078d4f88c3785999a2db20ed48bc46d55c2cae95dc1d7e1c5d59bbc
+FileChecksum: MD5: e2a637ffdbc61214c9ea1b880e997eee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/wrappers/python/.gitignore
+SPDXID: SPDXRef-item11728453
+FileChecksum: SHA1: 611c245a6a81753904111f43d5fc1ae851c3dd0f
+FileChecksum: SHA256: 27ad5ef20fccfe350dbe254acf08a786f888dd2fcd08576a338f288e054fe06b
+FileChecksum: MD5: 8467c525b7a8a019877eb521c403ac37
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/wrappers/python/indy_test.py
+SPDXID: SPDXRef-item11728454
+FileChecksum: SHA1: 4a1d2d0c593064be2d8786a16ff9daf1b3c6c610
+FileChecksum: SHA256: 4d38b6c71dd4ce94567616540847189720dfea4fa04aa146483c2589111b6037
+FileChecksum: MD5: 9eba940a56ad3f89fc8d9488feba2a99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/wrappers/python/aries_askar/error.py
+SPDXID: SPDXRef-item11728456
+FileChecksum: SHA1: f70db41782667c41cad1ab8529cec8c1158588a6
+FileChecksum: SHA256: 0776827a220e372a6218f2e4b9b10c90d86108ae157d73131448c18248c0ff44
+FileChecksum: MD5: c537bb5b2d40d0e61281e76dcc0d26a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/wrappers/python/aries_askar/bindings/lib.py
+SPDXID: SPDXRef-item11728458
+FileChecksum: SHA1: b6ed2bbb42ace0e8674d145136118a8e01b275ad
+FileChecksum: SHA256: 1d083178373661c57f50880fa5360fa5b514c36efa00c70b7112620995fd344e
+FileChecksum: MD5: ca4131f18a1e7fe70d58db6689783892
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/wrappers/python/aries_askar/bindings/__init__.py
+SPDXID: SPDXRef-item11728459
+FileChecksum: SHA1: 5cdf599c19be53a28e676f98f74b7a4ac653f4d2
+FileChecksum: SHA256: 63c5a7754c68f08f18f62e6c453f7b197b688fc583475a0953b8782e08d1beac
+FileChecksum: MD5: 96b9d7c9944b78aeec8b3669296ddc66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/wrappers/python/aries_askar/bindings/handle.py
+SPDXID: SPDXRef-item11728460
+FileChecksum: SHA1: 3cd703583111e5d58507ae662d0d3d5fe5cf5c51
+FileChecksum: SHA256: 203c71ec1912fd979b561aba1164be90a525a87e5ae9379631af8bc8042a15a6
+FileChecksum: MD5: 491b54f4aaeda3bef49a7353b1e9459a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/wrappers/python/aries_askar/types.py
+SPDXID: SPDXRef-item11728461
+FileChecksum: SHA1: 93b1fcb887a28e24adc38207212c057e847b9840
+FileChecksum: SHA256: 5013216fb96270759e9e1d83609836f9310ec9d403a5a4a8b857ac65539d0a11
+FileChecksum: MD5: ebcd83c7584ae4822ee072f05fbf9ff7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/wrappers/python/aries_askar/ecdh.py
+SPDXID: SPDXRef-item11728462
+FileChecksum: SHA1: 6c6e56fc38e274ae8bd25967ef4c5d2b7ffcad00
+FileChecksum: SHA256: 2c264606deae84f2d836d7955defb9874ca0b8febd5059949dfd954e46f4f4a9
+FileChecksum: MD5: a370841c1693eb4bd40bdbc1662b43bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/wrappers/python/aries_askar/store.py
+SPDXID: SPDXRef-item11728463
+FileChecksum: SHA1: 4d49904f49526aff9dd852e0fe59bdf273d80f7f
+FileChecksum: SHA256: 0d4613ffcb5c25b1b70028d90c82dabda72b902c95b4e755b55c193ec745fe12
+FileChecksum: MD5: f05436927fe7e37a8125eb28f90cfb5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/wrappers/python/aries_askar/kdf.py
+SPDXID: SPDXRef-item11728464
+FileChecksum: SHA1: e6597bee1b1d30136d5e453c56e4f72d43b977f3
+FileChecksum: SHA256: 803f9524174bd48ab6069a748e77ce01dd8541cf2caacedf23eb70a31ef7be0c
+FileChecksum: MD5: 33fb6afffa13466bb00aa1d434353b02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/wrappers/python/aries_askar/key.py
+SPDXID: SPDXRef-item11728465
+FileChecksum: SHA1: cca255b4914ca33171da20e5dc74487c90956fbf
+FileChecksum: SHA256: fa5dc516a3f08933469e5eeeb0b73e2a225822817f1cc0ec4847a374ccdb43cb
+FileChecksum: MD5: 650465b2b4958b1b92a342717db919cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/wrappers/python/aries_askar/__init__.py
+SPDXID: SPDXRef-item11728466
+FileChecksum: SHA1: 9836accce4e6c4e6bf98ebd4ee6936d4de6bf5fc
+FileChecksum: SHA256: d293b1d53c3f6942407147f638411960a01ab00a9308347f7fe1b184a72c2023
+FileChecksum: MD5: 6dddf78eb70a13b88974133e8a7a9d53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/wrappers/python/aries_askar/version.py
+SPDXID: SPDXRef-item11728467
+FileChecksum: SHA1: be6b9c83bf5ac54b03ed8b75e1f8232ee1844a9d
+FileChecksum: SHA256: 0395a6727479b7791d3b740d299bc8499586393e7f989851e0cbe45989a89457
+FileChecksum: MD5: 88135c8a3e51f961e4712325104b0e22
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/wrappers/python/aries_askar/crypto_box.py
+SPDXID: SPDXRef-item11728468
+FileChecksum: SHA1: 679f46308dc318be99b0892f0718c613c5cbf29e
+FileChecksum: SHA256: 36c3bad77bcbc0668f62cccb022db6d2102d90c1272063c2a676a3ee91c41ef3
+FileChecksum: MD5: 0d4f48a507c25e40d2b15bff29925d9a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/wrappers/python/requirements.txt
+SPDXID: SPDXRef-item11728469
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/.gitignore
+SPDXID: SPDXRef-item11728471
+FileChecksum: SHA1: 980f051252662ae53eb95259f01d972850e0aa17
+FileChecksum: SHA256: 4feb7d94311c3888454c6dfac64867ef4980ecbd1f94f29a351cd2359903b952
+FileChecksum: MD5: f97189694946ed9b05320461b7da829e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/include/libaries_askar.h
+SPDXID: SPDXRef-item11728473
+FileChecksum: SHA1: e0ce24b4437abeff047251ba7298e8882f857ff3
+FileChecksum: SHA256: e5464d199d2ffcfc34e3d54ba831cb177161583294fdcd7314dd8bd901f28457
+FileChecksum: MD5: 944b0cca37e1937f6150790e9575595f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/include/README.md
+SPDXID: SPDXRef-item11728474
+FileChecksum: SHA1: cadbe99554dac7cbc556668d38892f7dd864c4a6
+FileChecksum: SHA256: 718fb8e7986d7f880f3e0923fac62b83d0bf55282949f68ed82886f3a7333097
+FileChecksum: MD5: 77fcfcb3d4b9844cc71a2815c8432bc2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/include/cbindgen.toml
+SPDXID: SPDXRef-item11728475
+FileChecksum: SHA1: 3907dfc6d620d18c7a7094fc0979b503b4c54372
+FileChecksum: SHA256: abdd9ece0b04b2b8482d7c84f81967eaae5eef5b53c358e0e3f782cce16c02f8
+FileChecksum: MD5: b079d46b5f34ad26934bacaca3428c4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/Cargo.lock
+SPDXID: SPDXRef-item11728478
+FileChecksum: SHA1: b5d8b507d75fe3a349f27a7568ab865a30c16f43
+FileChecksum: SHA256: 54324c865abeb783f6712d99dec12529760c5fc7996a00430f7a20de156fb701
+FileChecksum: MD5: 990f452ab6338c0f33f5f84574f9823a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-RSA-possibility
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/Cross.toml
+SPDXID: SPDXRef-item11728480
+FileChecksum: SHA1: 30ac0f234584e5ea3c96ee9b5a7287078b6550b6
+FileChecksum: SHA256: a815514cc239f94b8b8999e1e8fd0c95b4ad6a6e0235948a3a1afb0dd71cb934
+FileChecksum: MD5: ffbfe323384222ebce1167b234139210
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/SECURITY.md
+SPDXID: SPDXRef-item11728482
+FileChecksum: SHA1: fdac34b010bbccb125e6ac9f0f7dba01ff1386aa
+FileChecksum: SHA256: b4ad83e547438c6420efe6340146d1433b0acaceeafcf97f995eae7cba296559
+FileChecksum: MD5: 28b54627eeaaf0645ebd753b6ee21df7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/build-xcframework.sh
+SPDXID: SPDXRef-item11728483
+FileChecksum: SHA1: 661b934ec62904c13f490b318975557654e19e8b
+FileChecksum: SHA256: 16e1a717e8918a1710d88dfc9688632dfd90d0aa6e848024543cb65e32f9fade
+FileChecksum: MD5: bdd45bae33509a5dec5b4f60ff9fbb81
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar/MAINTAINERS.md
+SPDXID: SPDXRef-item11728484
+FileChecksum: SHA1: a59ef5a6dac9c0a519c88c92b88efa4d09957a4f
+FileChecksum: SHA256: 9078c18dba8244ddac8ad17479831f8a93d2d77a8905d0f397b3244316490782
+FileChecksum: MD5: 7a3c5101acaded6c778954bee3c74f55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/tsconfig.json
+SPDXID: SPDXRef-item11728489
+FileChecksum: SHA1: ba07388e70808e1aa3c33b8c9f241f9329c399c6
+FileChecksum: SHA256: fde4f6da11a578a57dd53d3dc22b43af75208af382c9014f8be405d378d3b80c
+FileChecksum: MD5: 43463509a8035cde15aa10bba5285a75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/.github/workflows/release.yml
+SPDXID: SPDXRef-item11728492
+FileChecksum: SHA1: cb0b7e99e6e9ff7ea386d7bc12c51aa1a0d86472
+FileChecksum: SHA256: 25a6dabeef49573a980b1c88e16b531e379aac169b3d41b6f3c8ef245810c605
+FileChecksum: MD5: e41669a6d731454387c92f8c54ec5a66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/.github/workflows/ci.yml
+SPDXID: SPDXRef-item11728493
+FileChecksum: SHA1: 8c755c48c596314d133c48a538eaf2e478e8f978
+FileChecksum: SHA256: 63dbeb1257d537d06acf4a932c70f94992d4864a8830b8a1b903dff787ca7302
+FileChecksum: MD5: 1de7edbda4a9799b9f158ec6129c6501
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/.github/dependabot.yml
+SPDXID: SPDXRef-item11728494
+FileChecksum: SHA1: efd3c4e9788049ce84a4bca63ea3e12d40a784b7
+FileChecksum: SHA256: 33e42e6ba8138c55a6091ef137286b5ae7f5d0478447fef72a366d4d731cc4b6
+FileChecksum: MD5: f997c1c25b03327ff18309e3404ce59c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/examples/askar-react-native-example/app.json
+SPDXID: SPDXRef-item11728498
+FileChecksum: SHA1: 90d7e470944975cead0f7d48c9b2b783fa97311a
+FileChecksum: SHA256: b01a9bdd5312a6c86c0a3e786a4fd2bf5aeca863a6a8b13e2d2aa9173219834d
+FileChecksum: MD5: 0b92bd3eb2b2799cf6fcaa5ed62d42ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/examples/askar-react-native-example/metro.config.js
+SPDXID: SPDXRef-item11728499
+FileChecksum: SHA1: dd1e0e55d0cf8c02d364b1279ef4166ea2193796
+FileChecksum: SHA256: ecbec5817079aaa9bad3113e5348d1bc99030151f5f7217208c22716b88c3190
+FileChecksum: MD5: f2d886387a7efd80699ceee8c564e1cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/examples/askar-react-native-example/tsconfig.json
+SPDXID: SPDXRef-item11728500
+FileChecksum: SHA1: 404fd722e455a1f31c95f6b94702e84bb7b69833
+FileChecksum: SHA256: 23db80a1030acace276bbbe836fd97a0658bee3daa1da6fbb01f16b84a73b93d
+FileChecksum: MD5: 53d8c4ead52a01f2fd26a9f3eb094025
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/examples/askar-react-native-example/src/index.js
+SPDXID: SPDXRef-item11728502
+FileChecksum: SHA1: 2434eff24ab12d351afadf444511ba713de3afd1
+FileChecksum: SHA256: c7165d6f5c6b066888682fd903f289b62eaf79642a8726842010c020d3a9cdbd
+FileChecksum: MD5: f0efc617918ce2c97a63369d98dece6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/examples/askar-react-native-example/src/App.tsx
+SPDXID: SPDXRef-item11728503
+FileChecksum: SHA1: 86ea83e4b74e12cc8fb2062b62995974da7620b2
+FileChecksum: SHA256: 5a0ea85096bb74f5c2f2d57af6f86fbaf596b3b4a9fa2eb964e252368f76c5b2
+FileChecksum: MD5: 9cc277a2b4c823f021e33ec6ae5f6335
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/examples/askar-react-native-example/babel.config.js
+SPDXID: SPDXRef-item11728504
+FileChecksum: SHA1: e4cdf62fa1c8d835cc76d3544f850d70531a3385
+FileChecksum: SHA256: b14fce64c4c1e3d8657e0f2234299ac4ade4eb0789f48234c2df1e803dca6414
+FileChecksum: MD5: 2554e63bad1b84c6f2a3eec593d2f057
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/examples/askar-react-native-example/package.json
+SPDXID: SPDXRef-item11728505
+FileChecksum: SHA1: 4e9e9111681bf91e0ea4cfd76e47c59cbf2f4cec
+FileChecksum: SHA256: aa270886923504523cd3cb94d98c7e86f1eab34120364e5280d3ae0a21c3dcb8
+FileChecksum: MD5: 39296e263dc0ea7f8ff6dcc87e964da0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/examples/askar-react-native-example/assets/splash.png
+SPDXID: SPDXRef-item11728507
+FileChecksum: SHA1: 206a875d5dc6f23eb9515bebd899ebb9f56eca82
+FileChecksum: SHA256: bc25a616b4e31cf7300cd97b9cbf8894e855e6373aa797d0badd7e211111c5e5
+FileChecksum: MD5: 4dc203c1f48ad8b1e9734613e88be661
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/examples/askar-react-native-example/assets/icon.png
+SPDXID: SPDXRef-item11728508
+FileChecksum: SHA1: 3f71f5a8458c06b83424cc33e1f2481f601199ea
+FileChecksum: SHA256: 74c64047eb557b1341bba7a2831eedde9ddb705e6451a9ad9f5552bf558f13de
+FileChecksum: MD5: 4e3f888fc8475f69fd5fa32f1ad5216a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/examples/askar-react-native-example/assets/adaptive-icon.png
+SPDXID: SPDXRef-item11728509
+FileChecksum: SHA1: 19b53640a95efdc2ccc7fc20f3ea4d0d381bb5c4
+FileChecksum: SHA256: 5f4c0a732b6325bf4071d9124d2ae67e037cb24fcc9c482ef82bea742109a3b8
+FileChecksum: MD5: 97dae5a0e62ad8551d8a31897b425e63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/.gitignore
+SPDXID: SPDXRef-item11728510
+FileChecksum: SHA1: fedaf1aa7a4a31e8c31c6c4ff51ff08fe51eaaab
+FileChecksum: SHA256: 8ccc49e45aad5f4ca729122634c54d39acb1e5a117842aebad0a3c7c18ea5136
+FileChecksum: MD5: b3ac53893f1df29a34dd0f4d66c890b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/pnpm-lock.yaml
+SPDXID: SPDXRef-item11728511
+FileChecksum: SHA1: 248d2081be5a2d4a203a5d5b7be928a6b91bbdd8
+FileChecksum: SHA256: d5413e632d309555f48518dc257827cba9ab31c1b1a0763560d4a826f6ad6413
+FileChecksum: MD5: 26507ceaccbc045405e6b34c1521e912
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/pnpm-workspace.yaml
+SPDXID: SPDXRef-item11728512
+FileChecksum: SHA1: e8802767ab17be2f8f9a000db611458467a33adc
+FileChecksum: SHA256: ae77bac9e7b30bc2f384b9eabb77db1dfe42238b3b7a55ff6856f28c9fc429db
+FileChecksum: MD5: 4fa4962d62396d4c7b9b7b5826d550da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/lerna.json
+SPDXID: SPDXRef-item11728513
+FileChecksum: SHA1: 46b88e2bacbbc5046b2b7e4c2a69fbb5e6484424
+FileChecksum: SHA256: 0033206510d446a6d452fd6fd27d6df64da9000aa98adbbcc0b7da7b70f05868
+FileChecksum: MD5: c0947dc53dfc9608c3e344625363149d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/README.md
+SPDXID: SPDXRef-item11728514
+FileChecksum: SHA1: feafbb2823efca72e9f5d2004fb8d15abb6eba83
+FileChecksum: SHA256: f66efa9248ceb9024a64bbb21ece9770bfce42762b16ef8f76a530cb68755de0
+FileChecksum: MD5: 0164aca79d9824b87414051fc5a68544
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-shared/tsconfig.json
+SPDXID: SPDXRef-item11728517
+FileChecksum: SHA1: 824e07716d65d9a6939a6322cdcd5bf12f2e7997
+FileChecksum: SHA256: 2239fed9a23518da182918cbdcb8e689af7c44a15689b26ad4ebe4329ece34be
+FileChecksum: MD5: 62720591bddbac6f83d1d4a877a59b3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-shared/src/migration.ts
+SPDXID: SPDXRef-item11728519
+FileChecksum: SHA1: e91b21c3096dd24ef09bfb407d78dcd1f6341e5f
+FileChecksum: SHA256: 20efb0cc3c0de6d5d8adcd8836d99bfb430eb2d87c8e948cdc771198dcdc33c3
+FileChecksum: MD5: 1c475bcf0d91481f9bc82fc8ebd03fa7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-shared/src/error.ts
+SPDXID: SPDXRef-item11728520
+FileChecksum: SHA1: 5442e56c219ede68e11bd2ed11be33f91f25e384
+FileChecksum: SHA256: 1d7c3632fafc3e48d6680487a3384781b4796f15fbdd594e14dff4f972909f92
+FileChecksum: MD5: 158cb89fee710958f90fc17d93ea3fca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-shared/src/crypto/CryptoBox.ts
+SPDXID: SPDXRef-item11728522
+FileChecksum: SHA1: 688d3ef1fe723b195fb595e5d749f1006825f794
+FileChecksum: SHA256: b3aca7b982926d59c45d497e77788531bb1b3769162182f7d88cb55d41350a37
+FileChecksum: MD5: e6d01cafd93e86d67e80d3b4c4fd2000
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-shared/src/crypto/EncryptedBuffer.ts
+SPDXID: SPDXRef-item11728523
+FileChecksum: SHA1: 795849c1cbc7f9f7fd37dd68aca631947f91fbea
+FileChecksum: SHA256: 8efdd9a8b2502a925b4427167312574b9c46aa64fd4b886264101da6e035ed4c
+FileChecksum: MD5: a267fc088f2b4422956ccfbfe3207d97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-shared/src/crypto/Key.ts
+SPDXID: SPDXRef-item11728524
+FileChecksum: SHA1: b8353b2ef0e3393b02ad90fbaad3a679ce3887b7
+FileChecksum: SHA256: 166ea3a63c685e7c7c1d62dc7561b16957fdbbcfb0eb8d971db930bb67311438
+FileChecksum: MD5: 069713562fdfe6e48d4c19b71b5e3478
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-shared/src/crypto/EcdhEs.ts
+SPDXID: SPDXRef-item11728525
+FileChecksum: SHA1: f10efe8f9ed9e71649524c825c64fb9a187ccc6c
+FileChecksum: SHA256: e41e1f9344a8200d9d88abac32f425d3d644975a35c0053388082d56d56c9a9b
+FileChecksum: MD5: 8917074f935273848c7bbef2c383ba34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-shared/src/crypto/Ecdh1PU.ts
+SPDXID: SPDXRef-item11728526
+FileChecksum: SHA1: 5e49938edad2e294daa4d9d9433517710739f171
+FileChecksum: SHA256: f895cb46260f543fa6f7856fdda24ad768f4016eed9880b4d8bd534eaa19e042
+FileChecksum: MD5: c7e4b02a86529c289b650b580e507edb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-shared/src/crypto/Argon2.ts
+SPDXID: SPDXRef-item11728527
+FileChecksum: SHA1: 3c2fcf075b3ec17151f9c31181be706302141174
+FileChecksum: SHA256: dd83cd0668b66c682043ddca9421c395f7b59e47cc0ce2cd4c48cd20bfc9dd57
+FileChecksum: MD5: a2a4508c0937385acbd049eb3e214529
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-shared/src/crypto/handles.ts
+SPDXID: SPDXRef-item11728528
+FileChecksum: SHA1: 83921d973d24e6c61058aa2e2fc0c8c6f746e58a
+FileChecksum: SHA256: 7a6cbe294dd8c30cf07158bf5414d9ebf0d4ad229024f6ee35bb7b0b9f82f11f
+FileChecksum: MD5: cd7450770b0598124941514a41d55264
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-shared/src/crypto/Jwk.ts
+SPDXID: SPDXRef-item11728529
+FileChecksum: SHA1: 52afdf0dec9161228136d4f518f75501bec5d09a
+FileChecksum: SHA256: 938c5cf0ca25ee7d7732d99c7ff58b9a2d4715c6e7034e0259b823662752c657
+FileChecksum: MD5: fcd581f93c530ff2d1f0a2e09cc698a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-shared/src/crypto/index.ts
+SPDXID: SPDXRef-item11728530
+FileChecksum: SHA1: 00caa41df6d44d04269c78db85b52f52147f3c97
+FileChecksum: SHA256: 5a4412a958e838a175dcc8d18b5ec1a659c966edf256b4d4c0e6ad2f21f6f0ac
+FileChecksum: MD5: b927d764fec3c1253417bab01d860e54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-shared/src/crypto/AeadParams.ts
+SPDXID: SPDXRef-item11728531
+FileChecksum: SHA1: e3338f41645324a1e49ba9028c5c5a5f2c94ad4d
+FileChecksum: SHA256: 3622764ed0c9ff1239c6354399c2147410da3018968d51873d4ee524fd4b74ab
+FileChecksum: MD5: 09f569ece574d19f5636d446d7c5f96a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-shared/src/enums/EntryOperation.ts
+SPDXID: SPDXRef-item11728533
+FileChecksum: SHA1: 241991cc7edf72ce879361cdc95f54d167d3873c
+FileChecksum: SHA256: 2a62fadecbf038e51371f3f98d5d9cdfafcb5156c484ef87657e13545beda5a5
+FileChecksum: MD5: a6f6d7b1c976a5776dba5a2d10716e70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-shared/src/enums/KeyAlgorithm.ts
+SPDXID: SPDXRef-item11728534
+FileChecksum: SHA1: d7fc07cfc8f95995dd343dcdec71d8d3f0a12167
+FileChecksum: SHA256: 3d73f94329169b7b5a377acb069492d06b2c2b63cf1a18704b425bf38c29ad45
+FileChecksum: MD5: 04f99bdc07c48be5f6ad7f07df939e5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-shared/src/enums/LogLevel.ts
+SPDXID: SPDXRef-item11728535
+FileChecksum: SHA1: 5f25af4b3dc6428783439d727b6cd53a2741e1a5
+FileChecksum: SHA256: b416910d96a48af3eecb6ba9e0ae39b611a681c343f8561874ab741c6cf7f861
+FileChecksum: MD5: f8601e053e0c432c36394ba01251649f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-shared/src/enums/SignatureAlgorithm.ts
+SPDXID: SPDXRef-item11728536
+FileChecksum: SHA1: 3056de5a5c2e6fa7666340580669c10bf2887e6d
+FileChecksum: SHA256: 80e8a1debeeb78cc1423cd4dcecf6230c64db6602b31b7ae79719d4611c73dbf
+FileChecksum: MD5: ceca00e4ddb46a7e7e871c862ceeeb15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-shared/src/enums/KeyMethod.ts
+SPDXID: SPDXRef-item11728537
+FileChecksum: SHA1: 26caba16fd98f7406aa4fed6a7382cb5f639e92f
+FileChecksum: SHA256: 4e59b4d427d32a448ada5a823c9eb227dc6b9cf25f7500399b0da925247b3fe3
+FileChecksum: MD5: bff10921de04544a4434d4a12a7746e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-shared/src/enums/index.ts
+SPDXID: SPDXRef-item11728538
+FileChecksum: SHA1: c4ccd449ea7cb1f69a6bcab9977cad554fe36477
+FileChecksum: SHA256: 9c98d8cff76bbb53826a291d1ffbbdd6daf827e7b27627bd109bd9baa7863454
+FileChecksum: MD5: 66a2e1f6afdc4e235c9701f089a81c4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-shared/src/enums/KeyBackend.ts
+SPDXID: SPDXRef-item11728539
+FileChecksum: SHA1: f52d31eb297dc0fdb81e0893078cc4d35c5ff8d2
+FileChecksum: SHA256: d65794ecad403e934cec7df69328ebcbf8413d45adb20eb92f6ee059a51b1936
+FileChecksum: MD5: 8d83b08c478f010ba85ee1c61991f406
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-shared/src/askar/Askar.ts
+SPDXID: SPDXRef-item11728541
+FileChecksum: SHA1: 653f9e6b6fc17738b7801d754c3f47252b1e7276
+FileChecksum: SHA256: 951d9a67c892fefeb6d552f53e6fd84a3fc0b0c07176e7a1e15c85c9226379f7
+FileChecksum: MD5: 05cf0a1b6b4f4ee8c9b7f5e0ea5453b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-shared/src/askar/register.ts
+SPDXID: SPDXRef-item11728542
+FileChecksum: SHA1: 8ce39383e5d4422172ea0c2954dd1efec5123499
+FileChecksum: SHA256: 146034ea85f96dcfd7ae109e58c5a93c697d0bb6a4fa0532a53b279eaab2d909
+FileChecksum: MD5: 4eed85b4a60b81ccdd9870f5c426c29b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-shared/src/askar/index.ts
+SPDXID: SPDXRef-item11728543
+FileChecksum: SHA1: 2b1b59ccbc103b2821283c4130aada6a84f052c3
+FileChecksum: SHA256: 78870b81e2882755d778c65b7a95a1155af75e34bf300ea8d3ba361d1b378205
+FileChecksum: MD5: b21afedc4adaaec52708de993a6907fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-shared/src/index.ts
+SPDXID: SPDXRef-item11728544
+FileChecksum: SHA1: ec3395273d1cce5269ee161fc95313b27a1f9bf6
+FileChecksum: SHA256: 28f5f6e3b4bc42590936a6db96d0a99e95b84c85cd2f95fdf27eae7274dd065a
+FileChecksum: MD5: e865dae33fa38e0b666e2162e08ad408
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-shared/src/store/KeyEntryList.ts
+SPDXID: SPDXRef-item11728546
+FileChecksum: SHA1: 9530e8870570392b1615a53b441b96fefd7fd35e
+FileChecksum: SHA256: 4c81f7728842fde4601c3b50a6c6f24a9f4c5725650d544ec611a60796d5f52f
+FileChecksum: MD5: 8c55a0bf503b5962b9f4ed48cf9804ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-shared/src/store/Scan.ts
+SPDXID: SPDXRef-item11728547
+FileChecksum: SHA1: 4baf0ca7c96a3effb3fc488bd217920abd8066c4
+FileChecksum: SHA256: b2e3264a3d7f6e1d20ee6f1d6e95fa9aeb90faca04e9353aabb6f06d62e6250e
+FileChecksum: MD5: a86410229d6c968714482a58e23cfc6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-shared/src/store/Store.ts
+SPDXID: SPDXRef-item11728548
+FileChecksum: SHA1: f39c4240c5885988fa54ce68340e3b9f6b384ee8
+FileChecksum: SHA256: 8d7eba409b8866eb02f88a53d7c1c91e40b9a44ed4fccadcbe43262549ca3a81
+FileChecksum: MD5: 7b53123866d6502db121874068093fdf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-shared/src/store/EntryList.ts
+SPDXID: SPDXRef-item11728549
+FileChecksum: SHA1: 91e47fadc1843535461f409dd494ebcdf38ca5f7
+FileChecksum: SHA256: cb8305325a2a925ebf19cb0abcf54c8ae98939010b4be70926c9bc029cbd2181
+FileChecksum: MD5: 54c8d657d2925bcb4aa6cbaf64a03502
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-shared/src/store/StoreKeyMethod.ts
+SPDXID: SPDXRef-item11728550
+FileChecksum: SHA1: ef6dc266029067789b21ded78fbaa5edf90a9f04
+FileChecksum: SHA256: 28184be43033bf5972ffe260dd8dfb62d0559768f9f209d4858f309ce8ac028a
+FileChecksum: MD5: 599409ff7a8303c65bafefb29be04851
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-shared/src/store/OpenSession.ts
+SPDXID: SPDXRef-item11728551
+FileChecksum: SHA1: d49124f3932dd40dfc5ba31d3e71a5f3d4b3ec25
+FileChecksum: SHA256: 66558481a8693c3a2bcb9a19551bd6ab87652106ad4c859b5b4d0617f12bac99
+FileChecksum: MD5: 689dbb76ce9979ee235417a7191e7e6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-shared/src/store/Session.ts
+SPDXID: SPDXRef-item11728552
+FileChecksum: SHA1: 3a3e25c770b1629fa49a7d3f464f9ab79f97317e
+FileChecksum: SHA256: f23740d85056ee78ccdc30ae2676d5a73cb6ce63a0583b75cec618770d6f4672
+FileChecksum: MD5: 071109a7c4c6be98cd803263b679478d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-shared/src/store/KeyEntry.ts
+SPDXID: SPDXRef-item11728553
+FileChecksum: SHA1: 8559706cf447a786a6c5ce6e11db9ed7fe777458
+FileChecksum: SHA256: a6301dd58f3e7db378729671fe1df6ae3740a67374f99ce14375813e8653443b
+FileChecksum: MD5: cbeff6dd0e6875a31acaab5adfb07072
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-shared/src/store/Entry.ts
+SPDXID: SPDXRef-item11728554
+FileChecksum: SHA1: a2fb42e3d21fffee810ca67297183df77f12c505
+FileChecksum: SHA256: 677d89ae37c5a04820051a4a0ccf02a6c2a629aa53d98dde0c0591c2da6a20df
+FileChecksum: MD5: 1f9ebf7924ebf67f4e9e6a3316999a5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-shared/src/store/index.ts
+SPDXID: SPDXRef-item11728555
+FileChecksum: SHA1: 869325c94bd897663a1803965a39324152c6d43b
+FileChecksum: SHA256: f80fda5c195911d29f3f70898e786016b66a9544679bfac16bd25e3b478ec2f8
+FileChecksum: MD5: 5be6a84409cfac9bd5f1badd6fe49abc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-shared/CHANGELOG.md
+SPDXID: SPDXRef-item11728556
+FileChecksum: SHA1: 4a84e9a922c7a532faa53111f646f4da3b284224
+FileChecksum: SHA256: 496b529617bb0b868955e3c24c96cd19334eb6b57fa863e4b14b6561642358a8
+FileChecksum: MD5: f380e2386b98cd7c1692f21f7c537d9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-shared/README.md
+SPDXID: SPDXRef-item11728557
+FileChecksum: SHA1: 301728b11f056df8c8c452bed491461617a33c48
+FileChecksum: SHA256: c99e7df584f8bf5b05562eedd37b5b546841ec0a7e8e24d90240003f010524ae
+FileChecksum: MD5: 00284e912d50bd54ad8aa062921c509e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-shared/installBinary.js
+SPDXID: SPDXRef-item11728559
+FileChecksum: SHA1: 88f30743577fd9199ccc52b5459c069104c257c5
+FileChecksum: SHA256: cb7c7d4179d58ed434dbd44368803f56b1b49fc0aee0a8c33ab0768b29dd8148
+FileChecksum: MD5: 942f263a068b03f39fedfade43131fef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-shared/tsconfig.build.json
+SPDXID: SPDXRef-item11728560
+FileChecksum: SHA1: 167f87ab92626e8fa11929890da67615d7068f7b
+FileChecksum: SHA256: b71a4dd616fc5777dbcb6bf4d577ace3a668dc54c9193aa8cee440d0cbaf40b8
+FileChecksum: MD5: 6e82f8db8b85063f73d7e512e5d7f50f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-nodejs/tests/keys.test.ts
+SPDXID: SPDXRef-item11728563
+FileChecksum: SHA1: 0c3014376cbf6f3e1f1cae8b560c94ab1080a4d0
+FileChecksum: SHA256: facd698dee6badd4bb21351c876f2df62f2a67195d4c223fc9feb19f8809712e
+FileChecksum: MD5: 8670cc2b286a59b1625c067177ee513f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-nodejs/tests/error.test.ts
+SPDXID: SPDXRef-item11728564
+FileChecksum: SHA1: 9d311542bf8b43dac22866fab54f75a0efc1fbd9
+FileChecksum: SHA256: 553251baaef388492c7caa3e1087d72d610357bd6ff2bbe66601681451fdbcd2
+FileChecksum: MD5: 36da426b187f6c2d4321088493e1a47d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-nodejs/tests/cryptoBox.test.ts
+SPDXID: SPDXRef-item11728565
+FileChecksum: SHA1: b99104451241f37595def6adb821fd22fe317387
+FileChecksum: SHA256: 83fc5664c6eab69c3a4d7e5d393e3a4242221a1497417f23cf286b8bfae60524
+FileChecksum: MD5: 76ce244367bca168d6be55a951dd9c39
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-nodejs/tests/joseEcdh.test.ts
+SPDXID: SPDXRef-item11728566
+FileChecksum: SHA1: db2d6e40bd6856aa6f30e7bc8b954bf3fb864f6c
+FileChecksum: SHA256: 156e393017dc34085f5245fb74734efe3e3a7f5d62072ddfd7e4cc1bc7a8f73b
+FileChecksum: MD5: fa8dcabeb6cc05940a9514f863442881
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-nodejs/tests/utils/initialize.ts
+SPDXID: SPDXRef-item11728568
+FileChecksum: SHA1: 9dfb2612fcb5675a0e54158d0e449664239344fb
+FileChecksum: SHA256: 7500d91fc9fd36144f2f9027b540c463eb6563683313f57fd8b6c6558d4bdeca
+FileChecksum: MD5: 8b6f2d66719035fefcedd78f351e038c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-nodejs/tests/utils/fixtures.ts
+SPDXID: SPDXRef-item11728569
+FileChecksum: SHA1: b5838269255bb4d89f6326b55fcdbede3961ab76
+FileChecksum: SHA256: 1df3382880f0d9bc140218e6266153309b9999fa0aba307bd078ae76238b3fec
+FileChecksum: MD5: 0760832612ec7bc4a2db14f524c065be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-nodejs/tests/utils/index.ts
+SPDXID: SPDXRef-item11728570
+FileChecksum: SHA1: bd5a065577efaa32ab99870b2586fb07fe26676d
+FileChecksum: SHA256: f3cbe75dfa343f200aa850e072d9e59b35b5ff114b7c1616020722f3d587943e
+FileChecksum: MD5: d026d5dc6241962a03f4d0c919237e8b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-nodejs/tests/indy_wallet_sqlite.db
+SPDXID: SPDXRef-item11728571
+FileChecksum: SHA1: 984d26085f2c1dcd6b93128532333ffec0332992
+FileChecksum: SHA256: 5a6b285bc1ff04f992554fbdf4fc73024bab1ddbd510a763b36b673c57725848
+FileChecksum: MD5: dec8b5a018c3a15e4334b594a490b1c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-nodejs/tests/store.test.ts
+SPDXID: SPDXRef-item11728572
+FileChecksum: SHA1: f75363daf5d515aad780b189d6a969dd25e2bab5
+FileChecksum: SHA256: 638bf11c40ca43ec0cb6b237d99fbcd6c1373a2e61e86ae1130e921cac6812fd
+FileChecksum: MD5: db7a744386131674d65d95b1b220a307
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-nodejs/tests/kdf.test.ts
+SPDXID: SPDXRef-item11728573
+FileChecksum: SHA1: d3a9097e855f176b2daaeb0eac8693175c02044c
+FileChecksum: SHA256: 833b15410af7d0dabca0dfd04abf92b537b91580e786022ee607c54f1365f44b
+FileChecksum: MD5: 3c2bfc65579c1aa067e34ba131315f4e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-nodejs/tests/indy_wallet_sqlite_upgraded.db
+SPDXID: SPDXRef-item11728574
+FileChecksum: SHA1: c296771dd9ffe8e0ea7203ba12718e0a35fa1e75
+FileChecksum: SHA256: 0c8a1b8a150c93af192b8b3af9fcc843ee129b923319fe52324efdc37de76b67
+FileChecksum: MD5: 7cb99d052930b7768ed613ae8d75ea12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-nodejs/tests/migration.test.ts
+SPDXID: SPDXRef-item11728575
+FileChecksum: SHA1: d82314b286efa4c9ca11b73d7cecfc4265f1c058
+FileChecksum: SHA256: 1c6f099d776b1b665e73d191d3d2b1e5bdf87edbb37399099de30ae0b08a5923
+FileChecksum: MD5: 62ca281defccc693370ab8b65bbd14ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-nodejs/tsconfig.json
+SPDXID: SPDXRef-item11728576
+FileChecksum: SHA1: 2b39a5931d04eaa6c030f7b4555c7c942aca62a8
+FileChecksum: SHA256: 546770043b07a6df91478850cddfbe4c8ece5607d50be6016c07b5e5b79ef2ab
+FileChecksum: MD5: 2e7f3da1d7d38bf9dc600129666ab5a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-nodejs/src/library/NativeBindingInterface.ts
+SPDXID: SPDXRef-item11728579
+FileChecksum: SHA1: 72daaab47b92ab9dd0e09644bcd35e8849c30f88
+FileChecksum: SHA256: 0e534e93e43b1cc6ab5581b613c8fa8b20e5305a4b19a6b16c2fdcac74e8574a
+FileChecksum: MD5: 622abc4360eab703ea05874112d88781
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-nodejs/src/library/bindings.ts
+SPDXID: SPDXRef-item11728580
+FileChecksum: SHA1: 4731f9ebf2002453468b0c25a07681f0d09f3418
+FileChecksum: SHA256: 7af9d50376343fc90bb9c29e96bda310f286a76d46f9df08ea4de9e02058227f
+FileChecksum: MD5: 1dd7a62c0820031d3398c3859b4d5651
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-nodejs/src/library/register.ts
+SPDXID: SPDXRef-item11728581
+FileChecksum: SHA1: 153a0e46dfb62422aec31743927c8f8cbdaa5092
+FileChecksum: SHA256: 526bb52078e2c4fae82a89fcfc68710ed85aa2aa3d493d41762a441027e3728e
+FileChecksum: MD5: 0b2e82419275ce3c4f6f0066c09522c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-nodejs/src/library/index.ts
+SPDXID: SPDXRef-item11728582
+FileChecksum: SHA1: 13e59660e0aea889381a753c266f36d3400433a8
+FileChecksum: SHA256: f8fe222a92c16813e3181a1db1dc8d25f39591383c594b6d460ce6925e8e4178
+FileChecksum: MD5: d9ad72824c3da50eb2d1371328236c8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-nodejs/src/NodeJSAskar.ts
+SPDXID: SPDXRef-item11728583
+FileChecksum: SHA1: 9578242dc31b862e55197569207ad921097caf89
+FileChecksum: SHA256: 6ddbba3107e95afd9b13d46eca3370a4edcf7f59bfbdbe3961a0f01bf87ee456
+FileChecksum: MD5: 90062c134aefa63bce03f73463997144
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-nodejs/src/ffi/structures.ts
+SPDXID: SPDXRef-item11728585
+FileChecksum: SHA1: 8ad2be63c6df6d15ded1fac351d46aee73febf5e
+FileChecksum: SHA256: 4d0c05d710ee7c922ff0a98a9bd75d9fa75e06b4d89a934a7f0b40b48bab56e8
+FileChecksum: MD5: 0022fd9fb7f580c52a028904eab4bb10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-nodejs/src/ffi/serialize.ts
+SPDXID: SPDXRef-item11728586
+FileChecksum: SHA1: 51f07f5c8e61d5890188fb6c7765dfd68f85857a
+FileChecksum: SHA256: 5cce4561aa054b74731cc3b2dba5f078327f55fca0cf1be9989486639a327190
+FileChecksum: MD5: b3dd6fe74320e5e59270dc7a5543bc8d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-nodejs/src/ffi/callback.ts
+SPDXID: SPDXRef-item11728587
+FileChecksum: SHA1: 38638427c528da950dc6c2273ae7c82f12121dc8
+FileChecksum: SHA256: 2bd729f218c1f687047c5212248723b2941931d2badf62a4c52f87141decd59e
+FileChecksum: MD5: 6d8d17d70e0ecca52b7aaf37db774551
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-nodejs/src/ffi/alloc.ts
+SPDXID: SPDXRef-item11728588
+FileChecksum: SHA1: 579008109b98ddb9e75f47f7925ce5131299fdbf
+FileChecksum: SHA256: 659dc8476bc6417cd1330d942e717e4ef8525b0c111780d7a29be411673c6886
+FileChecksum: MD5: ebc2bc84a257aecb6513eca9cfdff72f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-nodejs/src/ffi/conversion.ts
+SPDXID: SPDXRef-item11728589
+FileChecksum: SHA1: 2c3e8de0ab215f1aca4c8e8588ad83aef5e2b5f3
+FileChecksum: SHA256: 836372ea8aba011e0765dac5bab337910c703fe03570f5d55f891ae25f5e984e
+FileChecksum: MD5: 8f40338777f1131bfa84203eb452be27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-nodejs/src/ffi/index.ts
+SPDXID: SPDXRef-item11728590
+FileChecksum: SHA1: af167d1d20f992ae6dca20621f9d2351ce5b5e16
+FileChecksum: SHA256: 0dd88a098b56f5b3383dc6d54f97232a00cbb5a1433e10a3d539d4c3c1080cd8
+FileChecksum: MD5: 3adc8d8e56f2a4d3d00b92562505570c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-nodejs/src/ffi/primitives.ts
+SPDXID: SPDXRef-item11728591
+FileChecksum: SHA1: 71449da6afa296f3d8db861fae90b88a61a81166
+FileChecksum: SHA256: 05ba7ec99de4d285437ac718627eaeadeb29d5beeebd554931696639fc4633be
+FileChecksum: MD5: 03e1dd6bfb00ecf98d3eade292457736
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-nodejs/src/index.ts
+SPDXID: SPDXRef-item11728592
+FileChecksum: SHA1: b28e832165e8afdc9c8733493393499faa28ec9b
+FileChecksum: SHA256: 68444cead086c94b9a86d9ec70c96feb85d61e0432bb18a56c3c662e23589572
+FileChecksum: MD5: 32249bb38dfd2680c1e8e2da3145b6a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-nodejs/CHANGELOG.md
+SPDXID: SPDXRef-item11728593
+FileChecksum: SHA1: baa34a2158a240a50659ffe6e87f3476fb56f8bd
+FileChecksum: SHA256: 1da230739808277737b98f7d91d99c78297dd5291b48fafc075ecce0fa6db719
+FileChecksum: MD5: 93fa36173b7dfcd30530e04851cc3f20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-nodejs/scripts/install.js
+SPDXID: SPDXRef-item11728595
+FileChecksum: SHA1: 26ce43f25cf9c237436c52825c32fe8758af3bf3
+FileChecksum: SHA256: 83138bb667ee9d0da21e41720e872814256bb84abc921ead168aadb4d83f1a06
+FileChecksum: MD5: 029d19fcd2f8450af201a8ce3de3d580
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-nodejs/README.md
+SPDXID: SPDXRef-item11728596
+FileChecksum: SHA1: 67daf78c647ed73cbabe0db94786ceb68bc8a06d
+FileChecksum: SHA256: 6c92b483a512971d3ca3fa55d09c701e599fdb410a459607d7a86375ead89666
+FileChecksum: MD5: 5c4c885e6d6c161e6fcb111c10c004f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-nodejs/tsconfig.build.json
+SPDXID: SPDXRef-item11728598
+FileChecksum: SHA1: e2d747f55abeb8a69aa96f45389663dbbafa65f6
+FileChecksum: SHA256: 1c06a21319ef80d90d2745b37232309db97d050610dd085ed2d5f807a3093c90
+FileChecksum: MD5: 0190f3d4032fe8e57ea4174908648435
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-react-native/ios/Askar.h
+SPDXID: SPDXRef-item11728601
+FileChecksum: SHA1: 76625ca4c2ccf2cf21bf3e309664eb11dcb09f2a
+FileChecksum: SHA256: f24d1fe293be418fd86af8eadc19ba81d874f8e65624d4624db8eaf720ae9ad6
+FileChecksum: MD5: aff374a619c6e096815a590f85c85f8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-react-native/ios/AriesAskar.xcodeproj/project.pbxproj
+SPDXID: SPDXRef-item11728603
+FileChecksum: SHA1: 6bb1c085a5cc4db469023ddd9e931f45c3cce5b0
+FileChecksum: SHA256: 1240cebf32d19a664a299869a29aae568cebb28b96383eb0f028f746faffcc48
+FileChecksum: MD5: 772b180d373c6c16d48b5552e802afae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-react-native/ios/Askar.mm
+SPDXID: SPDXRef-item11728604
+FileChecksum: SHA1: e4463da66da662f0a0ec595fd5c315f3e084530f
+FileChecksum: SHA256: 097ff9c2bb54b0b378020cf5b02ca158d425fdaddc5536f984c66df5a7e4862d
+FileChecksum: MD5: ed1f0946154841e6fe1550197a418998
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-react-native/askar.podspec
+SPDXID: SPDXRef-item11728605
+FileChecksum: SHA1: f2e5414b5d8a6d25bdc6b7d10c4717740dcd89ab
+FileChecksum: SHA256: ab30b35d14eddfb737c46cb976402709253e58af02391995788c53a3c59d48c1
+FileChecksum: MD5: dff42d20f402bd32229a71f723d092ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-react-native/cpp/askar.cpp
+SPDXID: SPDXRef-item11728607
+FileChecksum: SHA1: f64240785ea68ee32f6f9243c68dbf0961e8e01c
+FileChecksum: SHA256: 2352f5b00028d8133a0becab66f86596d4df4e87d0280fda18fba84cd8386e20
+FileChecksum: MD5: fafe49c314f8b4b8500d3974a2955962
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-react-native/cpp/askar.h
+SPDXID: SPDXRef-item11728608
+FileChecksum: SHA1: 1579b7ca87c651c4c61299a591ceab01b4afdb33
+FileChecksum: SHA256: 409f5d47b3d767550d7f1ec80786356b6253e9156065bc6be18e65d3f8223da5
+FileChecksum: MD5: 91caf98e92d18fd89057e19c04ef6b42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-react-native/cpp/include/libaries_askar.h
+SPDXID: SPDXRef-item11728610
+FileChecksum: SHA1: e0ce24b4437abeff047251ba7298e8882f857ff3
+FileChecksum: SHA256: e5464d199d2ffcfc34e3d54ba831cb177161583294fdcd7314dd8bd901f28457
+FileChecksum: MD5: 944b0cca37e1937f6150790e9575595f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-react-native/cpp/HostObject.h
+SPDXID: SPDXRef-item11728611
+FileChecksum: SHA1: 0c5da95f8ac7a65946a250cea1b7deaddeb46f10
+FileChecksum: SHA256: 2acd5eebaf65243058598bb80e80d2ada76a3373d0e128fd16d72c88220aca11
+FileChecksum: MD5: f4a0bdeafb073b7ac39d6507ef456f1d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-react-native/cpp/turboModuleUtility.cpp
+SPDXID: SPDXRef-item11728612
+FileChecksum: SHA1: 158ff6f264eb2e5ad6147c2abcf73fb3b4350af9
+FileChecksum: SHA256: 929ddaab363f4eae5b8a0ddd662b81f2535fdccd67fe1b93db22bbf84a530bd9
+FileChecksum: MD5: 7138243019a7a0d92034c6ba26555b02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-react-native/cpp/turboModuleUtility.h
+SPDXID: SPDXRef-item11728613
+FileChecksum: SHA1: c3e8678640bdcbd93fabe343024522c7d5636f2f
+FileChecksum: SHA256: 39d5ccdfe0b67940c7191c0e5f096cfcba05e01e882797a6c017b7d7c8b94a0e
+FileChecksum: MD5: 7d7c50aa32342c79cb1c24d17c47123e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-react-native/cpp/HostObject.cpp
+SPDXID: SPDXRef-item11728614
+FileChecksum: SHA1: e3351f9f0279a9306e1187c06055dfdc475d5a06
+FileChecksum: SHA256: ef9c28a75127691e4dc7fbd9c05768bd1d555bc80beb58c43f5e61a768b855a8
+FileChecksum: MD5: a90625472e3c7784dd38e45fa9ffa5f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-react-native/tsconfig.json
+SPDXID: SPDXRef-item11728616
+FileChecksum: SHA1: b444d310f5a2a80456e563351d8a83a4352391b8
+FileChecksum: SHA256: 85cac40fbcd06b2f1fd189ba5948e7c238ceab41f7229ac6e3665ef0bc5fe9ea
+FileChecksum: MD5: 88e7b25d932ed14c60db03796b9e681c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-react-native/src/serialize.ts
+SPDXID: SPDXRef-item11728618
+FileChecksum: SHA1: d388aa85d652f4b95ffb9d3e5cb0aff9f2dfa3e7
+FileChecksum: SHA256: 07b326af7e104f45f5f2ca952a2a4a6dd621618fbb3875332fbca7aeeba5abe2
+FileChecksum: MD5: c71064670901a0e955548ce987acb219
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-react-native/src/NativeBindings.ts
+SPDXID: SPDXRef-item11728619
+FileChecksum: SHA1: 5a3b56aacc09979798911413a93b5e1c07c33a39
+FileChecksum: SHA256: f4d6955f85c216f982553dffca1ab9a23edd5e068a7c1bb7e5d99b8791cc48ac
+FileChecksum: MD5: 0458602277b21b02d130e49ace5c606b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-react-native/src/ReactNativeAskar.ts
+SPDXID: SPDXRef-item11728620
+FileChecksum: SHA1: d0fcb03b9eb68b7edfd05c83826ed2c7b09d772d
+FileChecksum: SHA256: 8919064d255095578db11e94e2b991cf6c7a7acbbc49bab80c4cd6780392936b
+FileChecksum: MD5: 9457c368bfcdcd3fcd8557b1c3aee05b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-react-native/src/index.ts
+SPDXID: SPDXRef-item11728621
+FileChecksum: SHA1: 796f80b326ad0912fe9c98c81f21f587500ff629
+FileChecksum: SHA256: bc790208844e96fda1c31c15587d5789fd706f66b71eff399204a169974c5968
+FileChecksum: MD5: ce178282311be6dc893871c8be162119
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-react-native/src/specs/NativeAskar.ts
+SPDXID: SPDXRef-item11728623
+FileChecksum: SHA1: 442fde5243a2417079aec72da80c4022338a2be1
+FileChecksum: SHA256: 303232470e1babae9ed4864440008a5e0ef9784489b60fcbf29a292205d72efa
+FileChecksum: MD5: 5b0cffe47002f4600987823721cd19e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-react-native/android/src/main/AndroidManifest.xml
+SPDXID: SPDXRef-item11728627
+FileChecksum: SHA1: e0030136e1fbacab88e4fdeba6093efc0657c7be
+FileChecksum: SHA256: 0b4e95dbbbff9d610348827f5ec4b08ed9f06676b7e4b406412bf37d3eb0493b
+FileChecksum: MD5: 1b6c69b61b917a2b51f3893f3f27e63d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-react-native/android/src/main/java/foundation/openwallet/askar/AskarModule.java
+SPDXID: SPDXRef-item11728632
+FileChecksum: SHA1: 3bab56825815fff835e9c3baea1f058e9edf1041
+FileChecksum: SHA256: dab5afe742e77397222d658f67877f32556406b03327ead180958ae3783a7b76
+FileChecksum: MD5: f308bffaecd0961a072bc5e84bdcc9c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-react-native/android/src/main/java/foundation/openwallet/askar/AskarPackage.java
+SPDXID: SPDXRef-item11728633
+FileChecksum: SHA1: 99f8eee4fdaa4632a2f921590ee398e13259daa4
+FileChecksum: SHA256: 2d77a789ce08a7a36a0f839a0553363907fa90b2e9570c7b153cc4ebb4840608
+FileChecksum: MD5: 9980fa0b97e8be03891c19dadf19856b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-react-native/android/src/main/java/id/animo/SecureEnvironment.java
+SPDXID: SPDXRef-item11728636
+FileChecksum: SHA1: 3dea0d1fa5054669b59c167d5d0ecf45cb8e3810
+FileChecksum: SHA256: e482513e232a08a5567eff96d75a846b908945af0745b46327f0af1a73f270d2
+FileChecksum: MD5: b2949bec611b50ae2dd6fcda170fbb4e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-react-native/android/build.gradle
+SPDXID: SPDXRef-item11728637
+FileChecksum: SHA1: ac83cd469a3ebc83a8ff4b7fe10ca8c6e74508da
+FileChecksum: SHA256: df3e75653bf13c6c49e1a0e29309de9254be16c395f249e6d2712d6f72cb3e8a
+FileChecksum: MD5: 8f7a76802295158593d238052c550527
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-react-native/android/cpp-adapter.cpp
+SPDXID: SPDXRef-item11728638
+FileChecksum: SHA1: 6be8726c67a120ee93fec1d52b1300e49f03c144
+FileChecksum: SHA256: 686fc9f2993558a06fd12c19525bd27bb52fd5d39c85ea74dcab2d95bee2f99a
+FileChecksum: MD5: ab86f5ec465b607c1f1debb53b4edc27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-react-native/android/CMakeLists.txt
+SPDXID: SPDXRef-item11728639
+FileChecksum: SHA1: aa5e9a37a4e480090e11635920910c13404cbc74
+FileChecksum: SHA256: b5cb02c1364527c4a5a14e2b8bb16de86457670a1aa0bbc094ab4da75a75caa2
+FileChecksum: MD5: ec22c5260e366738c7ca5d9abe8b3868
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-react-native/CHANGELOG.md
+SPDXID: SPDXRef-item11728640
+FileChecksum: SHA1: 37d4046094f381b44b85139a0607463418e203e8
+FileChecksum: SHA256: 79e83de3b101de7b79761ecca63da1aba1ef13cb53dfa61ddbe905635dbec923
+FileChecksum: MD5: 3227d1e5ef290e6c9362629495c2637a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-react-native/scripts/install.js
+SPDXID: SPDXRef-item11728642
+FileChecksum: SHA1: 9f41b51d897d269ecd472eacbc7bf4e04a4918ff
+FileChecksum: SHA256: 80082017870713801c045e11f4c306703a32338b27c3276bc878c53ab09e7c3e
+FileChecksum: MD5: 81a22fc27baae322dad9aff90701dc4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-react-native/README.md
+SPDXID: SPDXRef-item11728643
+FileChecksum: SHA1: 8615f2983bb7cd396d3c224551001df0f24defd1
+FileChecksum: SHA256: 1373a656e0236bb6bcd7474fa481b992ef1938f7fc65fd7a479e2bd6fe5664c5
+FileChecksum: MD5: 43e7db4c479878e43ec744cd3d0e15d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/packages/askar-react-native/tsconfig.build.json
+SPDXID: SPDXRef-item11728645
+FileChecksum: SHA1: 75e420a9eff4c9c20934c3d65e59288d3eece56e
+FileChecksum: SHA256: cef9d10a29d60a84afd7b13e87bc6659287b34b3e062a140ec5468154e355bd4
+FileChecksum: MD5: e42f741cd6c4cbb77a216f2970a55fce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/.npmrc
+SPDXID: SPDXRef-item11728647
+FileChecksum: SHA1: d30e8db96398b7ca97dff88f955a3848c9e553e2
+FileChecksum: SHA256: a28c9d86a8981049d203ad164cff1e753ed61dc0460ee8765316cbb3d0007d00
+FileChecksum: MD5: 366a8dc01c61f8b6d82b88ac60c7e81e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/tsconfig.build.json
+SPDXID: SPDXRef-item11728648
+FileChecksum: SHA1: a47d7803e22be1432d715cab051e1aef6e9f477d
+FileChecksum: SHA256: f5d836e96a62eb38e39798dd05c0427d3e50cb80206e212938c74db08c5c82be
+FileChecksum: MD5: a893e70e36e9734d9dfcc5a227c9accc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/biome.json
+SPDXID: SPDXRef-item11728649
+FileChecksum: SHA1: 0ea3b7cbf0467dafa1e7b3cd97a385619043c5dc
+FileChecksum: SHA256: 8e43137ca0b6a569534f59696b3ec7c4cffb72bf8e0e5dc87bbe99bd4bff3b47
+FileChecksum: MD5: 7ab7d114c0b9230658ba086387e7f9ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/MAINTAINERS.md
+SPDXID: SPDXRef-item11728650
+FileChecksum: SHA1: 4af483a69b604dda82e3cce6ecebd76631b98d54
+FileChecksum: SHA256: e7980db51d2a78de7bb2a05b8c4612e790bd339666051e887fa646572e65141e
+FileChecksum: MD5: 7de01c2f2363546283368f4994ddabc4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/.changeset/commit.js
+SPDXID: SPDXRef-item11728652
+FileChecksum: SHA1: 84b1fe0e196a4f22ec1e7c50a0ddcc21dc9f4187
+FileChecksum: SHA256: 792bcda23709860709c3938fa6dabb136ed37ab64ea7848f650699fab3249ef5
+FileChecksum: MD5: abf5c31617d0bbf768cd20e9bd247007
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: Askar-2025-11-15.zip/askar-wrapper-javascript/.changeset/config.json
+SPDXID: SPDXRef-item11728653
+FileChecksum: SHA1: 7da5498d16fbb06e78254d22104b30d4c58329fc
+FileChecksum: SHA256: 43937dcf5749b50814eb62b0c277854d02f4f1e837beb9f57fd9c1b726764694
+FileChecksum: MD5: 610339bbe888e265855c0a7ca146d3d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-RSA-possibility
+LicenseName: RSA-possibility
+ExtractedText: <text> License by Nomos. </text>
+
