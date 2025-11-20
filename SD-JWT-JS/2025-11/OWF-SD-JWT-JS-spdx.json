@@ -1,0 +1,157 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-11-20T13:57:05Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/tmp/tmpjizvbugj/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpjizvbugj/code-89409bf4-bfeb-4857-b90b-703523383b88",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Application-1da9546f05b40a99",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "sd-jwt-js/pnpm-lock.yaml",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project OWF",
+            "versionInfo": "06d7cc469143d42106389d3e8c5fd4519abb12a9"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3211734acbd4f8a9",
+            "description": "Audited & minimal 0-dependency JS implementation of SHA, RIPEMD, BLAKE, HMAC, HKDF, PBKDF & Scrypt",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/%40noble/hashes@2.0.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://paulmillr.com/noble/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "@noble/hashes",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: sd-jwt-js/pnpm-lock.yaml",
+            "supplier": "Organization: Paul Miller",
+            "versionInfo": "2.0.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-bde7d46f6fc339d2",
+            "description": "Yet another Base64 transcoder in pure-JS",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/js-base64@3.7.8",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/dankogai/js-base64#readme",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "js-base64",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: sd-jwt-js/pnpm-lock.yaml",
+            "versionInfo": "3.7.8"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a2f48eacefdb4488",
+            "description": "zlib port to javascript - fast, modularized, with browser support",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/pako@2.1.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/nodeca/pako#readme",
+            "licenseConcluded": "MIT AND MIT AND Zlib AND MIT AND Zlib AND Zlib AND Zlib AND Zlib AND Zlib AND MIT",
+            "licenseDeclared": "MIT AND Zlib",
+            "name": "pako",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: sd-jwt-js/pnpm-lock.yaml",
+            "supplier": "Organization: Nodeca",
+            "versionInfo": "2.1.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Filesystem-f8426c1182690746",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND ISC",
+            "licenseDeclared": "Apache-2.0",
+            "name": "OWF.SD-JWT-JS",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project OWF",
+            "versionInfo": "2025-11"
+        },
+        {
+            "SPDXID": "SPDXRef-OWF-SD-JWT-JS-sd-jwt-js",
+            "comment": "This package was added to the Trivy analysis for the sd-jwt-js by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/openwallet-foundation/sd-jwt-js/archive/06d7cc469143d42106389d3e8c5fd4519abb12a9.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/openwallet-foundation/sd-jwt-js@06d7cc469143d42106389d3e8c5fd4519abb12a9",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND ISC",
+            "licenseDeclared": "Apache-2.0",
+            "name": "sd-jwt-js",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project OWF",
+            "supplier": "Organization: Linux Foundation Project OWF",
+            "versionInfo": "06d7cc469143d42106389d3e8c5fd4519abb12a9"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Application-1da9546f05b40a99",
+            "relatedSpdxElement": "SPDXRef-Package-3211734acbd4f8a9",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-1da9546f05b40a99",
+            "relatedSpdxElement": "SPDXRef-Package-a2f48eacefdb4488",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-1da9546f05b40a99",
+            "relatedSpdxElement": "SPDXRef-Package-bde7d46f6fc339d2",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-OWF-SD-JWT-JS-sd-jwt-js",
+            "relatedSpdxElement": "SPDXRef-Application-1da9546f05b40a99",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-f8426c1182690746",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-f8426c1182690746",
+            "relatedSpdxElement": "SPDXRef-OWF-SD-JWT-JS-sd-jwt-js",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
